@@ -70,3 +70,10 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-07-17T15:47:19Z,2026-07-17T18:51:53.454493+03:00,_0,1903b2559960,,Archiepiskopou Makariou III Ave,0
 2026-07-17T15:47:19Z,2026-07-17T18:51:53.454493+03:00,_1,660d388bb733,Lemesou Ave,Archiepiskopou Makariou III Ave,2
 2026-07-17T15:47:19Z,2026-07-17T18:51:53.454493+03:00,_2,f7f1e6fbecb6,Lemesou Ave,Evagorou Ave,0
+2026-07-17T16:54:04Z,2026-07-17T19:58:38.382790+03:00,_0,72b03ff9b5bc,E110,E110 - Agias Fylaxeos,0
+2026-07-17T16:54:04Z,2026-07-17T19:58:38.382790+03:00,_1,e50ca2ecb1e0,E110 - 1 Apriliou,,3
+2026-07-17T16:54:04Z,2026-07-17T19:58:38.382790+03:00,_2,ce0d49cab8a3,E110 - Agias Fylaxeos,E147 - Archiepiskopou Makariou III Ave,0
+2026-07-17T16:54:04Z,2026-07-17T19:58:38.382790+03:00,_3,535964c57235,Agias Filaxeos,E147 - Archiepiskopou Makariou III Ave,4
+2026-07-17T16:54:04Z,2026-07-17T19:58:38.382790+03:00,_0,0299ed13c1f9,Exit 24 >E127 Germasogeia / E113 Lemesos-Centre,Kato Polemidia,0
+2026-07-17T16:54:04Z,2026-07-17T19:58:38.382790+03:00,_1,ce239bce6647,Kato Polemidia,Kato Polemidia,2
+2026-07-17T16:54:04Z,2026-07-17T19:58:38.382790+03:00,_2,8e8cea011a58,Ypsonas,"to A6 > Pafos, Pafos Airport",0
