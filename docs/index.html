@@ -1,0 +1,485 @@
+<!doctype html>
+<html lang="el">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Κυκλοφορία Λευκωσίας — Live (Waze/CyNAP)</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<style>
+  .viz-root{
+    color-scheme: light;
+    --surface-1:#fcfcfb; --plane:#f9f9f7;
+    --ink-1:#0b0b0b; --ink-2:#52514e; --ink-3:#898781;
+    --grid:#e1e0d9; --axis:#c3c2b7; --ring:rgba(11,11,11,0.10);
+    --s1:#2a78d6;
+    --meter-track:#cde2fb;
+    --crit:#d03b3b; --warn:#fab219;
+  }
+  @media (prefers-color-scheme: dark){
+    :root:where(:not([data-theme="light"])) .viz-root{
+      color-scheme: dark;
+      --surface-1:#1a1a19; --plane:#0d0d0d;
+      --ink-1:#ffffff; --ink-2:#c3c2b7; --ink-3:#898781;
+      --grid:#2c2c2a; --axis:#383835; --ring:rgba(255,255,255,0.10);
+      --s1:#3987e5;
+      --meter-track:#184f95;
+      --crit:#d03b3b; --warn:#fab219;
+    }
+  }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  body{font-family:system-ui,-apple-system,"Segoe UI",sans-serif;}
+  .viz-root{background:var(--plane);color:var(--ink-1);min-height:100vh;padding:18px 16px 40px;font-size:14px;line-height:1.45;}
+  .wrap{max-width:1240px;margin:0 auto;}
+  h1{font-size:20px;font-weight:650;}
+  .sub{color:var(--ink-2);font-size:12.5px;margin:2px 0 14px;}
+  .sub a{color:inherit;}
+  .filters{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:14px;}
+  .seg{display:flex;border:1px solid var(--ring);border-radius:8px;overflow:hidden;background:var(--surface-1);}
+  .seg button{border:none;background:none;color:var(--ink-2);padding:7px 13px;font:inherit;font-size:13px;cursor:pointer;}
+  .seg button.on{background:var(--s1);color:#fff;font-weight:600;}
+  .btn{border:1px solid var(--ring);background:var(--surface-1);color:var(--ink-2);border-radius:8px;padding:7px 13px;font:inherit;font-size:13px;cursor:pointer;}
+  .stamp{margin-left:auto;color:var(--ink-3);font-size:12px;}
+  .tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:10px;margin-bottom:14px;}
+  .tile{background:var(--surface-1);border:1px solid var(--ring);border-radius:10px;padding:12px 14px;}
+  .tile .lbl{color:var(--ink-2);font-size:12px;}
+  .tile .val{font-size:30px;font-weight:650;margin-top:2px;}
+  .tile .sml{color:var(--ink-3);font-size:11.5px;margin-top:2px;}
+  .cards{display:grid;grid-template-columns:1fr 1fr;gap:12px;}
+  .card{background:var(--surface-1);border:1px solid var(--ring);border-radius:10px;padding:14px 16px;min-width:0;}
+  .card.full{grid-column:1 / -1;}
+  .card h2{font-size:14px;font-weight:650;margin-bottom:2px;}
+  .card .note{color:var(--ink-3);font-size:11.5px;margin-bottom:8px;}
+  svg text{font-family:inherit;}
+  .axis-t{fill:var(--ink-3);font-size:10.5px;}
+  .dlabel{fill:var(--ink-2);font-size:10.5px;font-weight:600;}
+  #map{height:430px;border-radius:8px;background:var(--plane);}
+  table{border-collapse:collapse;width:100%;font-size:12.5px;}
+  th{color:var(--ink-2);font-weight:600;text-align:left;border-bottom:1px solid var(--axis);padding:5px 8px;}
+  td{border-bottom:1px solid var(--grid);padding:5px 8px;vertical-align:middle;}
+  td.num,th.num{text-align:right;font-variant-numeric:tabular-nums;}
+  .meter{height:8px;border-radius:4px;background:var(--meter-track);min-width:60px;position:relative;overflow:hidden;}
+  .meter i{position:absolute;inset:0 auto 0 0;background:var(--s1);border-radius:4px;}
+  .tt{position:fixed;pointer-events:none;background:var(--surface-1);border:1px solid var(--ring);border-radius:8px;box-shadow:0 4px 14px rgba(0,0,0,.12);padding:8px 11px;font-size:12px;z-index:1000;display:none;max-width:280px;}
+  .tt .v{font-size:15px;font-weight:650;}
+  .tt .l{color:var(--ink-2);}
+  .load{opacity:.45;pointer-events:none;}
+  .err{background:var(--surface-1);border:1px solid var(--crit);border-radius:10px;padding:12px 16px;color:var(--ink-1);margin-bottom:12px;display:none;}
+  .maplegend{display:flex;gap:6px;align-items:center;font-size:11.5px;color:var(--ink-2);margin-top:6px;flex-wrap:wrap;}
+  .swb{display:inline-block;width:22px;height:8px;border-radius:4px;}
+  @media (max-width:900px){ .cards{grid-template-columns:1fr;} }
+</style>
+</head>
+<body class="viz-root">
+<div class="wrap">
+  <h1>Κυκλοφορία Λευκωσίας — ζωντανή εικόνα &amp; χρονοσειρά</h1>
+  <div class="sub">Πηγή: Waze feeds μέσω CyNAP/ΤΔΕ (CC BY 4.0) · καταγραφή ανά 10΄ στο
+    <a href="https://github.com/mezzarr/cyprus-traffic-log" target="_blank" rel="noopener">cyprus-traffic-log</a> ·
+    «Συμφόρηση» = παρατήρηση με jam level ≥ 2 (κλίμακα 0–5) · ώρες σε τοπική ώρα Κύπρου</div>
+
+  <div class="err" id="err"></div>
+
+  <div class="filters" id="filters">
+    <div class="seg" id="rangeSeg" role="group" aria-label="Χρονικό εύρος">
+      <button data-days="1">Σήμερα</button>
+      <button data-days="7">7 ημέρες</button>
+      <button data-days="30">30 ημέρες</button>
+      <button data-days="0" class="on">Όλα</button>
+    </div>
+    <div class="seg" id="areaSeg" role="group" aria-label="Περιοχή">
+      <button data-area="nic" class="on">Μητροπ. Λευκωσία</button>
+      <button data-area="all">Όλη η Κύπρος</button>
+    </div>
+    <button class="btn" id="refresh">⟳ Ανανέωση</button>
+    <span class="stamp" id="stamp">φόρτωση…</span>
+  </div>
+
+  <div id="content" class="load">
+    <div class="tiles" id="tiles"></div>
+    <div class="cards">
+      <div class="card full">
+        <h2>Χάρτης συμφόρησης</h2>
+        <div class="note">Τμήματα χρωματισμένα κατά ποσοστό χρόνου με συμφόρηση (επιλεγμένο εύρος) · κόκκινες κουκκίδες = πρόσφατα alerts (7 ημ.) · κλικ σε τμήμα για στοιχεία</div>
+        <div id="map"></div>
+        <div class="maplegend"><span>% χρόνου με συμφόρηση:</span>
+          <span class="swb" style="background:#86b6ef"></span>~0%
+          <span class="swb" style="background:#5598e7"></span>&lt;5%
+          <span class="swb" style="background:#2a78d6"></span>&lt;12%
+          <span class="swb" style="background:#1c5cab"></span>&lt;30%
+          <span class="swb" style="background:#0d366b"></span>30%+
+        </div>
+      </div>
+      <div class="card">
+        <h2>Ωριαίο προφίλ συμφόρησης</h2>
+        <div class="note">% παρατηρήσεων με jam ≥ 2 ανά ώρα (τοπική ώρα)</div>
+        <div id="hourly"></div>
+      </div>
+      <div class="card">
+        <h2>Ημερήσια εξέλιξη</h2>
+        <div class="note">% παρατηρήσεων με jam ≥ 2 ανά ημέρα</div>
+        <div id="daily"></div>
+      </div>
+      <div class="card">
+        <h2>Κατάταξη τμημάτων</h2>
+        <div class="note">Πού μποτιλιάρει συχνότερα (ελάχ. 10 παρατηρήσεις)</div>
+        <div id="streets" style="max-height:360px;overflow:auto;"></div>
+      </div>
+      <div class="card">
+        <h2>Alerts</h2>
+        <div class="note">Νέα συμβάντα στο επιλεγμένο εύρος, ανά τύπο — και τα 15 πιο πρόσφατα</div>
+        <div id="alertbars"></div>
+        <div id="alertlist" style="max-height:220px;overflow:auto;margin-top:8px;"></div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="tt" id="tt"></div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+"use strict";
+const BASE = "https://raw.githubusercontent.com/mezzarr/cyprus-traffic-log/main/";
+const START = { y: 2026, m: 7 };
+const NIC_BBOX = { minLon: 33.18, maxLon: 33.52, minLat: 35.02, maxLat: 35.26 };
+const $ = id => document.getElementById(id);
+const tt = $("tt");
+
+/* ---------- CSV (quote-aware) ---------- */
+function parseCSV(text){
+  const rows = []; let row = [], cur = "", q = false;
+  for (let i = 0; i < text.length; i++){
+    const c = text[i];
+    if (q){
+      if (c === '"'){ if (text[i+1] === '"'){ cur += '"'; i++; } else q = false; }
+      else cur += c;
+    } else if (c === '"') q = true;
+    else if (c === ','){ row.push(cur); cur = ""; }
+    else if (c === '\n'){ row.push(cur); cur = ""; if (row.some(x => x !== "")) rows.push(row); row = []; }
+    else if (c !== '\r') cur += c;
+  }
+  if (cur !== "" || row.length){ row.push(cur); if (row.some(x => x !== "")) rows.push(row); }
+  return rows;
+}
+async function fetchCSV(path, optional){
+  const r = await fetch(BASE + path + "?t=" + Date.now());
+  if (!r.ok){ if (optional) return null; throw new Error(path + " → HTTP " + r.status); }
+  const rows = parseCSV(await r.text());
+  const head = rows.shift() || [];
+  return rows.map(cells => Object.fromEntries(head.map((h, i) => [h, cells[i] ?? ""])));
+}
+function monthList(){
+  const out = []; const now = new Date();
+  let y = START.y, m = START.m;
+  const endY = now.getUTCFullYear(), endM = now.getUTCMonth() + 1;
+  while (y < endY || (y === endY && m <= endM)){
+    out.push(y + "-" + String(m).padStart(2, "0"));
+    m++; if (m > 12){ m = 1; y++; }
+  }
+  return out;
+}
+
+/* ---------- time helpers (Cyprus local) ---------- */
+const fmtHour = new Intl.DateTimeFormat("en-GB", { timeZone: "Asia/Nicosia", hour: "2-digit", hour12: false });
+const fmtDay  = new Intl.DateTimeFormat("sv-SE", { timeZone: "Asia/Nicosia", year: "numeric", month: "2-digit", day: "2-digit" });
+const fmtNice = new Intl.DateTimeFormat("el-GR", { timeZone: "Asia/Nicosia", day: "numeric", month: "short", hour: "2-digit", minute: "2-digit" });
+const cyHour = d => parseInt(fmtHour.format(d), 10) % 24;
+const cyDay  = d => fmtDay.format(d);
+
+/* ---------- state ---------- */
+let OBS = [], GEOMS = new Map(), ALERTS = [];
+let rangeDays = 0, area = "nic";
+let map = null, segLayer = null, alertLayer = null;
+
+function wktCenter(wkt){
+  const m = wkt.match(/-?\d+\.\d+ -?\d+\.\d+/g);
+  if (!m) return null;
+  let lon = 0, lat = 0;
+  m.forEach(p => { const [x, y] = p.split(" ").map(Number); lon += x; lat += y; });
+  return [lat / m.length, lon / m.length];
+}
+function wktLatLngs(wkt){
+  const m = wkt.match(/-?\d+\.\d+ -?\d+\.\d+/g) || [];
+  return m.map(p => { const [x, y] = p.split(" ").map(Number); return [y, x]; });
+}
+function inNicosia(center){
+  return center && center[1] >= NIC_BBOX.minLon && center[1] <= NIC_BBOX.maxLon
+              && center[0] >= NIC_BBOX.minLat && center[0] <= NIC_BBOX.maxLat;
+}
+
+/* ---------- load ---------- */
+async function loadAll(){
+  $("content").classList.add("load");
+  $("stamp").textContent = "φόρτωση…";
+  try{
+    const months = monthList();
+    const [geomRows, ...rest] = await Promise.all([
+      fetchCSV("data/traffic/geometries.csv"),
+      ...months.map(mo => fetchCSV("data/traffic/obs_" + mo + ".csv", true)),
+      ...months.map(mo => fetchCSV("data/alerts/alerts_" + mo + ".csv", true)),
+    ]);
+    const obsParts = rest.slice(0, months.length).filter(Boolean);
+    const alertParts = rest.slice(months.length).filter(Boolean);
+    GEOMS = new Map();
+    geomRows.forEach(g => {
+      const c = wktCenter(g.wkt || "");
+      GEOMS.set(g.geom_hash, { ...g, center: c, nic: inNicosia(c) });
+    });
+    OBS = obsParts.flat().map(o => {
+      const d = new Date(o.fetched_utc);
+      return { ...o, d, lvl: parseInt(o.jam_level, 10) || 0, day: cyDay(d), hr: cyHour(d) };
+    }).filter(o => !isNaN(o.d));
+    ALERTS = alertParts.flat().map(a => {
+      const d = new Date(a.first_seen_utc);
+      const c = wktCenter(a.wkt || "");
+      return { ...a, d, center: c, nic: inNicosia(c) };
+    }).filter(a => !isNaN(a.d));
+    render();
+    $("err").style.display = "none";
+  } catch(e){
+    $("err").textContent = "Σφάλμα φόρτωσης δεδομένων: " + e.message + " — δοκίμασε Ανανέωση· αν επιμένει, έλεγξε σύνδεση/repo.";
+    $("err").style.display = "block";
+    $("stamp").textContent = "σφάλμα";
+  }
+  $("content").classList.remove("load");
+}
+
+/* ---------- filtering ---------- */
+function slice(){
+  const now = Date.now();
+  const cut = rangeDays ? now - rangeDays * 86400e3 : 0;
+  const obs = OBS.filter(o => o.d.getTime() >= cut && (area === "all" || (GEOMS.get(o.geom_hash) || {}).nic));
+  const alerts = ALERTS.filter(a => a.d.getTime() >= cut && (area === "all" || a.nic));
+  return { obs, alerts };
+}
+
+/* ---------- tooltip ---------- */
+function showTT(html, x, y){
+  tt.innerHTML = html;
+  tt.style.display = "block";
+  const w = tt.offsetWidth, h = tt.offsetHeight;
+  tt.style.left = Math.min(x + 14, innerWidth - w - 8) + "px";
+  tt.style.top  = Math.min(y + 14, innerHeight - h - 8) + "px";
+}
+function hideTT(){ tt.style.display = "none"; }
+function esc(s){ const d = document.createElement("i"); d.textContent = s ?? ""; return d.innerHTML; }
+
+/* ---------- charts ---------- */
+function barChart(el, data, labelEvery, xName){
+  // data: [{x, pct, n}]
+  const W = el.clientWidth || 520, H = 210, P = { l: 34, r: 6, t: 14, b: 22 };
+  const max = Math.max(5, ...data.map(d => d.pct));
+  const top = Math.ceil(max / 5) * 5;
+  const iw = W - P.l - P.r, ih = H - P.t - P.b;
+  const bw = Math.min(24, iw / data.length - 2);
+  let s = `<svg width="${W}" height="${H}" role="img">`;
+  for (let g = 0; g <= 4; g++){
+    const yv = top * g / 4, y = P.t + ih - ih * g / 4;
+    s += `<line x1="${P.l}" y1="${y}" x2="${W - P.r}" y2="${y}" stroke="var(--grid)" stroke-width="1"/>`;
+    s += `<text class="axis-t" x="${P.l - 5}" y="${y + 3}" text-anchor="end">${yv}%</text>`;
+  }
+  const best = data.reduce((a, b) => (b.pct > a.pct ? b : a), data[0] || { pct: -1 });
+  data.forEach((d, i) => {
+    const cx = P.l + iw * (i + 0.5) / data.length;
+    const h = ih * d.pct / top;
+    const y = P.t + ih - h;
+    s += `<path d="M${cx - bw/2},${P.t + ih} L${cx - bw/2},${y + 4} Q${cx - bw/2},${y} ${cx - bw/2 + 4},${y} L${cx + bw/2 - 4},${y} Q${cx + bw/2},${y} ${cx + bw/2},${y + 4} L${cx + bw/2},${P.t + ih} Z" fill="var(--s1)" data-i="${i}"/>`;
+    if (i % labelEvery === 0)
+      s += `<text class="axis-t" x="${cx}" y="${H - 6}" text-anchor="middle">${esc(String(d.x))}</text>`;
+    if (d === best && d.pct > 0)
+      s += `<text class="dlabel" x="${cx}" y="${y - 5}" text-anchor="middle">${d.pct.toFixed(0)}%</text>`;
+  });
+  s += `<line x1="${P.l}" y1="${P.t + ih}" x2="${W - P.r}" y2="${P.t + ih}" stroke="var(--axis)" stroke-width="1"/></svg>`;
+  el.innerHTML = s;
+  const svg = el.firstChild;
+  svg.addEventListener("pointermove", e => {
+    const t = e.target.closest("[data-i]");
+    if (!t){ hideTT(); return; }
+    const d = data[+t.dataset.i];
+    showTT(`<div class="v">${d.pct.toFixed(1)}%</div><div class="l">${esc(xName)} ${esc(String(d.x))} · ${d.n} παρατηρήσεις</div>`, e.clientX, e.clientY);
+  });
+  svg.addEventListener("pointerleave", hideTT);
+}
+
+function lineChart(el, data){
+  // data: [{x(label), pct, n}]
+  const W = el.clientWidth || 520, H = 210, P = { l: 34, r: 12, t: 14, b: 22 };
+  const max = Math.max(5, ...data.map(d => d.pct));
+  const top = Math.ceil(max / 5) * 5;
+  const iw = W - P.l - P.r, ih = H - P.t - P.b;
+  const X = i => P.l + (data.length === 1 ? iw / 2 : iw * i / (data.length - 1));
+  const Y = v => P.t + ih - ih * v / top;
+  let s = `<svg width="${W}" height="${H}" role="img">`;
+  for (let g = 0; g <= 4; g++){
+    const y = P.t + ih - ih * g / 4;
+    s += `<line x1="${P.l}" y1="${y}" x2="${W - P.r}" y2="${y}" stroke="var(--grid)" stroke-width="1"/>`;
+    s += `<text class="axis-t" x="${P.l - 5}" y="${y + 3}" text-anchor="end">${top * g / 4}%</text>`;
+  }
+  const lab = Math.max(1, Math.ceil(data.length / 8));
+  data.forEach((d, i) => { if (i % lab === 0)
+    s += `<text class="axis-t" x="${X(i)}" y="${H - 6}" text-anchor="middle">${esc(d.x.slice(8))}/${esc(d.x.slice(5, 7))}</text>`; });
+  if (data.length){
+    s += `<path d="${data.map((d, i) => (i ? "L" : "M") + X(i) + "," + Y(d.pct)).join(" ")}" fill="none" stroke="var(--s1)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>`;
+    const last = data[data.length - 1];
+    s += `<circle cx="${X(data.length - 1)}" cy="${Y(last.pct)}" r="4.5" fill="var(--s1)" stroke="var(--surface-1)" stroke-width="2"/>`;
+    s += `<text class="dlabel" x="${X(data.length - 1) - 6}" y="${Y(last.pct) - 8}" text-anchor="end">${last.pct.toFixed(0)}%</text>`;
+  }
+  s += `<line id="ch" x1="0" y1="${P.t}" x2="0" y2="${P.t + ih}" stroke="var(--axis)" stroke-width="1" opacity="0"/>`;
+  s += `<line x1="${P.l}" y1="${P.t + ih}" x2="${W - P.r}" y2="${P.t + ih}" stroke="var(--axis)" stroke-width="1"/></svg>`;
+  el.innerHTML = s;
+  const svg = el.firstChild, ch = svg.querySelector("#ch");
+  svg.addEventListener("pointermove", e => {
+    if (!data.length) return;
+    const r = svg.getBoundingClientRect();
+    const px = e.clientX - r.left;
+    let best = 0, bd = 1e9;
+    data.forEach((d, i) => { const dd = Math.abs(X(i) - px); if (dd < bd){ bd = dd; best = i; } });
+    ch.setAttribute("x1", X(best)); ch.setAttribute("x2", X(best)); ch.setAttribute("opacity", "1");
+    const d = data[best];
+    showTT(`<div class="v">${d.pct.toFixed(1)}%</div><div class="l">${esc(d.x)} · ${d.n} παρατηρήσεις · ${d.jams} με συμφόρηση</div>`, e.clientX, e.clientY);
+  });
+  svg.addEventListener("pointerleave", () => { ch.setAttribute("opacity", "0"); hideTT(); });
+}
+
+/* ---------- render ---------- */
+function render(){
+  const { obs, alerts } = slice();
+
+  /* tiles */
+  const jams = obs.filter(o => o.lvl >= 2);
+  const geomsInSlice = new Set(obs.map(o => o.geom_hash));
+  const lastFetch = OBS.length ? OBS.reduce((a, b) => (b.d > a.d ? b : a)).d : null;
+  const latestObs = lastFetch ? OBS.filter(o => Math.abs(o.d - lastFetch) < 60e3 && (area === "all" || (GEOMS.get(o.geom_hash) || {}).nic)) : [];
+  const nowJams = latestObs.filter(o => o.lvl >= 2).length;
+  const days = new Set(obs.map(o => o.day)).size;
+  const t = [
+    ["Τώρα σε συμφόρηση", nowJams, lastFetch ? "λήψη " + fmtNice.format(lastFetch) : "—"],
+    ["Παρατηρήσεις", obs.length.toLocaleString("el"), days + " ημέρες καταγραφής"],
+    ["Με συμφόρηση (≥2)", obs.length ? (100 * jams.length / obs.length).toFixed(1) + "%" : "—", jams.length.toLocaleString("el") + " παρατηρήσεις"],
+    ["Τμήματα", geomsInSlice.size, "μοναδικές γεωμετρίες"],
+    ["Alerts", alerts.length.toLocaleString("el"), "νέα στο εύρος"],
+  ];
+  $("tiles").innerHTML = t.map(x => `<div class="tile"><div class="lbl">${x[0]}</div><div class="val">${x[1]}</div><div class="sml">${x[2]}</div></div>`).join("");
+  $("stamp").textContent = lastFetch ? "τελευταία λήψη: " + fmtNice.format(lastFetch) : "χωρίς δεδομένα";
+
+  /* hourly */
+  const byH = Array.from({ length: 24 }, (_, h) => ({ x: h, n: 0, j: 0 }));
+  obs.forEach(o => { byH[o.hr].n++; if (o.lvl >= 2) byH[o.hr].j++; });
+  barChart($("hourly"), byH.map(d => ({ x: d.x, n: d.n, pct: d.n ? 100 * d.j / d.n : 0 })), 3, "ώρα");
+
+  /* daily */
+  const byD = {};
+  obs.forEach(o => { (byD[o.day] = byD[o.day] || { n: 0, j: 0 }); byD[o.day].n++; if (o.lvl >= 2) byD[o.day].j++; });
+  const dd = Object.keys(byD).sort().map(k => ({ x: k, n: byD[k].n, jams: byD[k].j, pct: 100 * byD[k].j / byD[k].n }));
+  lineChart($("daily"), dd);
+
+  /* streets table */
+  const byG = {};
+  obs.forEach(o => { (byG[o.geom_hash] = byG[o.geom_hash] || { n: 0, j: 0, mx: 0 }); const g = byG[o.geom_hash]; g.n++; if (o.lvl >= 2) g.j++; g.mx = Math.max(g.mx, o.lvl); });
+  const rows = Object.entries(byG).filter(([, v]) => v.n >= 10)
+    .map(([h, v]) => ({ h, ...v, pct: 100 * v.j / v.n, g: GEOMS.get(h) }))
+    .sort((a, b) => b.pct - a.pct).slice(0, 25);
+  const tb = document.createElement("table");
+  tb.innerHTML = `<thead><tr><th>Τμήμα</th><th class="num">Παρατ.</th><th class="num">% συμφ.</th><th style="width:80px"></th><th class="num">max</th></tr></thead>`;
+  const tbody = document.createElement("tbody");
+  rows.forEach(r => {
+    const tr = document.createElement("tr");
+    const name = document.createElement("td");
+    name.textContent = (r.g?.street_from || "—") + (r.g?.street_to ? " → " + r.g.street_to : "");
+    const n = document.createElement("td"); n.className = "num"; n.textContent = r.n;
+    const p = document.createElement("td"); p.className = "num"; p.textContent = r.pct.toFixed(1) + "%";
+    const m = document.createElement("td");
+    m.innerHTML = `<div class="meter"><i style="width:${Math.min(100, r.pct * 3)}%"></i></div>`;
+    const mx = document.createElement("td"); mx.className = "num"; mx.textContent = r.mx;
+    tr.append(name, n, p, m, mx); tbody.appendChild(tr);
+  });
+  tb.appendChild(tbody);
+  const wrap = $("streets"); wrap.innerHTML = ""; wrap.appendChild(tb);
+  if (!rows.length) wrap.innerHTML = '<div class="note">Χρειάζονται ≥10 παρατηρήσεις ανά τμήμα — μάζεψε λίγες ώρες ακόμη.</div>';
+
+  /* alerts */
+  const byT = {};
+  alerts.forEach(a => { byT[a.type || "—"] = (byT[a.type || "—"] || 0) + 1; });
+  const at = Object.entries(byT).sort((a, b) => b[1] - a[1]);
+  const maxA = Math.max(1, ...at.map(x => x[1]));
+  $("alertbars").innerHTML = at.map(([k, v]) =>
+    `<div style="display:flex;align-items:center;gap:8px;margin:3px 0;">
+       <span style="width:130px;color:var(--ink-2);font-size:12px;">${esc(k)}</span>
+       <div class="meter" style="flex:1"><i style="width:${100 * v / maxA}%"></i></div>
+       <span class="num" style="width:46px;text-align:right;font-variant-numeric:tabular-nums;">${v}</span>
+     </div>`).join("") || '<div class="note">Κανένα alert στο εύρος.</div>';
+  const al = document.createElement("table");
+  al.innerHTML = "<thead><tr><th>Πότε</th><th>Τύπος</th><th>Οδός</th></tr></thead>";
+  const albody = document.createElement("tbody");
+  alerts.sort((a, b) => b.d - a.d).slice(0, 15).forEach(a => {
+    const tr = document.createElement("tr");
+    const c1 = document.createElement("td"); c1.textContent = fmtNice.format(a.d);
+    const c2 = document.createElement("td"); c2.textContent = (a.type || "") + (a.subtype ? " · " + a.subtype.replace(/^HAZARD_/, "") : "");
+    const c3 = document.createElement("td"); c3.textContent = a.street || "—";
+    tr.append(c1, c2, c3); albody.appendChild(tr);
+  });
+  al.appendChild(albody);
+  const alw = $("alertlist"); alw.innerHTML = ""; alw.appendChild(al);
+
+  renderMap(rowsFromByG(byG), alerts);
+}
+function rowsFromByG(byG){
+  return Object.entries(byG).map(([h, v]) => ({ h, ...v, pct: v.n ? 100 * v.j / v.n : 0, g: GEOMS.get(h) })).filter(r => r.g && r.g.wkt);
+}
+
+/* ---------- map ---------- */
+/* Ordinal ramp validated (dataviz validator, light surface) — fixed hexes because
+   polylines render on light OSM tiles regardless of UI theme. */
+const MAP_RAMP = ["#86b6ef", "#5598e7", "#2a78d6", "#1c5cab", "#0d366b"];
+function seqColor(pct){
+  if (pct <= 0.5) return MAP_RAMP[0];
+  if (pct < 5)   return MAP_RAMP[1];
+  if (pct < 12)  return MAP_RAMP[2];
+  if (pct < 30)  return MAP_RAMP[3];
+  return MAP_RAMP[4];
+}
+function renderMap(rows, alerts){
+  if (typeof L === "undefined"){ $("map").innerHTML = '<div class="note" style="padding:20px">Ο χάρτης θέλει σύνδεση στο internet (Leaflet/OSM).</div>'; return; }
+  if (!map){
+    map = L.map("map").setView([35.14, 33.35], 12);
+    L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+      attribution: '© OpenStreetMap', maxZoom: 18,
+    }).addTo(map);
+  }
+  if (segLayer) segLayer.remove();
+  if (alertLayer) alertLayer.remove();
+  segLayer = L.layerGroup().addTo(map);
+  rows.forEach(r => {
+    const ll = wktLatLngs(r.g.wkt);
+    if (ll.length < 2) return;
+    const pl = L.polyline(ll, { color: seqColor(r.pct), weight: r.pct >= 12 ? 5 : 3, opacity: 0.9 });
+    const name = (r.g.street_from || "—") + (r.g.street_to ? " → " + r.g.street_to : "");
+    pl.bindPopup(`<b>${esc(name)}</b><br>${r.pct.toFixed(1)}% συμφόρηση · ${r.n} παρατ. · max level ${r.mx}`);
+    pl.addTo(segLayer);
+  });
+  alertLayer = L.layerGroup().addTo(map);
+  const cut = Date.now() - 7 * 86400e3;
+  alerts.filter(a => a.center && a.d.getTime() >= cut).forEach(a => {
+    L.circleMarker(a.center, { radius: 4, color: "#d03b3b", weight: 1.5, fillOpacity: 0.5 })
+     .bindPopup(`<b>${esc(a.type || "")}</b> ${esc(a.subtype || "")}<br>${esc(a.street || "")}<br>${fmtNice.format(a.d)}`)
+     .addTo(alertLayer);
+  });
+}
+
+/* ---------- wiring ---------- */
+$("rangeSeg").addEventListener("click", e => {
+  const b = e.target.closest("button"); if (!b) return;
+  [...$("rangeSeg").children].forEach(x => x.classList.remove("on"));
+  b.classList.add("on"); rangeDays = +b.dataset.days; render();
+});
+$("areaSeg").addEventListener("click", e => {
+  const b = e.target.closest("button"); if (!b) return;
+  [...$("areaSeg").children].forEach(x => x.classList.remove("on"));
+  b.classList.add("on"); area = b.dataset.area; render();
+  if (map) map.setView(area === "nic" ? [35.14, 33.35] : [35.0, 33.2], area === "nic" ? 12 : 9);
+});
+$("refresh").addEventListener("click", loadAll);
+addEventListener("resize", () => { if (OBS.length) render(); });
+loadAll();
+setInterval(loadAll, 10 * 60e3);
+</script>
+</body>
+</html>
