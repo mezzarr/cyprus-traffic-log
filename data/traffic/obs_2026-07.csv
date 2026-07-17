@@ -15,3 +15,14 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-07-17T10:51:59Z,2026-07-17T13:56:04.605049+03:00,_0,a621b9829dc1,Exit 24 >E127 Germasogeia / E113 Lemesos-Centre,A6,0
 2026-07-17T10:51:59Z,2026-07-17T13:56:04.605049+03:00,_1,fcc252ee8f23,A1,Kato Polemidia,2
 2026-07-17T10:51:59Z,2026-07-17T13:56:04.605049+03:00,_2,5052820d4346,A1,"to A6 > Pafos, Pafos Airport",0
+2026-07-17T11:07:37Z,2026-07-17T14:12:11.595189+03:00,_0,acb430b8e822,Strovolos,Archiepiskopou Makariou III Ave,0
+2026-07-17T11:07:37Z,2026-07-17T14:12:11.595189+03:00,_1,394713f228bd,Lemesou Ave,Lemesou Ave,3
+2026-07-17T11:07:37Z,2026-07-17T14:12:11.595189+03:00,_0,a359d7f879e7,E110,E147 - Archiepiskopou Makariou III Ave,0
+2026-07-17T11:07:37Z,2026-07-17T14:12:11.595189+03:00,_1,46e4c4dd26b1,Agias Filaxeos,E147 - Archiepiskopou Makariou III Ave,2
+2026-07-17T11:07:37Z,2026-07-17T14:12:11.595189+03:00,_0,391ae18682fa,Episkopi,> A1 Lefkosia / (A5) Larnaka / (A5)(A3) Larnaka Airport,0
+2026-07-17T11:07:37Z,2026-07-17T14:12:11.595189+03:00,_1,cafc026927d2,Germasogeia,Germasogeia,4
+2026-07-17T11:07:37Z,2026-07-17T14:12:11.595189+03:00,_0,21071115abc5,,> A1 Lefkosia / (A5) Larnaka / (A5)(A3) Larnaka Airport,0
+2026-07-17T11:07:37Z,2026-07-17T14:12:11.595189+03:00,_1,3d69df352bf6,Germasogeia,Agios Tychonas,4
+2026-07-17T11:07:37Z,2026-07-17T14:12:11.595189+03:00,_2,03d2cef6c66a,Parekklisia,Archiepiskopou Makariou III Ave,0
+2026-07-17T11:07:37Z,2026-07-17T14:12:11.595189+03:00,_3,6efde239cabf,Lemesou Ave,Archiepiskopou Makariou III Ave,3
+2026-07-17T11:07:37Z,2026-07-17T14:12:11.595189+03:00,_4,f7f1e6fbecb6,Lemesou Ave,Evagorou Ave,0
