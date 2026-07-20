@@ -188,3 +188,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-07-20T14:53:59Z,2026-07-20T17:58:35.854391+03:00,_2,7c50b274239b,Aglantzia,E164 - Armenias,0
 2026-07-20T14:53:59Z,2026-07-20T17:58:35.854391+03:00,_3,43f05193c4b0,Lemesou Ave,Archiepiskopou Makariou III Ave,3
 2026-07-20T14:53:59Z,2026-07-20T17:58:35.854391+03:00,_4,f7f1e6fbecb6,Lemesou Ave,Evagorou Ave,0
+2026-07-20T16:24:35Z,2026-07-20T19:29:10.005063+03:00,_0,807a263ccec7,E147 - Archiepiskopou Makariou III Ave,Agias Filaxeos,0
+2026-07-20T16:24:35Z,2026-07-20T19:29:10.005063+03:00,_1,a4260c51b19c,Steliou Kyriakidi,,3
+2026-07-20T16:24:35Z,2026-07-20T19:29:10.005063+03:00,_2,f5f94ff22484,Agias Filaxeos,E110,0
