@@ -263,3 +263,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-07-21T16:48:55Z,2026-07-21T19:53:31.220487+03:00,_0,807a263ccec7,E147 - Archiepiskopou Makariou III Ave,Agias Filaxeos,0
 2026-07-21T16:48:55Z,2026-07-21T19:53:31.220487+03:00,_1,a4260c51b19c,Steliou Kyriakidi,,4
 2026-07-21T16:48:55Z,2026-07-21T19:53:31.220487+03:00,_2,f5f94ff22484,Agias Filaxeos,E110,0
+2026-07-21T18:04:16Z,2026-07-21T21:08:51.865125+03:00,_0,30c85ba515ee,,B18 - Digeni Akrita Ave,0
+2026-07-21T18:04:16Z,2026-07-21T21:08:51.865125+03:00,_1,aabab5b0e87d,Archiepiskopou Makariou III Ave,B18 - Georgiou Griva Digeni Ave,3
+2026-07-21T18:04:16Z,2026-07-21T21:08:51.865125+03:00,_2,e1beab30434a,Archiepiskopou Makariou III Ave,Evagorou Ave,0
