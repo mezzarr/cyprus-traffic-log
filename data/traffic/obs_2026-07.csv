@@ -244,3 +244,19 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-07-21T13:03:36Z,2026-07-21T16:08:11.926117+03:00,_0,06afc6492b14,Exit 24 >E127 Germasogeia / E113 Lemesos-Centre,Germasogeia,0
 2026-07-21T13:03:36Z,2026-07-21T16:08:11.926117+03:00,_1,c0f129731113,Agios Athanasios,Mesa Geitonia,1
 2026-07-21T13:03:36Z,2026-07-21T16:08:11.926117+03:00,_2,0df26c3b855b,Lemesos,"to A6 > Pafos, Pafos Airport",0
+2026-07-21T15:15:47Z,2026-07-21T18:20:23.250703+03:00,_0,69fc3b9dbbdd,Strovolos,Archiepiskopou Makariou III Ave,0
+2026-07-21T15:15:47Z,2026-07-21T18:20:23.250703+03:00,_1,c57daf65c80e,Lemesou Ave,Archiepiskopou Makariou III Ave,2
+2026-07-21T15:15:47Z,2026-07-21T18:20:23.250703+03:00,_0,807a263ccec7,E147 - Archiepiskopou Makariou III Ave,Agias Filaxeos,0
+2026-07-21T15:15:47Z,2026-07-21T18:20:23.250703+03:00,_1,a4260c51b19c,Steliou Kyriakidi,,4
+2026-07-21T15:15:47Z,2026-07-21T18:20:23.250703+03:00,_2,f5f94ff22484,Agias Filaxeos,E110,0
+2026-07-21T15:15:47Z,2026-07-21T18:20:23.250703+03:00,_0,31c9b775d03b,E110,E110 - Agias Fylaxeos,0
+2026-07-21T15:15:47Z,2026-07-21T18:20:23.250703+03:00,_1,9f80d2b8e678,E110 - 1 Apriliou,,2
+2026-07-21T15:15:47Z,2026-07-21T18:20:23.250703+03:00,_2,e2b4d39e1fd4,E110 - Agias Fylaxeos,E147 - Archiepiskopou Makariou III Ave,0
+2026-07-21T15:15:47Z,2026-07-21T18:20:23.250703+03:00,_3,afcda84a293b,Agias Filaxeos,E147 - Archiepiskopou Makariou III Ave,3
+2026-07-21T15:15:47Z,2026-07-21T18:20:23.250703+03:00,_0,21071115abc5,,> A1 Lefkosia / (A5) Larnaka / (A5)(A3) Larnaka Airport,0
+2026-07-21T15:15:47Z,2026-07-21T18:20:23.250703+03:00,_1,b26392a0c648,Germasogeia,Mouttagiaka,2
+2026-07-21T15:15:47Z,2026-07-21T18:20:23.250703+03:00,_2,25acc766db72,Mouttagiaka,Archiepiskopou Makariou III Ave,0
+2026-07-21T15:15:47Z,2026-07-21T18:20:23.250703+03:00,_3,43f05193c4b0,Lemesou Ave,Archiepiskopou Makariou III Ave,2
+2026-07-21T15:15:47Z,2026-07-21T18:20:23.250703+03:00,_4,f7f1e6fbecb6,Lemesou Ave,Evagorou Ave,0
+2026-07-21T15:15:47Z,2026-07-21T18:20:23.250703+03:00,_0,391ae18682fa,Episkopi,> A1 Lefkosia / (A5) Larnaka / (A5)(A3) Larnaka Airport,0
+2026-07-21T15:15:47Z,2026-07-21T18:20:23.250703+03:00,_1,cafc026927d2,Germasogeia,Germasogeia,2
