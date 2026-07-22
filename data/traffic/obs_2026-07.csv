@@ -311,3 +311,13 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-07-22T06:17:05Z,2026-07-22T09:21:41.239227+03:00,_0,9b57a1fd19bb,Episkopi,Kato Polemidia,0
 2026-07-22T06:17:05Z,2026-07-22T09:21:41.239227+03:00,_1,33bef9b5a9ab,Lemesos,Exit 26 >E114 Mesa Geitonia / Lemesos-Centre / F131 Mathikoloni,1
 2026-07-22T06:17:05Z,2026-07-22T09:21:41.239227+03:00,_2,d73a04fc5195,Exit 26 >E114 Mesa Geitonia / Lemesos-Centre / F131 Mathikoloni,Germasogeia,0
+2026-07-22T09:03:34Z,2026-07-22T12:08:09.996155+03:00,_0,72b03ff9b5bc,E110,E110 - Agias Fylaxeos,0
+2026-07-22T09:03:34Z,2026-07-22T12:08:09.996155+03:00,_1,e50ca2ecb1e0,E110 - 1 Apriliou,,2
+2026-07-22T09:03:34Z,2026-07-22T12:08:09.996155+03:00,_2,20e4174f50d7,E110 - Agias Fylaxeos,Agias Filaxeos,0
+2026-07-22T09:03:34Z,2026-07-22T12:08:09.996155+03:00,_3,991be992343a,Vasileos Georgiou II,E147 - Archiepiskopou Makariou III Ave,2
+2026-07-22T09:03:34Z,2026-07-22T12:08:09.996155+03:00,_0,26ee8f360113,E147 - Archiepiskopou Makariou III Ave,Agias Filaxeos,0
+2026-07-22T09:03:34Z,2026-07-22T12:08:09.996155+03:00,_1,d309bae8d50e,E147 - Archiepiskopou Makariou III Ave,Vasileos Georgiou II,2
+2026-07-22T09:03:34Z,2026-07-22T12:08:09.996155+03:00,_2,62f9e9861a53,Agias Filaxeos,E110,0
+2026-07-22T09:03:34Z,2026-07-22T12:08:09.996155+03:00,_0,ee7dd077aa5c,,Archiepiskopou Makariou III Ave,0
+2026-07-22T09:03:34Z,2026-07-22T12:08:09.996155+03:00,_1,798c594a6669,Archiepiskopou Makariou III Ave,B18 - Georgiou Griva Digeni Ave,2
+2026-07-22T09:03:34Z,2026-07-22T12:08:09.996155+03:00,_2,e1beab30434a,Archiepiskopou Makariou III Ave,Evagorou Ave,0
