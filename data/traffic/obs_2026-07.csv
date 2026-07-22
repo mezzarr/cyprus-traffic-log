@@ -348,3 +348,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-07-22T15:04:47Z,2026-07-22T18:09:24.853032+03:00,_2,8f0cb9252b8c,> A1 Lefkosia / (A5) Larnaka / (A5)(A3) Larnaka Airport,Evagorou Ave,0
 2026-07-22T15:04:47Z,2026-07-22T18:09:24.853032+03:00,_0,391ae18682fa,Episkopi,> A1 Lefkosia / (A5) Larnaka / (A5)(A3) Larnaka Airport,0
 2026-07-22T15:04:47Z,2026-07-22T18:09:24.853032+03:00,_1,cafc026927d2,Germasogeia,Germasogeia,2
+2026-07-22T16:41:57Z,2026-07-22T19:46:33.762776+03:00,_0,fa57010483c2,,Latsia,0
+2026-07-22T16:41:57Z,2026-07-22T19:46:33.762776+03:00,_1,b719fae297da,Latsia,Latsia,3
+2026-07-22T16:41:57Z,2026-07-22T19:46:33.762776+03:00,_2,965ba8379ef7,Latsia,Evagorou Ave,0
