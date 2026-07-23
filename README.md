@@ -24,6 +24,10 @@ data/traffic/geometries.csv     geom_hash -> WKT LINESTRING (WGS84), street from
 data/alerts/alerts_YYYY-MM.csv  one row per NEW alert id:
                                 first_seen_utc, alert_id, type, subtype, street,
                                 report_time, wkt
+data/motion/delays_YYYY-MM.csv  GTFS-RT bus delays, one row per active NPT
+                                (Nicosia) trip per snapshot: fetched_utc,
+                                route_id, trip_id, last_stop_seq, delay_s
+                                (negative = ahead of schedule)
 raw/<feed>/YYYY/MM/DD_HH00Z.xml.gz   hourly raw DATEX II snapshots
 data/health.csv                 feed outages (utc, feed, error) — appended when a
                                 feed stays unreachable/unparseable after retries
