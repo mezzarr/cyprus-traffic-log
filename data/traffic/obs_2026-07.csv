@@ -833,3 +833,9 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-07-23T16:05:18Z,2026-07-23T19:09:54.463810+03:00,_2,687b3bc647ee,Nisou,Archiepiskopou Makariou III Ave,0
 2026-07-23T16:05:18Z,2026-07-23T19:09:54.463810+03:00,_3,6efde239cabf,Lemesou Ave,Archiepiskopou Makariou III Ave,3
 2026-07-23T16:05:18Z,2026-07-23T19:09:54.463810+03:00,_4,f7f1e6fbecb6,Lemesou Ave,Evagorou Ave,0
+2026-07-23T16:15:44Z,2026-07-23T19:20:21.004604+03:00,_0,807a263ccec7,E147 - Archiepiskopou Makariou III Ave,Agias Filaxeos,0
+2026-07-23T16:15:44Z,2026-07-23T19:20:21.004604+03:00,_1,a4260c51b19c,Steliou Kyriakidi,,4
+2026-07-23T16:15:44Z,2026-07-23T19:20:21.004604+03:00,_2,f5f94ff22484,Agias Filaxeos,E110,0
+2026-07-23T16:15:44Z,2026-07-23T19:20:21.004604+03:00,_0,5c3d1eb2232b,,Nisou,0
+2026-07-23T16:15:44Z,2026-07-23T19:20:21.004604+03:00,_1,3c46754bddbe,Nisou,Nisou,4
+2026-07-23T16:15:44Z,2026-07-23T19:20:21.004604+03:00,_2,a53678aec47a,Nisou,Evagorou Ave,0
