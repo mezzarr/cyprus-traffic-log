@@ -874,3 +874,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-07-23T17:06:07Z,2026-07-23T20:10:44.142696+03:00,_2,5fc94a2a95f0,Nisou,E1302 - Nikis Ave,0
 2026-07-23T17:06:07Z,2026-07-23T20:10:44.142696+03:00,_3,910016111853,B18 - Georgiou Griva Digeni Ave,B18 - Georgiou Griva Digeni Ave,4
 2026-07-23T17:06:07Z,2026-07-23T20:10:44.142696+03:00,_4,bbf67e32aa17,B18 - Georgiou Griva Digeni Ave,Evagorou Ave,0
+2026-07-23T17:16:34Z,2026-07-23T20:21:10.551036+03:00,_0,5c3d1eb2232b,,Nisou,0
+2026-07-23T17:16:34Z,2026-07-23T20:21:10.551036+03:00,_1,3c46754bddbe,Nisou,Nisou,3
+2026-07-23T17:16:34Z,2026-07-23T20:21:10.551036+03:00,_2,a53678aec47a,Nisou,Evagorou Ave,0
