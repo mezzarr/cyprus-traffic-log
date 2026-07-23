@@ -20,6 +20,9 @@ FEEDS = {
     "swarco_bt": ("https://www.traffic4cyprus.org.cy/swarco3/api/Data/PredefinedLocationDataPublication",
                   r"travelTime[^>]*>(-?[\d.]+)<|<speed[^>]*>(-?[\d.]+)<"),
 }
+# TN-ITS daily road-attribute changes (PWD): speed limits etc. A change on our
+# corridors is the first public trace of any reclassification/calming decision.
+TNITS_URL = "https://fixcyprus.cy/gnosis/tnits/latest/"
 
 
 def main():
@@ -50,6 +53,29 @@ def main():
             print(f"[{stamp}] {feed}: *** LIVE DATA *** {live} nonzero values — snapshot saved")
         else:
             print(f"[{stamp}] {feed}: still hollow ({len(vals)} values, all zero/absent)")
+
+    # --- TN-ITS: yesterday's road-attribute changes ---
+    try:
+        req = urllib.request.Request(TNITS_URL, headers={"User-Agent": "cyprus-traffic-log/1.0"})
+        with urllib.request.urlopen(req, timeout=60) as r:
+            x = r.read().decode("utf-8", "replace")
+        n_changes = len(re.findall(r"<(?:\w+:)?roadFeature\b|<(?:\w+:)?update\b|<(?:\w+:)?change\b", x, re.I))
+        if n_changes:
+            outdir = os.path.join(ROOT, "raw", "tnits")
+            os.makedirs(outdir, exist_ok=True)
+            with open(os.path.join(outdir, now.strftime("%Y-%m-%d") + ".xml"), "w", encoding="utf-8") as f:
+                f.write(x)
+            health = os.path.join(ROOT, "data", "health.csv")
+            new = not os.path.exists(health)
+            with open(health, "a", encoding="utf-8") as f:
+                if new:
+                    f.write("utc,feed,error\n")
+                f.write(f"{stamp},tnits,CHANGES: {n_changes} road-attribute updates published — check raw/tnits\n")
+            print(f"[{stamp}] tnits: {n_changes} attribute changes — snapshot saved")
+        else:
+            print(f"[{stamp}] tnits: no changes published")
+    except Exception as e:  # noqa: BLE001
+        print(f"[{stamp}] tnits: unreachable ({type(e).__name__}) — fine, probe only")
     return 0
 
 
