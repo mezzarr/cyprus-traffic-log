@@ -38,6 +38,7 @@ jobs:
             done
             git push
           }
+          python3 swarco_probe.py || true
           for i in $(seq 1 16); do
             python3 logger.py
             python3 tomtom_logger.py || true
