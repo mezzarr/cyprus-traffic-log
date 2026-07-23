@@ -27,6 +27,12 @@ data/alerts/alerts_YYYY-MM.csv  one row per NEW alert id:
 raw/<feed>/YYYY/MM/DD_HH00Z.xml.gz   hourly raw DATEX II snapshots
 data/health.csv                 feed outages (utc, feed, error) — appended when a
                                 feed stays unreachable/unparseable after retries
+data/tomtom/tt_YYYY-MM.csv      TomTom Routing travel times for 25 corridors
+                                (routes.json), both directions: fetched_utc,
+                                route_id, direction, length_m, travel_s,
+                                freeflow_s, delay_s. Delay for analysis =
+                                travel_s - freeflow_s. Peak-focused sampling
+                                to stay within the free API tier.
 ```
 
 Note: up to 2026-07-23 the cron ran ~7x/day due to GitHub schedule throttling

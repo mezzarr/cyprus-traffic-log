@@ -1,0 +1,7 @@
+fetched_utc,route_id,direction,length_m,travel_s,freeflow_s,delay_s
+2026-07-23T14:36:36Z,strovolou,ab,5400,621,504,0
+2026-07-23T14:36:36Z,strovolou,ba,5074,783,557,0
+2026-07-23T14:36:36Z,tseriou,ab,3240,367,284,0
+2026-07-23T14:36:36Z,tseriou,ba,3739,538,372,0
+2026-07-23T14:36:36Z,prodromou,ab,2418,302,254,0
+2026-07-23T14:36:36Z,prodromou,ba,2414,363,299,0

@@ -24,6 +24,8 @@ jobs:
       - uses: actions/checkout@v5
 
       - name: Log every 10 minutes, push every 30
+        env:
+          TOMTOM_API_KEY: ${{ secrets.TOMTOM_API_KEY }}
         run: |
           git config user.name "waze-logger-bot"
           git config user.email "actions@users.noreply.github.com"
@@ -38,6 +40,7 @@ jobs:
           }
           for i in $(seq 1 16); do
             python3 logger.py
+            python3 tomtom_logger.py || true
             git add -A data raw
             if ! git diff --cached --quiet; then
               git commit -m "log $(date -u +'%Y-%m-%d %H:%M')Z"
