@@ -30,7 +30,9 @@ jobs:
           push_retry() {
             for t in 1 2 3; do
               if git push; then return 0; fi
-              git pull --rebase
+              # CSVs merge with union (.gitattributes), so appends from a
+              # concurrent run auto-resolve; abort+merge as last resort.
+              git pull --rebase || { git rebase --abort 2>/dev/null || true; git pull --no-rebase --no-edit || true; }
             done
             git push
           }
@@ -40,7 +42,7 @@ jobs:
             if ! git diff --cached --quiet; then
               git commit -m "log $(date -u +'%Y-%m-%d %H:%M')Z"
             fi
-            if [ $((i % 3)) -eq 0 ]; then push_retry; fi
+            if [ $((i % 3)) -eq 0 ]; then push_retry || true; fi
             if [ "$i" -lt 16 ]; then sleep 600; fi
           done
           push_retry
