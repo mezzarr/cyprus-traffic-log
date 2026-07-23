@@ -893,3 +893,12 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-07-23T17:26:38Z,2026-07-23T20:31:16.474234+03:00,_4,c6e235d3222a,Aglantzia,Archiepiskopou Makariou III Ave,0
 2026-07-23T17:26:38Z,2026-07-23T20:31:16.474234+03:00,_5,6efde239cabf,Lemesou Ave,Archiepiskopou Makariou III Ave,3
 2026-07-23T17:26:38Z,2026-07-23T20:31:16.474234+03:00,_6,f7f1e6fbecb6,Lemesou Ave,Evagorou Ave,0
+2026-07-23T17:36:44Z,2026-07-23T20:41:20.674732+03:00,_0,fe72ea2b224f,Strovolos,Lemesou Ave,0
+2026-07-23T17:36:44Z,2026-07-23T20:41:20.674732+03:00,_1,1c3025f6d361,Strovolos,Lemesou Ave,3
+2026-07-23T17:36:44Z,2026-07-23T20:41:20.674732+03:00,_2,c6e235d3222a,Aglantzia,Archiepiskopou Makariou III Ave,0
+2026-07-23T17:36:44Z,2026-07-23T20:41:20.674732+03:00,_3,394713f228bd,Lemesou Ave,Lemesou Ave,2
+2026-07-23T17:36:44Z,2026-07-23T20:41:20.674732+03:00,_0,d0dc64f54734,,Lemesou Ave,0
+2026-07-23T17:36:44Z,2026-07-23T20:41:20.674732+03:00,_1,1c3025f6d361,Strovolos,Lemesou Ave,3
+2026-07-23T17:36:44Z,2026-07-23T20:41:20.674732+03:00,_2,c6e235d3222a,Aglantzia,Archiepiskopou Makariou III Ave,0
+2026-07-23T17:36:44Z,2026-07-23T20:41:20.674732+03:00,_3,6efde239cabf,Lemesou Ave,Archiepiskopou Makariou III Ave,2
+2026-07-23T17:36:44Z,2026-07-23T20:41:20.674732+03:00,_4,f7f1e6fbecb6,Lemesou Ave,Evagorou Ave,0
