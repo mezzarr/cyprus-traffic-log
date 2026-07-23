@@ -384,3 +384,15 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-07-23T07:23:31Z,2026-07-23T10:28:07.757931+03:00,_0,2459eb632a9a,Exit 24 >E127 Germasogeia / E113 Lemesos-Centre,Lemesos,0
 2026-07-23T07:23:31Z,2026-07-23T10:28:07.757931+03:00,_1,e1dac3423766,Lemesos,Lemesos,1
 2026-07-23T07:23:31Z,2026-07-23T10:28:07.757931+03:00,_2,ef93f4872b51,Lemesos,"to A6 > Pafos, Pafos Airport",0
+2026-07-23T08:50:43Z,2026-07-23T11:55:19.821994+03:00,_0,69fc3b9dbbdd,Strovolos,Archiepiskopou Makariou III Ave,0
+2026-07-23T08:50:43Z,2026-07-23T11:55:19.821994+03:00,_1,c57daf65c80e,Lemesou Ave,Archiepiskopou Makariou III Ave,3
+2026-07-23T08:50:43Z,2026-07-23T11:55:19.821994+03:00,_0,15ae2e1d5817,E147 - Archiepiskopou Makariou III Ave,Agias Filaxeos,0
+2026-07-23T08:50:43Z,2026-07-23T11:55:19.821994+03:00,_1,c774fd37f419,Agias Filaxeos,Agias Filaxeos,3
+2026-07-23T08:50:43Z,2026-07-23T11:55:19.821994+03:00,_2,bbd3d4041441,Agias Filaxeos,Agias Filaxeos,0
+2026-07-23T08:50:43Z,2026-07-23T11:55:19.821994+03:00,_3,a4260c51b19c,Steliou Kyriakidi,,3
+2026-07-23T08:50:43Z,2026-07-23T11:55:19.821994+03:00,_4,f5f94ff22484,Agias Filaxeos,E110,0
+2026-07-23T08:50:43Z,2026-07-23T11:55:19.821994+03:00,_0,cdd9246a055f,E110,E147 - Archiepiskopou Makariou III Ave,0
+2026-07-23T08:50:43Z,2026-07-23T11:55:19.821994+03:00,_1,f8a1b1df72c7,Agias Filaxeos,E147 - Archiepiskopou Makariou III Ave,2
+2026-07-23T08:50:43Z,2026-07-23T11:55:19.821994+03:00,_0,daca33dbcb0d,,Archiepiskopou Makariou III Ave,0
+2026-07-23T08:50:43Z,2026-07-23T11:55:19.821994+03:00,_1,43f05193c4b0,Lemesou Ave,Archiepiskopou Makariou III Ave,3
+2026-07-23T08:50:43Z,2026-07-23T11:55:19.821994+03:00,_2,f7f1e6fbecb6,Lemesou Ave,Evagorou Ave,0
