@@ -29,17 +29,27 @@ def local(tag):
     return tag.split("}")[-1]
 
 
-def fetch(url, tries=3):
+class FeedError(RuntimeError):
+    """Feed unreachable or returned an unparseable body after retries."""
+
+
+def fetch_parsed(url, tries=4):
+    """Fetch AND parse with retries: the server sometimes answers HTTP 200
+    with an HTML error page, so parse failures retry exactly like fetch
+    failures. Raises FeedError when the feed stays unusable."""
     last = None
     for i in range(tries):
         try:
             req = urllib.request.Request(url, headers=UA)
             with urllib.request.urlopen(req, timeout=90) as r:
-                return r.read()
+                xml_bytes = r.read()
+            pub_time, records = parse(xml_bytes)
+            return xml_bytes, pub_time, records
         except Exception as e:  # noqa: BLE001 - log-and-retry by design
             last = e
-            time.sleep(10 * (i + 1))
-    raise RuntimeError(f"fetch failed for {url}: {last}")
+            if i < tries - 1:
+                time.sleep(10 * (i + 1))
+    raise FeedError(f"{url}: {type(last).__name__}: {last}")
 
 
 def walk_comments(elem):
@@ -151,6 +161,12 @@ def save_raw_hourly(feed, xml_bytes, now):
     return True
 
 
+def log_health(stamp, feed, err):
+    append_rows(os.path.join(ROOT, "data", "health.csv"),
+                ["utc", "feed", "error"],
+                [[stamp, feed, str(err)[:300]]])
+
+
 def main():
     now = datetime.now(timezone.utc)
     stamp = now.strftime("%Y-%m-%dT%H:%M:%SZ")
@@ -158,9 +174,31 @@ def main():
     summary = []
 
     # --- traffic ---
-    xml_t = fetch(FEEDS["traffic"])
+    try:
+        xml_t, pub, recs = fetch_parsed(FEEDS["traffic"])
+    except FeedError as e:
+        log_health(stamp, "traffic", e)
+        summary.append("traffic: UNAVAILABLE (logged to health.csv)")
+        xml_t = None
+    if xml_t is not None:
+        _log_traffic(now, stamp, month, xml_t, pub, recs, summary)
+
+    # --- alerts (append only newly seen alert ids) ---
+    try:
+        xml_a, pub_a, recs_a = fetch_parsed(FEEDS["alerts"])
+    except FeedError as e:
+        log_health(stamp, "alerts", e)
+        summary.append("alerts: UNAVAILABLE (logged to health.csv)")
+        xml_a = None
+    if xml_a is not None:
+        _log_alerts(now, stamp, month, xml_a, recs_a, summary)
+
+    print(f"[{stamp}] " + " | ".join(summary))
+    return 0
+
+
+def _log_traffic(now, stamp, month, xml_t, pub, recs, summary):
     raw_saved = save_raw_hourly("traffic", xml_t, now)
-    pub, recs = parse(xml_t)
     geom_path = os.path.join(ROOT, "data", "traffic", "geometries.csv")
     obs_path = os.path.join(ROOT, "data", "traffic", f"obs_{month}.csv")
     known_geoms = known_column(geom_path, 0)
@@ -180,10 +218,9 @@ def main():
                            "street_from", "street_to", "jam_level"], obs_rows)
     summary.append(f"traffic: {len(obs_rows)} obs ({len(geom_rows)} new geoms, raw={'y' if raw_saved else 'n'})")
 
-    # --- alerts (append only newly seen alert ids) ---
-    xml_a = fetch(FEEDS["alerts"])
+
+def _log_alerts(now, stamp, month, xml_a, recs_a, summary):
     save_raw_hourly("alerts", xml_a, now)
-    pub_a, recs_a = parse(xml_a)
     alerts_path = os.path.join(ROOT, "data", "alerts", f"alerts_{month}.csv")
     seen = known_column(alerts_path, 1)
     new_alerts = []
@@ -198,9 +235,6 @@ def main():
         append_rows(alerts_path, ["first_seen_utc", "alert_id", "type", "subtype",
                                   "street", "report_time", "wkt"], new_alerts)
     summary.append(f"alerts: {len(recs_a)} in feed, {len(new_alerts)} new")
-
-    print(f"[{stamp}] " + " | ".join(summary))
-    return 0
 
 
 if __name__ == "__main__":

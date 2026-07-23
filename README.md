@@ -25,7 +25,13 @@ data/alerts/alerts_YYYY-MM.csv  one row per NEW alert id:
                                 first_seen_utc, alert_id, type, subtype, street,
                                 report_time, wkt
 raw/<feed>/YYYY/MM/DD_HH00Z.xml.gz   hourly raw DATEX II snapshots
+data/health.csv                 feed outages (utc, feed, error) — appended when a
+                                feed stays unreachable/unparseable after retries
 ```
+
+Note: up to 2026-07-23 the cron ran ~7x/day due to GitHub schedule throttling
+(gaps of 1–12 h); from 2026-07-23 the workflow loops internally, giving true
+~10-minute sampling with a short (~20 min) predictable gap every 3 hours.
 
 Jam levels (per feed documentation): 0 = free flow … 4 = standstill, 5 = road closed.
 Coordinates are WGS84 (EPSG:4326); reproject to CGRS93 / LTM (EPSG:6312) for Cyprus work.

@@ -1,8 +1,12 @@
 name: log-waze-feeds
 
+# GitHub throttles frequent crons hard (a "*/10" schedule fired ~7x/day in
+# practice). So each run is a ~2h40m loop sampling every 10 minutes, and the
+# cron only needs to fire every 3 hours. Runs end before the next event, so
+# nothing queues or gets cancelled.
 on:
   schedule:
-    - cron: "*/10 * * * *"
+    - cron: "7 */3 * * *"
   workflow_dispatch:
 
 concurrency:
@@ -15,25 +19,28 @@ permissions:
 jobs:
   log:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 200
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - name: Run logger
-        run: python3 logger.py
-
-      - name: Commit and push
+      - name: Log every 10 minutes, push every 30
         run: |
           git config user.name "waze-logger-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add -A data raw
-          if git diff --cached --quiet; then
-            echo "nothing new"
-            exit 0
-          fi
-          git commit -m "log $(date -u +'%Y-%m-%d %H:%M')Z"
-          for i in 1 2 3; do
-            if git push; then exit 0; fi
-            git pull --rebase
+          push_retry() {
+            for t in 1 2 3; do
+              if git push; then return 0; fi
+              git pull --rebase
+            done
+            git push
+          }
+          for i in $(seq 1 16); do
+            python3 logger.py
+            git add -A data raw
+            if ! git diff --cached --quiet; then
+              git commit -m "log $(date -u +'%Y-%m-%d %H:%M')Z"
+            fi
+            if [ $((i % 3)) -eq 0 ]; then push_retry; fi
+            if [ "$i" -lt 16 ]; then sleep 600; fi
           done
-          git push
+          push_retry
