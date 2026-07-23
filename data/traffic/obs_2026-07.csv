@@ -914,3 +914,8 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-07-23T17:46:49Z,2026-07-23T20:51:25.834518+03:00,_0,3258fc9114bb,Exit 24 >E127 Germasogeia / E113 Lemesos-Centre,Ypsonas,0
 2026-07-23T17:46:49Z,2026-07-23T20:51:25.834518+03:00,_1,e99e9a65d515,Ypsonas,Ypsonas,1
 2026-07-23T17:46:49Z,2026-07-23T20:51:25.834518+03:00,_2,210d1e57ec93,Ypsonas,"to A6 > Pafos, Pafos Airport",0
+2026-07-23T17:56:53Z,2026-07-23T21:01:29.886591+03:00,_0,acb430b8e822,Strovolos,Archiepiskopou Makariou III Ave,0
+2026-07-23T17:56:53Z,2026-07-23T21:01:29.886591+03:00,_1,394713f228bd,Lemesou Ave,Lemesou Ave,2
+2026-07-23T17:56:53Z,2026-07-23T21:01:29.886591+03:00,_0,6311136a7b90,,Archiepiskopou Makariou III Ave,0
+2026-07-23T17:56:53Z,2026-07-23T21:01:29.886591+03:00,_1,6efde239cabf,Lemesou Ave,Archiepiskopou Makariou III Ave,2
+2026-07-23T17:56:53Z,2026-07-23T21:01:29.886591+03:00,_2,f7f1e6fbecb6,Lemesou Ave,Evagorou Ave,0
