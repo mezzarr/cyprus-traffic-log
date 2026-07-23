@@ -14,38 +14,42 @@ import urllib.request
 from datetime import datetime, timezone
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
-URL = "https://www.traffic4cyprus.org.cy/swarco3/api/Data/MeasuredDataPublication"
+FEEDS = {
+    "swarco_loops": ("https://www.traffic4cyprus.org.cy/swarco3/api/Data/MeasuredDataPublication",
+                     r"vehicleFlowRate[^>]*>(-?[\d.]+)<|<speed[^>]*>(-?[\d.]+)<"),
+    "swarco_bt": ("https://www.traffic4cyprus.org.cy/swarco3/api/Data/PredefinedLocationDataPublication",
+                  r"travelTime[^>]*>(-?[\d.]+)<|<speed[^>]*>(-?[\d.]+)<"),
+}
 
 
 def main():
     now = datetime.now(timezone.utc)
     stamp = now.strftime("%Y-%m-%dT%H:%M:%SZ")
-    try:
-        req = urllib.request.Request(URL, headers={"User-Agent": "cyprus-traffic-log/1.0"})
-        with urllib.request.urlopen(req, timeout=60) as r:
-            x = r.read().decode("utf-8", "replace")
-    except Exception as e:  # noqa: BLE001
-        print(f"[{stamp}] swarco: unreachable ({type(e).__name__}) — fine, probe only")
-        return 0
-    flows = [int(v) for v in re.findall(r"vehicleFlowRate[^>]*>(-?\d+)<", x)]
-    speeds = [int(v) for v in re.findall(r"<speed[^>]*>(-?\d+)<", x)]
-    live_flows = sum(1 for v in flows if v > 0)
-    live_speeds = sum(1 for v in speeds if v > 0)
-    if live_flows or live_speeds:
-        outdir = os.path.join(ROOT, "raw", "swarco")
-        os.makedirs(outdir, exist_ok=True)
-        path = os.path.join(outdir, now.strftime("%Y-%m-%d_%H%M") + "Z.xml")
-        with open(path, "w", encoding="utf-8") as f:
-            f.write(x)
-        health = os.path.join(ROOT, "data", "health.csv")
-        new = not os.path.exists(health)
-        with open(health, "a", encoding="utf-8") as f:
-            if new:
-                f.write("utc,feed,error\n")
-            f.write(f"{stamp},swarco,LIVE: {live_flows} flows / {live_speeds} speeds nonzero — start logging!\n")
-        print(f"[{stamp}] swarco: *** LIVE DATA *** {live_flows} flows, {live_speeds} speeds — snapshot saved")
-    else:
-        print(f"[{stamp}] swarco: still hollow ({len(flows)} zero flows)")
+    for feed, (url, pattern) in FEEDS.items():
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": "cyprus-traffic-log/1.0"})
+            with urllib.request.urlopen(req, timeout=60) as r:
+                x = r.read().decode("utf-8", "replace")
+        except Exception as e:  # noqa: BLE001
+            print(f"[{stamp}] {feed}: unreachable ({type(e).__name__}) — fine, probe only")
+            continue
+        vals = [float(a or b) for a, b in re.findall(pattern, x)]
+        live = sum(1 for v in vals if v > 0)
+        if live:
+            outdir = os.path.join(ROOT, "raw", feed)
+            os.makedirs(outdir, exist_ok=True)
+            path = os.path.join(outdir, now.strftime("%Y-%m-%d_%H%M") + "Z.xml")
+            with open(path, "w", encoding="utf-8") as f:
+                f.write(x)
+            health = os.path.join(ROOT, "data", "health.csv")
+            new = not os.path.exists(health)
+            with open(health, "a", encoding="utf-8") as f:
+                if new:
+                    f.write("utc,feed,error\n")
+                f.write(f"{stamp},{feed},LIVE: {live} nonzero values — start logging!\n")
+            print(f"[{stamp}] {feed}: *** LIVE DATA *** {live} nonzero values — snapshot saved")
+        else:
+            print(f"[{stamp}] {feed}: still hollow ({len(vals)} values, all zero/absent)")
     return 0
 
 
