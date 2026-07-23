@@ -19,7 +19,7 @@ import urllib.request
 from datetime import datetime, timezone, timedelta
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
-KEY = os.environ.get("TOMTOM_API_KEY", "")
+KEY = os.environ.get("TOMTOM_API_KEY", "").strip().strip("﻿")
 CY = timezone(timedelta(hours=3))  # Cyprus summer time
 
 # local-time windows: (start_minute_of_day, end_minute_of_day)
