@@ -1791,3 +1791,5 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-07-24T17:12:30Z,2026-07-24T20:17:07.136693+03:00,_0,807a263ccec7,E147 - Archiepiskopou Makariou III Ave,Agias Filaxeos,0
 2026-07-24T17:12:30Z,2026-07-24T20:17:07.136693+03:00,_1,a4260c51b19c,Steliou Kyriakidi,,3
 2026-07-24T17:12:30Z,2026-07-24T20:17:07.136693+03:00,_2,f5f94ff22484,Agias Filaxeos,E110,0
+2026-07-24T17:22:36Z,2026-07-24T20:27:13.305814+03:00,_0,cdd9246a055f,E110,E147 - Archiepiskopou Makariou III Ave,0
+2026-07-24T17:22:36Z,2026-07-24T20:27:13.305814+03:00,_1,f8a1b1df72c7,Apostolon Petrou kai Pavlou,E147 - Archiepiskopou Makariou III Ave,3
