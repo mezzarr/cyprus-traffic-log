@@ -1536,3 +1536,25 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-07-24T12:36:46Z,2026-07-24T15:41:23.914773+03:00,_0,b03513dd6d58,Leoforos Strovolou,E902 - Proedrikou Megarou Ave,0
 2026-07-24T12:36:46Z,2026-07-24T15:41:23.914773+03:00,_1,c04a316c4fdd,Strovolou Ave,E902 - Proedrikou Megarou Ave,3
 2026-07-24T12:36:46Z,2026-07-24T15:41:23.914773+03:00,_2,c6ac6530f2b9,Strovolou Ave,E902 - Proedrikou Megarou Ave,0
+2026-07-24T12:46:53Z,2026-07-24T15:51:30.796259+03:00,_0,69fc3b9dbbdd,Strovolos,Archiepiskopou Makariou III Ave,0
+2026-07-24T12:46:53Z,2026-07-24T15:51:30.796259+03:00,_1,c57daf65c80e,Lemesou Ave,Archiepiskopou Makariou III Ave,3
+2026-07-24T12:46:53Z,2026-07-24T15:51:30.796259+03:00,_0,db379abb1dc7,Spyrou Kyprianou Ave,Spyrou Kyprianou Ave,0
+2026-07-24T12:46:53Z,2026-07-24T15:51:30.796259+03:00,_1,d485409681ec,Spyrou Kyprianou Ave,Spyrou Kyprianou Ave,3
+2026-07-24T12:46:53Z,2026-07-24T15:51:30.796259+03:00,_2,b16f06e86626,Spyrou Kyprianou Ave,Spyrou Kyprianou Ave,0
+2026-07-24T12:46:53Z,2026-07-24T15:51:30.796259+03:00,_0,f2e7dbbab450,Exit 24 >E127 Germasogeia / E113 Lemesos-Centre,Mesa Geitonia,3
+2026-07-24T12:46:53Z,2026-07-24T15:51:30.796259+03:00,_1,0df26c3b855b,Lemesos,"to A6 > Pafos, Pafos Airport",0
+2026-07-24T12:46:53Z,2026-07-24T15:51:30.796259+03:00,_0,e32be8ebc438,E147 - Archiepiskopou Makariou III Ave,Agiou Artemiou,0
+2026-07-24T12:46:53Z,2026-07-24T15:51:30.796259+03:00,_1,01dc4c8513cc,E147 - Archiepiskopou Makariou III Ave,Vasileos Georgiou II,2
+2026-07-24T12:46:53Z,2026-07-24T15:51:30.796259+03:00,_2,bbd3d4041441,Agias Filaxeos,Agias Filaxeos,0
+2026-07-24T12:46:53Z,2026-07-24T15:51:30.796259+03:00,_3,a4260c51b19c,Steliou Kyriakidi,,3
+2026-07-24T12:46:53Z,2026-07-24T15:51:30.796259+03:00,_4,f5f94ff22484,Agias Filaxeos,E110,0
+2026-07-24T12:46:53Z,2026-07-24T15:51:30.796259+03:00,_0,0160eeb5c4a6,E110,E110 - Agias Fylaxeos,0
+2026-07-24T12:46:53Z,2026-07-24T15:51:30.796259+03:00,_1,a70c5abc879e,E110 - Agias Fylaxeos,,3
+2026-07-24T12:46:53Z,2026-07-24T15:51:30.796259+03:00,_2,ba303cdd0098,E110 - Agias Fylaxeos,E147 - Archiepiskopou Makariou III Ave,0
+2026-07-24T12:46:53Z,2026-07-24T15:51:30.796259+03:00,_3,f8a1b1df72c7,Apostolon Petrou kai Pavlou,E147 - Archiepiskopou Makariou III Ave,3
+2026-07-24T12:46:53Z,2026-07-24T15:51:30.796259+03:00,_0,daca33dbcb0d,,Archiepiskopou Makariou III Ave,0
+2026-07-24T12:46:53Z,2026-07-24T15:51:30.796259+03:00,_1,43f05193c4b0,Lemesou Ave,Archiepiskopou Makariou III Ave,3
+2026-07-24T12:46:53Z,2026-07-24T15:51:30.796259+03:00,_2,8fab7dfc83f0,Lemesou Ave,Evagorou Ave,0
+2026-07-24T12:46:53Z,2026-07-24T15:51:30.796259+03:00,_0,f318db9e6dda,Leoforos Strovolou,E902 - Proedrikou Megarou Ave,0
+2026-07-24T12:46:53Z,2026-07-24T15:51:30.796259+03:00,_1,b7cf26a3ebd1,Strovolou Ave,Strovolou Ave,3
+2026-07-24T12:46:53Z,2026-07-24T15:51:30.796259+03:00,_2,92d65c298345,Strovolou Ave,E902 - Proedrikou Megarou Ave,0
