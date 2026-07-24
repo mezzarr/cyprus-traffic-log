@@ -1711,3 +1711,9 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-07-24T14:47:31Z,2026-07-24T17:52:08.409164+03:00,_2,5766eeecc240,Mesa Geitonia,A6,0
 2026-07-24T14:47:31Z,2026-07-24T17:52:08.409164+03:00,_3,d7af27493189,A1,Kato Polemidia,2
 2026-07-24T14:47:31Z,2026-07-24T17:52:08.409164+03:00,_4,35c11bfdc6c5,A1,"to A6 > Pafos, Pafos Airport",0
+2026-07-24T14:58:00Z,2026-07-24T18:02:38.040110+03:00,_0,a1d8d306605f,E147 - Archiepiskopou Makariou III Ave,Steliou Kyriakidi,0
+2026-07-24T14:58:00Z,2026-07-24T18:02:38.040110+03:00,_1,fbdd0e351f56,Ivykou,,3
+2026-07-24T14:58:00Z,2026-07-24T18:02:38.040110+03:00,_2,f5f94ff22484,Agias Filaxeos,E110,0
+2026-07-24T14:58:00Z,2026-07-24T18:02:38.040110+03:00,_0,06afc6492b14,Exit 24 >E127 Germasogeia / E113 Lemesos-Centre,Germasogeia,0
+2026-07-24T14:58:00Z,2026-07-24T18:02:38.040110+03:00,_1,3f63ee02f860,Agios Athanasios,Agios Athanasios,1
+2026-07-24T14:58:00Z,2026-07-24T18:02:38.040110+03:00,_2,e532d87a661f,Mesa Geitonia,"to A6 > Pafos, Pafos Airport",0
