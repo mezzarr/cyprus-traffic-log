@@ -1717,3 +1717,14 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-07-24T14:58:00Z,2026-07-24T18:02:38.040110+03:00,_0,06afc6492b14,Exit 24 >E127 Germasogeia / E113 Lemesos-Centre,Germasogeia,0
 2026-07-24T14:58:00Z,2026-07-24T18:02:38.040110+03:00,_1,3f63ee02f860,Agios Athanasios,Agios Athanasios,1
 2026-07-24T14:58:00Z,2026-07-24T18:02:38.040110+03:00,_2,e532d87a661f,Mesa Geitonia,"to A6 > Pafos, Pafos Airport",0
+2026-07-24T15:08:31Z,2026-07-24T18:13:08.689504+03:00,_0,a955553ad43f,E147 - Archiepiskopou Makariou III Ave,Agias Filaxeos,3
+2026-07-24T15:08:31Z,2026-07-24T18:13:08.689504+03:00,_1,d944aeee37e1,Apostolon Petrou kai Pavlou,Agias Filaxeos,0
+2026-07-24T15:08:31Z,2026-07-24T18:13:08.689504+03:00,_2,ca24e7e62b57,Agias Filaxeos,Agias Filaxeos,1
+2026-07-24T15:08:31Z,2026-07-24T18:13:08.689504+03:00,_3,dfc77a434436,Apostolon Petrou kai Pavlou,Agias Filaxeos,0
+2026-07-24T15:08:31Z,2026-07-24T18:13:08.689504+03:00,_4,a4260c51b19c,Steliou Kyriakidi,,3
+2026-07-24T15:08:31Z,2026-07-24T18:13:08.689504+03:00,_5,f780373a5188,Agias Filaxeos,E110 - Agias Fylaxeos,0
+2026-07-24T15:08:31Z,2026-07-24T18:13:08.689504+03:00,_6,6841a02a1258,,E110 - 1 Apriliou,2
+2026-07-24T15:08:31Z,2026-07-24T18:13:08.689504+03:00,_7,f99b72a378a5,E110 - Agias Fylaxeos,E110,0
+2026-07-24T15:08:31Z,2026-07-24T18:13:08.689504+03:00,_0,2122746d5a59,Georgiou Neofytou,Spyrou Kyprianou Ave,0
+2026-07-24T15:08:31Z,2026-07-24T18:13:08.689504+03:00,_1,f0fc85e67dfe,Spyrou Kyprianou Ave,Spyrou Kyprianou Ave,3
+2026-07-24T15:08:31Z,2026-07-24T18:13:08.689504+03:00,_2,0efa495a7a2f,Spyrou Kyprianou Ave,Angelou Vlachou,0
