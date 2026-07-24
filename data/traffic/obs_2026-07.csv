@@ -925,3 +925,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-07-23T23:51:04Z,2026-07-24T02:55:41.212663+03:00,_0,899c88dfdd04,Leoforos Strovolou,Arch. Makariou III,0
 2026-07-23T23:51:04Z,2026-07-24T02:55:41.212663+03:00,_1,9811f6053db8,E902 - Archiepiskopou Makariou III,Strovolou Ave,2
 2026-07-23T23:51:04Z,2026-07-24T02:55:41.212663+03:00,_2,9b2481db5b40,Arch. Makariou III,E902 - Proedrikou Megarou Ave,0
+2026-07-24T00:51:31Z,2026-07-24T03:56:07.970433+03:00,_0,6cfc0b6c5e0c,E110,E110 - 1 Apriliou,0
+2026-07-24T00:51:31Z,2026-07-24T03:56:07.970433+03:00,_1,ae768c5fffcf,E110 - 1 Apriliou,E110 - Agias Fylaxeos,2
+2026-07-24T00:51:31Z,2026-07-24T03:56:07.970433+03:00,_2,3f55a646f4ea,E110 - 1 Apriliou,E147 - Archiepiskopou Makariou III Ave,0
