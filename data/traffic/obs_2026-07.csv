@@ -1959,3 +1959,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-07-25T17:04:04Z,2026-07-25T20:08:42.263129+03:00,_0,c2d7205db84d,Episkopi,Agios Athanasios,0
 2026-07-25T17:04:04Z,2026-07-25T20:08:42.263129+03:00,_1,1de4ba546278,Agios Athanasios,Agios Athanasios,1
 2026-07-25T17:04:04Z,2026-07-25T20:08:42.263129+03:00,_2,cafc026927d2,Germasogeia,Germasogeia,0
+2026-07-25T17:14:30Z,2026-07-25T20:19:08.281657+03:00,_0,07b7eb11e965,E147 - Archiepiskopou Makariou III Ave,E110 - 1 Apriliou,0
+2026-07-25T17:14:30Z,2026-07-25T20:19:08.281657+03:00,_1,9f4f77006632,E110 - 1 Apriliou,E110 - Eleftherias,4
+2026-07-25T17:14:30Z,2026-07-25T20:19:08.281657+03:00,_2,c97b954fcb12,E110 - 1 Apriliou,E110,0
