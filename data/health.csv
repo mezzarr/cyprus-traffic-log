@@ -149,3 +149,4 @@ utc,feed,error
 2026-07-23T15:15:43Z,tomtom:tasou_markou:ba,"tomtom [35.13909, 33.366402]->[35.136095, 33.369813]: UnicodeEncodeError: 'ascii' codec can't encode character '\ufeff' in position 78: ordinal not in range(128)"
 2026-07-23T15:15:43Z,tomtom:peiraios:ab,"tomtom [35.142737, 33.351744]->[35.147838, 33.353557]: UnicodeEncodeError: 'ascii' codec can't encode character '\ufeff' in position 79: ordinal not in range(128)"
 2026-07-23T15:15:43Z,tomtom:peiraios:ba,"tomtom [35.147838, 33.353557]->[35.142737, 33.351744]: UnicodeEncodeError: 'ascii' codec can't encode character '\ufeff' in position 79: ordinal not in range(128)"
+2026-07-26T10:29:54Z,traffic,"https://fixcyprus.cy/gnosis/open/api/nap/datasets/waze_traffic/: ParseError: syntax error: line 1, column 0"
