@@ -2057,3 +2057,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-07-26T09:48:33Z,2026-07-26T12:53:10.946036+03:00,_0,280f434c77f8,E147 - Archiepiskopou Makariou III Ave,Dimitriou Psatha,0
 2026-07-26T09:48:33Z,2026-07-26T12:53:10.946036+03:00,_1,bba60fd78a23,Isavron,Georgiou Papandreou,3
 2026-07-26T09:48:33Z,2026-07-26T12:53:10.946036+03:00,_2,cfdaca7cb53b,Dimitriou Psatha,E110,0
+2026-07-26T09:58:37Z,2026-07-26T13:03:15.334475+03:00,_0,72b03ff9b5bc,E110,E110 - Agias Fylaxeos,0
+2026-07-26T09:58:37Z,2026-07-26T13:03:15.334475+03:00,_1,6b1c856e842f,E110 - 1 Apriliou,E110 - Agias Fylaxeos,3
+2026-07-26T09:58:37Z,2026-07-26T13:03:15.334475+03:00,_2,8152aad49074,E110 - 1 Apriliou,E147 - Archiepiskopou Makariou III Ave,0
