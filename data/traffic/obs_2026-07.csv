@@ -2048,3 +2048,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-07-26T06:25:07Z,2026-07-26T09:29:44.960465+03:00,_0,51516327098d,Spyrou Kyprianou Ave,Spyrou Kyprianou Ave,0
 2026-07-26T06:25:07Z,2026-07-26T09:29:44.960465+03:00,_1,e47265de14fc,Spyrou Kyprianou Ave,Spyrou Kyprianou Ave,3
 2026-07-26T06:25:07Z,2026-07-26T09:29:44.960465+03:00,_2,b16f06e86626,Spyrou Kyprianou Ave,Spyrou Kyprianou Ave,0
+2026-07-26T09:07:49Z,2026-07-26T12:12:26.743122+03:00,_0,1903b2559960,Pafos,Archiepiskopou Makariou III Ave,0
+2026-07-26T09:07:49Z,2026-07-26T12:12:26.743122+03:00,_1,660d388bb733,Lemesou Ave,Archiepiskopou Makariou III Ave,2
+2026-07-26T09:07:49Z,2026-07-26T12:12:26.743122+03:00,_2,8fab7dfc83f0,Lemesou Ave,B19 - Omirou Ave,0
