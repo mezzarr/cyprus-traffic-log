@@ -2661,3 +2661,18 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-07-27T15:07:49Z,2026-07-27T18:12:27.388123+03:00,_0,c1d030e6ca66,,Evagorou Ave,0
 2026-07-27T15:07:49Z,2026-07-27T18:12:27.388123+03:00,_1,d52a9ec0066d,B18 - Georgiou Griva Digeni Ave,E165 - Themistokli Dervi,1
 2026-07-27T15:07:49Z,2026-07-27T18:12:27.388123+03:00,_2,a7e8643275b7,E165 - Themistokli Dervi,Evagorou Ave,0
+2026-07-27T15:18:17Z,2026-07-27T18:22:55.206897+03:00,_0,db379abb1dc7,Georgiou Neofytou,Spyrou Kyprianou Ave,0
+2026-07-27T15:18:17Z,2026-07-27T18:22:55.206897+03:00,_1,d485409681ec,Spyrou Kyprianou Ave,Spyrou Kyprianou Ave,3
+2026-07-27T15:18:17Z,2026-07-27T18:22:55.206897+03:00,_2,6c5a5d840bb0,Spyrou Kyprianou Ave,Spyrou Kyprianou Ave,0
+2026-07-27T15:18:17Z,2026-07-27T18:22:55.206897+03:00,_3,f5d4a5e20d87,Spyrou Kyprianou Ave,Spyrou Kyprianou Ave,3
+2026-07-27T15:18:17Z,2026-07-27T18:22:55.206897+03:00,_4,0efa495a7a2f,Spyrou Kyprianou Ave,Angelou Vlachou,0
+2026-07-27T15:18:17Z,2026-07-27T18:22:55.206897+03:00,_0,15ae2e1d5817,E147 - Archiepiskopou Makariou III Ave,Agias Filaxeos,0
+2026-07-27T15:18:17Z,2026-07-27T18:22:55.206897+03:00,_1,1683a4b44bb7,Agias Filaxeos,Agias Filaxeos,3
+2026-07-27T15:18:17Z,2026-07-27T18:22:55.206897+03:00,_2,ada2853a7b9f,Agias Filaxeos,Steliou Kyriakidi,0
+2026-07-27T15:18:17Z,2026-07-27T18:22:55.206897+03:00,_3,fbdd0e351f56,Ivykou,,4
+2026-07-27T15:18:17Z,2026-07-27T18:22:55.206897+03:00,_4,f5f94ff22484,Agias Filaxeos,E110,0
+2026-07-27T15:18:17Z,2026-07-27T18:22:55.206897+03:00,_0,69fc3b9dbbdd,Exit 4 >E148 Latsia / GSP Stadium,Archiepiskopou Makariou III Ave,0
+2026-07-27T15:18:17Z,2026-07-27T18:22:55.206897+03:00,_1,c57daf65c80e,Chrysanthou Mylona,Archiepiskopou Makariou III Ave,2
+2026-07-27T15:18:17Z,2026-07-27T18:22:55.206897+03:00,_0,daca33dbcb0d,,Archiepiskopou Makariou III Ave,0
+2026-07-27T15:18:17Z,2026-07-27T18:22:55.206897+03:00,_1,43f05193c4b0,Chrysanthou Mylona,Archiepiskopou Makariou III Ave,2
+2026-07-27T15:18:17Z,2026-07-27T18:22:55.206897+03:00,_2,8fab7dfc83f0,Lemesou Ave,Evagorou Ave,0
