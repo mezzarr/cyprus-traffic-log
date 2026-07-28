@@ -3670,3 +3670,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-07-28T18:39:02Z,2026-07-28T21:43:42.184861+03:00,_0,88a9b7c2c271,,Pera Chorio,0
 2026-07-28T18:39:02Z,2026-07-28T21:43:42.184861+03:00,_1,ece4ac0318cb,Pera Chorio,Pera Chorio,4
 2026-07-28T18:39:02Z,2026-07-28T21:43:42.184861+03:00,_2,2dd2a13a0a55,Nisou,Evagorou Ave,0
+2026-07-28T18:49:07Z,2026-07-28T21:53:46.589950+03:00,_0,88a9b7c2c271,Pafos,Pera Chorio,0
+2026-07-28T18:49:07Z,2026-07-28T21:53:46.589950+03:00,_1,ece4ac0318cb,to A1 > Lefkosia,Pera Chorio,4
+2026-07-28T18:49:07Z,2026-07-28T21:53:46.589950+03:00,_2,2dd2a13a0a55,Exit 7 >E102(B1) Nisou / Kotsiatis,B19 - Omirou Ave,0
