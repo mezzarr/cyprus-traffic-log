@@ -3247,3 +3247,17 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-07-28T12:26:46Z,2026-07-28T15:31:24.865807+03:00,_4,bbf67e32aa17,B18 - Georgiou Griva Digeni Ave,Evagorou Ave,0
 2026-07-28T12:26:46Z,2026-07-28T15:31:24.865807+03:00,_0,06afc6492b14,Exit 24 >E127 Germasogeia / E113 Lemesos-Centre,Exit 25 > E131 Agios Athanasios / Linopetra / Industrial Zone,1
 2026-07-28T12:26:46Z,2026-07-28T15:31:24.865807+03:00,_1,3e1d75b9e16e,Exit 25 > E131 Agios Athanasios / Linopetra / Industrial Zone,"to A6 > Pafos, Pafos Airport",0
+2026-07-28T12:36:50Z,2026-07-28T15:41:29.665078+03:00,_0,199710dc4a27,Strovolos,E164 - Armenias,0
+2026-07-28T12:36:50Z,2026-07-28T15:41:29.665078+03:00,_1,fedb3d094e5d,A1,Lemesou Ave,2
+2026-07-28T12:36:50Z,2026-07-28T15:41:29.665078+03:00,_2,d6df578c88ea,Lemesou Ave,Lemesou Ave,0
+2026-07-28T12:36:50Z,2026-07-28T15:41:29.665078+03:00,_3,8b530b355b26,Lemesou Ave,Archiepiskopou Makariou III Ave,2
+2026-07-28T12:36:50Z,2026-07-28T15:41:29.665078+03:00,_0,505621cea221,Leoforos Strovolou,Perikleous,0
+2026-07-28T12:36:50Z,2026-07-28T15:41:29.665078+03:00,_1,67842f78343f,Strovolou Ave,Strovolou Ave,4
+2026-07-28T12:36:50Z,2026-07-28T15:41:29.665078+03:00,_2,5a4a83804460,Omirou,E902 - Proedrikou Megarou Ave,0
+2026-07-28T12:36:50Z,2026-07-28T15:41:29.665078+03:00,_3,2e2860fdee90,Strovolou Ave,E902 - Proedrikou Megarou Ave,4
+2026-07-28T12:36:50Z,2026-07-28T15:41:29.665078+03:00,_4,c6ac6530f2b9,Strovolou Ave,E902 - Proedrikou Megarou Ave,0
+2026-07-28T12:36:50Z,2026-07-28T15:41:29.665078+03:00,_0,8795792b1b04,,E164 - Armenias,0
+2026-07-28T12:36:50Z,2026-07-28T15:41:29.665078+03:00,_1,fedb3d094e5d,A1,Lemesou Ave,2
+2026-07-28T12:36:50Z,2026-07-28T15:41:29.665078+03:00,_2,d6df578c88ea,Lemesou Ave,Lemesou Ave,0
+2026-07-28T12:36:50Z,2026-07-28T15:41:29.665078+03:00,_3,3dec49aff703,Lemesou Ave,Archiepiskopou Makariou III Ave,2
+2026-07-28T12:36:50Z,2026-07-28T15:41:29.665078+03:00,_4,8fab7dfc83f0,Lemesou Ave,Evagorou Ave,0
