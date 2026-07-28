@@ -3653,3 +3653,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-07-28T17:38:08Z,2026-07-28T20:42:47.381579+03:00,_0,23e9d057024d,,Lemesou Ave,0
 2026-07-28T17:38:08Z,2026-07-28T20:42:47.381579+03:00,_1,64039a076bda,Strovolos,Lemesou Ave,3
 2026-07-28T17:38:08Z,2026-07-28T20:42:47.381579+03:00,_2,cc8badd45da4,Aglantzia,Evagorou Ave,0
+2026-07-28T17:58:16Z,2026-07-28T21:02:55.131995+03:00,_0,88a9b7c2c271,,Pera Chorio,0
+2026-07-28T17:58:16Z,2026-07-28T21:02:55.131995+03:00,_1,ece4ac0318cb,Pera Chorio,Pera Chorio,3
+2026-07-28T17:58:16Z,2026-07-28T21:02:55.131995+03:00,_2,2dd2a13a0a55,Nisou,Evagorou Ave,0
