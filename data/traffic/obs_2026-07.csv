@@ -3615,3 +3615,9 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-07-28T16:25:55Z,2026-07-28T19:30:33.824362+03:00,_0,d6074089d8ef,Exit 24 >E127 Germasogeia / E113 Lemesos-Centre,A6,0
 2026-07-28T16:25:55Z,2026-07-28T19:30:33.824362+03:00,_1,495dbc897204,Lemesos,Ypsonas,3
 2026-07-28T16:25:55Z,2026-07-28T19:30:33.824362+03:00,_2,a79c40fcd60a,Ypsonas,"to A6 > Pafos, Pafos Airport",0
+2026-07-28T17:07:28Z,2026-07-28T20:12:07.432175+03:00,_0,fe72ea2b224f,Exit 4 >E148 Latsia / GSP Stadium,Lemesou Ave,0
+2026-07-28T17:07:28Z,2026-07-28T20:12:07.432175+03:00,_1,1c3025f6d361,Strovolos,Lemesou Ave,4
+2026-07-28T17:07:28Z,2026-07-28T20:12:07.432175+03:00,_2,7792802c8552,Exit 1 > E116 Athalassis Ave.,Archiepiskopou Makariou III Ave,0
+2026-07-28T17:07:28Z,2026-07-28T20:12:07.432175+03:00,_0,d0dc64f54734,,Lemesou Ave,0
+2026-07-28T17:07:28Z,2026-07-28T20:12:07.432175+03:00,_1,1c3025f6d361,Strovolos,Lemesou Ave,4
+2026-07-28T17:07:28Z,2026-07-28T20:12:07.432175+03:00,_2,cc8badd45da4,Exit 1 > E116 Athalassis Ave.,Evagorou Ave,0
