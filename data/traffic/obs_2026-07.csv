@@ -3233,3 +3233,17 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-07-28T12:16:39Z,2026-07-28T15:21:18.207370+03:00,_2,7e9e53411917,Lemesou Ave,E1302 - Nikis Ave,0
 2026-07-28T12:16:39Z,2026-07-28T15:21:18.207370+03:00,_3,910016111853,B18 - Georgiou Griva Digeni Ave,B18 - Georgiou Griva Digeni Ave,4
 2026-07-28T12:16:39Z,2026-07-28T15:21:18.207370+03:00,_4,bbf67e32aa17,B18 - Georgiou Griva Digeni Ave,Evagorou Ave,0
+2026-07-28T12:26:46Z,2026-07-28T15:31:24.865807+03:00,_0,69fc3b9dbbdd,Exit 4 >E148 Latsia / GSP Stadium,Archiepiskopou Makariou III Ave,0
+2026-07-28T12:26:46Z,2026-07-28T15:31:24.865807+03:00,_1,c57daf65c80e,Chrysanthou Mylona,Archiepiskopou Makariou III Ave,3
+2026-07-28T12:26:46Z,2026-07-28T15:31:24.865807+03:00,_0,c7675a8d665c,Leoforos Strovolou,E122 - Athinon,0
+2026-07-28T12:26:46Z,2026-07-28T15:31:24.865807+03:00,_1,fbca328ee928,,,3
+2026-07-28T12:26:46Z,2026-07-28T15:31:24.865807+03:00,_2,5a4a83804460,,E902 - Proedrikou Megarou Ave,0
+2026-07-28T12:26:46Z,2026-07-28T15:31:24.865807+03:00,_3,2e2860fdee90,Strovolou Ave,E902 - Proedrikou Megarou Ave,2
+2026-07-28T12:26:46Z,2026-07-28T15:31:24.865807+03:00,_4,c6ac6530f2b9,Strovolou Ave,E902 - Proedrikou Megarou Ave,0
+2026-07-28T12:26:46Z,2026-07-28T15:31:24.865807+03:00,_0,daca33dbcb0d,,Archiepiskopou Makariou III Ave,0
+2026-07-28T12:26:46Z,2026-07-28T15:31:24.865807+03:00,_1,43f05193c4b0,Chrysanthou Mylona,Archiepiskopou Makariou III Ave,3
+2026-07-28T12:26:46Z,2026-07-28T15:31:24.865807+03:00,_2,7e9e53411917,Lemesou Ave,E1302 - Nikis Ave,0
+2026-07-28T12:26:46Z,2026-07-28T15:31:24.865807+03:00,_3,910016111853,B18 - Georgiou Griva Digeni Ave,B18 - Georgiou Griva Digeni Ave,4
+2026-07-28T12:26:46Z,2026-07-28T15:31:24.865807+03:00,_4,bbf67e32aa17,B18 - Georgiou Griva Digeni Ave,Evagorou Ave,0
+2026-07-28T12:26:46Z,2026-07-28T15:31:24.865807+03:00,_0,06afc6492b14,Exit 24 >E127 Germasogeia / E113 Lemesos-Centre,Exit 25 > E131 Agios Athanasios / Linopetra / Industrial Zone,1
+2026-07-28T12:26:46Z,2026-07-28T15:31:24.865807+03:00,_1,3e1d75b9e16e,Exit 25 > E131 Agios Athanasios / Linopetra / Industrial Zone,"to A6 > Pafos, Pafos Airport",0
