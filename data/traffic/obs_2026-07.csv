@@ -4464,3 +4464,11 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-07-29T17:55:02Z,2026-07-29T20:59:42.261993+03:00,_0,543dd67c0e60,,B18 - Digeni Akrita Ave,0
 2026-07-29T17:55:02Z,2026-07-29T20:59:42.261993+03:00,_1,aabab5b0e87d,Archiepiskopou Makariou III Ave,B18 - Georgiou Griva Digeni Ave,3
 2026-07-29T17:55:02Z,2026-07-29T20:59:42.261993+03:00,_2,e1beab30434a,Archiepiskopou Makariou III Ave,Evagorou Ave,0
+2026-07-29T18:55:49Z,2026-07-29T22:00:28.092696+03:00,_0,07b7eb11e965,E147 - Archiepiskopou Makariou III Ave,E110 - 1 Apriliou,0
+2026-07-29T18:55:49Z,2026-07-29T22:00:28.092696+03:00,_1,9f4f77006632,E110 - 1 Apriliou,E110 - Eleftherias,3
+2026-07-29T18:55:49Z,2026-07-29T22:00:28.092696+03:00,_2,c97b954fcb12,E110 - 1 Apriliou,E110,0
+2026-07-29T18:55:49Z,2026-07-29T22:00:28.092696+03:00,_0,1903b2559960,,Archiepiskopou Makariou III Ave,0
+2026-07-29T18:55:49Z,2026-07-29T22:00:28.092696+03:00,_1,660d388bb733,Lemesou Ave,Archiepiskopou Makariou III Ave,2
+2026-07-29T18:55:49Z,2026-07-29T22:00:28.092696+03:00,_2,1c6a3fc2a217,Lemesou Ave,B18 - Digeni Akrita Ave,0
+2026-07-29T18:55:49Z,2026-07-29T22:00:28.092696+03:00,_3,aabab5b0e87d,Archiepiskopou Makariou III Ave,B18 - Georgiou Griva Digeni Ave,3
+2026-07-29T18:55:49Z,2026-07-29T22:00:28.092696+03:00,_4,e1beab30434a,Archiepiskopou Makariou III Ave,Evagorou Ave,0
