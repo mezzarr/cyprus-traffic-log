@@ -4454,3 +4454,10 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-07-29T16:53:18Z,2026-07-29T19:57:57.781716+03:00,_2,e1beab30434a,Archiepiskopou Makariou III Ave,Evagorou Ave,0
 2026-07-29T17:34:55Z,2026-07-29T20:39:34.186992+03:00,_0,ecaddb19046c,E110,E147 - Archiepiskopou Makariou III Ave,0
 2026-07-29T17:34:55Z,2026-07-29T20:39:34.186992+03:00,_1,f8a1b1df72c7,Agias Filaxeos,E147 - Archiepiskopou Makariou III Ave,4
+2026-07-29T17:44:58Z,2026-07-29T20:49:37.717030+03:00,_0,320e7f883c81,E110,E147 - Archiepiskopou Makariou III Ave,0
+2026-07-29T17:44:58Z,2026-07-29T20:49:37.717030+03:00,_1,980e7c5b23f7,Agias Filaxeos,Apostolon Petrou kai Pavlou,2
+2026-07-29T17:44:58Z,2026-07-29T20:49:37.717030+03:00,_2,420d963f05a5,Agias Filaxeos,Aristovoulou,0
+2026-07-29T17:44:58Z,2026-07-29T20:49:37.717030+03:00,_3,f8a1b1df72c7,Apostolon Petrou kai Pavlou,E147 - Archiepiskopou Makariou III Ave,3
+2026-07-29T17:44:58Z,2026-07-29T20:49:37.717030+03:00,_0,27376a44e937,,B18 - Digeni Akrita Ave,0
+2026-07-29T17:44:58Z,2026-07-29T20:49:37.717030+03:00,_1,970cc58093c6,Archiepiskopou Makariou III Ave,B18 - Georgiou Griva Digeni Ave,3
+2026-07-29T17:44:58Z,2026-07-29T20:49:37.717030+03:00,_2,e1beab30434a,Archiepiskopou Makariou III Ave,Evagorou Ave,0
