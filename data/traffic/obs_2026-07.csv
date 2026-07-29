@@ -4010,3 +4010,10 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-07-29T06:08:30Z,2026-07-29T09:13:09.299232+03:00,_0,68ba8c9365ac,Exit 24 >E127 Germasogeia / E113 Lemesos-Centre,Germasogeia,0
 2026-07-29T06:08:30Z,2026-07-29T09:13:09.299232+03:00,_1,ce32023c9f0b,Germasogeia,Germasogeia,1
 2026-07-29T06:08:30Z,2026-07-29T09:13:09.299232+03:00,_2,3e1d75b9e16e,Agios Athanasios,"to A6 > Pafos, Pafos Airport",0
+2026-07-29T08:53:08Z,2026-07-29T11:57:47.231985+03:00,_0,69fc3b9dbbdd,Strovolos,Archiepiskopou Makariou III Ave,0
+2026-07-29T08:53:08Z,2026-07-29T11:57:47.231985+03:00,_1,c57daf65c80e,Lemesou Ave,Archiepiskopou Makariou III Ave,2
+2026-07-29T08:53:08Z,2026-07-29T11:57:47.231985+03:00,_0,320e7f883c81,E110,E147 - Archiepiskopou Makariou III Ave,0
+2026-07-29T08:53:08Z,2026-07-29T11:57:47.231985+03:00,_1,d80004862f7f,Agias Filaxeos,E147 - Archiepiskopou Makariou III Ave,3
+2026-07-29T08:53:08Z,2026-07-29T11:57:47.231985+03:00,_0,daca33dbcb0d,,Archiepiskopou Makariou III Ave,0
+2026-07-29T08:53:08Z,2026-07-29T11:57:47.231985+03:00,_1,43f05193c4b0,Lemesou Ave,Archiepiskopou Makariou III Ave,2
+2026-07-29T08:53:08Z,2026-07-29T11:57:47.231985+03:00,_2,8fab7dfc83f0,Lemesou Ave,Evagorou Ave,0
