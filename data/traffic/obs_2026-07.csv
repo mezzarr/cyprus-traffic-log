@@ -4177,3 +4177,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-07-29T12:42:11Z,2026-07-29T15:46:50.560056+03:00,_2,c2763efecfa7,Choirokoitia,Archiepiskopou Makariou III Ave,0
 2026-07-29T12:42:11Z,2026-07-29T15:46:50.560056+03:00,_3,e9824d0075f7,Lemesou Ave,,3
 2026-07-29T12:42:11Z,2026-07-29T15:46:50.560056+03:00,_4,a84133578e83,,Evagorou Ave,0
+2026-07-29T12:52:16Z,2026-07-29T15:56:54.927975+03:00,_0,04bc98083c46,,Kalavasos,0
+2026-07-29T12:52:16Z,2026-07-29T15:56:54.927975+03:00,_1,8d8db4a423e0,Kalavasos,Kalavasos,4
+2026-07-29T12:52:16Z,2026-07-29T15:56:54.927975+03:00,_2,454a1f0cff5b,Choirokoitia,Evagorou Ave,0
