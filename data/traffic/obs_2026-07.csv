@@ -4138,3 +4138,9 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-07-29T12:01:27Z,2026-07-29T15:06:06.087247+03:00,_0,3b67fe7e75b7,Leoforos Strovolou,E902 - Proedrikou Megarou Ave,0
 2026-07-29T12:01:27Z,2026-07-29T15:06:06.087247+03:00,_1,f7e3a498d80e,Strovolou Ave,E902 - Proedrikou Megarou Ave,3
 2026-07-29T12:01:27Z,2026-07-29T15:06:06.087247+03:00,_2,c6ac6530f2b9,Strovolou Ave,E902 - Proedrikou Megarou Ave,0
+2026-07-29T12:11:55Z,2026-07-29T15:16:34.530475+03:00,_0,04bc98083c46,,Kalavasos,0
+2026-07-29T12:11:55Z,2026-07-29T15:16:34.530475+03:00,_1,8d8db4a423e0,Kalavasos,Kalavasos,3
+2026-07-29T12:11:55Z,2026-07-29T15:16:34.530475+03:00,_2,454a1f0cff5b,Choirokoitia,Evagorou Ave,0
+2026-07-29T12:11:55Z,2026-07-29T15:16:34.530475+03:00,_0,51516327098d,Georgiou Neofytou,Spyrou Kyprianou Ave,0
+2026-07-29T12:11:55Z,2026-07-29T15:16:34.530475+03:00,_1,e3aaf5477b49,Spyrou Kyprianou Ave,Spyrou Kyprianou Ave,2
+2026-07-29T12:11:55Z,2026-07-29T15:16:34.530475+03:00,_2,6ec68c86e931,Spyrou Kyprianou Ave,Agias Filaxeos,0
