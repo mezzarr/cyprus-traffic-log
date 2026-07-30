@@ -5383,3 +5383,11 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-07-30T16:52:36Z,2026-07-30T19:57:16.098019+03:00,_0,0299ed13c1f9,Exit 24 >E127 Germasogeia / E113 Lemesos-Centre,Kato Polemidia,0
 2026-07-30T16:52:36Z,2026-07-30T19:57:16.098019+03:00,_1,f91a900bb2ce,A1,Ypsonas,1
 2026-07-30T16:52:36Z,2026-07-30T19:57:16.098019+03:00,_2,a79c40fcd60a,Ypsonas,"to A6 > Pafos, Pafos Airport",0
+2026-07-30T17:02:42Z,2026-07-30T20:07:22.064592+03:00,_0,9fd95393c6f9,E147 - Archiepiskopou Makariou III Ave,Vasileos Georgiou II,0
+2026-07-30T17:02:42Z,2026-07-30T20:07:22.064592+03:00,_1,e07ed380dedf,Agias Filaxeos,Vasileos Georgiou II,4
+2026-07-30T17:02:42Z,2026-07-30T20:07:22.064592+03:00,_2,f0692a22ef39,Agias Filaxeos,Agias Filaxeos,0
+2026-07-30T17:02:42Z,2026-07-30T20:07:22.064592+03:00,_3,a4260c51b19c,Steliou Kyriakidi,,4
+2026-07-30T17:02:42Z,2026-07-30T20:07:22.064592+03:00,_4,f5f94ff22484,Agias Filaxeos,E110,0
+2026-07-30T17:02:42Z,2026-07-30T20:07:22.064592+03:00,_0,6564ca4ab008,E110,Spyrou Kyprianou Ave,0
+2026-07-30T17:02:42Z,2026-07-30T20:07:22.064592+03:00,_1,c7626fee6f30,Agias Filaxeos,Vasileos Georgiou II,2
+2026-07-30T17:02:42Z,2026-07-30T20:07:22.064592+03:00,_2,a830e23e2441,Agiou Ilarionos,E147 - Archiepiskopou Makariou III Ave,0
