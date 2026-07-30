@@ -4779,3 +4779,19 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-07-30T05:54:08Z,2026-07-30T08:58:48.212088+03:00,_4,7e9e53411917,Lemesou Ave,E1302 - Nikis Ave,0
 2026-07-30T05:54:08Z,2026-07-30T08:58:48.212088+03:00,_5,910016111853,B18 - Georgiou Griva Digeni Ave,B18 - Georgiou Griva Digeni Ave,4
 2026-07-30T05:54:08Z,2026-07-30T08:58:48.212088+03:00,_6,bbf67e32aa17,B18 - Georgiou Griva Digeni Ave,Evagorou Ave,0
+2026-07-30T08:44:25Z,2026-07-30T11:49:04.634524+03:00,_0,dd4be8784553,E147 - Archiepiskopou Makariou III Ave,Agias Filaxeos,0
+2026-07-30T08:44:25Z,2026-07-30T11:49:04.634524+03:00,_1,931dd79e324a,E147 - Archiepiskopou Makariou III Ave,Vasileos Georgiou II,2
+2026-07-30T08:44:25Z,2026-07-30T11:49:04.634524+03:00,_2,62f9e9861a53,Agias Filaxeos,E110,0
+2026-07-30T08:44:25Z,2026-07-30T11:49:04.634524+03:00,_0,6564ca4ab008,E110,Vasileos Georgiou II,0
+2026-07-30T08:44:25Z,2026-07-30T11:49:04.634524+03:00,_1,c7626fee6f30,Agias Filaxeos,Vasileos Georgiou II,3
+2026-07-30T08:44:25Z,2026-07-30T11:49:04.634524+03:00,_2,fd1ec1f2cdf4,Agias Filaxeos,E147 - Archiepiskopou Makariou III Ave,0
+2026-07-30T08:44:25Z,2026-07-30T11:49:04.634524+03:00,_3,0e84928a205d,Agias Filaxeos,Agias Filaxeos,1
+2026-07-30T08:44:25Z,2026-07-30T11:49:04.634524+03:00,_4,420d963f05a5,Agias Filaxeos,Agias Filaxeos,0
+2026-07-30T08:44:25Z,2026-07-30T11:49:04.634524+03:00,_5,f8a1b1df72c7,Agias Filaxeos,E147 - Archiepiskopou Makariou III Ave,3
+2026-07-30T08:44:25Z,2026-07-30T11:49:04.634524+03:00,_0,1903b2559960,,Archiepiskopou Makariou III Ave,0
+2026-07-30T08:44:25Z,2026-07-30T11:49:04.634524+03:00,_1,660d388bb733,Lemesou Ave,Archiepiskopou Makariou III Ave,2
+2026-07-30T08:44:25Z,2026-07-30T11:49:04.634524+03:00,_2,5b037bbaa992,Lemesou Ave,Archiepiskopou Makariou III Ave,0
+2026-07-30T08:44:25Z,2026-07-30T11:49:04.634524+03:00,_3,91f4f4624f42,Archiepiskopou Makariou III Ave,B18 - Georgiou Griva Digeni Ave,3
+2026-07-30T08:44:25Z,2026-07-30T11:49:04.634524+03:00,_4,7c1a88e2db2c,Archiepiskopou Makariou III Ave,E1302 - Nikis Ave,0
+2026-07-30T08:44:25Z,2026-07-30T11:49:04.634524+03:00,_5,910016111853,B18 - Georgiou Griva Digeni Ave,B18 - Georgiou Griva Digeni Ave,4
+2026-07-30T08:44:25Z,2026-07-30T11:49:04.634524+03:00,_6,bbf67e32aa17,B18 - Georgiou Griva Digeni Ave,Evagorou Ave,0
