@@ -5028,3 +5028,12 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-07-30T13:32:09Z,2026-07-30T16:36:48.746249+03:00,_2,9800ef0abc36,Agios Athanasios,Agios Athanasios,0
 2026-07-30T13:32:09Z,2026-07-30T16:36:48.746249+03:00,_3,1f9e4309220a,Agios Athanasios,Agios Athanasios,1
 2026-07-30T13:32:09Z,2026-07-30T16:36:48.746249+03:00,_4,e532d87a661f,Mesa Geitonia,"to A6 > Pafos, Pafos Airport",0
+2026-07-30T13:42:13Z,2026-07-30T16:46:53.257324+03:00,_0,fe72ea2b224f,Strovolos,Lemesou Ave,0
+2026-07-30T13:42:13Z,2026-07-30T16:46:53.257324+03:00,_1,1c3025f6d361,Strovolos,Lemesou Ave,4
+2026-07-30T13:42:13Z,2026-07-30T16:46:53.257324+03:00,_2,c6e235d3222a,Aglantzia,Archiepiskopou Makariou III Ave,0
+2026-07-30T13:42:13Z,2026-07-30T16:46:53.257324+03:00,_3,394713f228bd,Lemesou Ave,Lemesou Ave,3
+2026-07-30T13:42:13Z,2026-07-30T16:46:53.257324+03:00,_0,d0dc64f54734,,Lemesou Ave,0
+2026-07-30T13:42:13Z,2026-07-30T16:46:53.257324+03:00,_1,1c3025f6d361,Strovolos,Lemesou Ave,4
+2026-07-30T13:42:13Z,2026-07-30T16:46:53.257324+03:00,_2,c6e235d3222a,Aglantzia,Archiepiskopou Makariou III Ave,0
+2026-07-30T13:42:13Z,2026-07-30T16:46:53.257324+03:00,_3,6efde239cabf,Lemesou Ave,Archiepiskopou Makariou III Ave,3
+2026-07-30T13:42:13Z,2026-07-30T16:46:53.257324+03:00,_4,8fab7dfc83f0,Lemesou Ave,Evagorou Ave,0
