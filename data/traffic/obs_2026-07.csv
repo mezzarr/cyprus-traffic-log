@@ -4907,3 +4907,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-07-30T10:26:19Z,2026-07-30T13:30:58.523671+03:00,_0,4c0187e14339,,Kouklia,0
 2026-07-30T10:26:19Z,2026-07-30T13:30:58.523671+03:00,_1,d3e86e9ba59c,Kouklia,Ha Potami,1
 2026-07-30T10:26:19Z,2026-07-30T13:30:58.523671+03:00,_2,47e7672c3a85,Ha Potami,Evagorou Ave,0
+2026-07-30T10:36:44Z,2026-07-30T13:41:24.208269+03:00,_0,587d4dc9a31f,E147 - Archiepiskopou Makariou III Ave,Agias Filaxeos,0
+2026-07-30T10:36:44Z,2026-07-30T13:41:24.208269+03:00,_1,8b9b4d28a644,Agias Filaxeos,Agias Filaxeos,1
+2026-07-30T10:36:44Z,2026-07-30T13:41:24.208269+03:00,_2,51d9285fca15,Agias Filaxeos,E110,0
