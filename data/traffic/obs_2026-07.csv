@@ -6117,3 +6117,11 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-07-31T17:08:21Z,2026-07-31T20:13:02.584931+03:00,_4,910016111853,B18 - Georgiou Griva Digeni Ave,B18 - Georgiou Griva Digeni Ave,4
 2026-07-31T17:08:21Z,2026-07-31T20:13:02.584931+03:00,_5,bd5c9c327179,B18 - Georgiou Griva Digeni Ave,Evagorou Ave,3
 2026-07-31T17:08:21Z,2026-07-31T20:13:02.584931+03:00,_6,76dbed895c05,E165 - Themistokli Dervi,Evagorou Ave,0
+2026-07-31T17:18:59Z,2026-07-31T20:23:40.408248+03:00,_0,920305ee9a1e,E147 - Archiepiskopou Makariou III Ave,Agias Filaxeos,0
+2026-07-31T17:18:59Z,2026-07-31T20:23:40.408248+03:00,_1,a4260c51b19c,Steliou Kyriakidi,,4
+2026-07-31T17:18:59Z,2026-07-31T20:23:40.408248+03:00,_2,f5f94ff22484,Agias Filaxeos,E110,0
+2026-07-31T17:18:59Z,2026-07-31T20:23:40.408248+03:00,_0,c7636f6313c5,,E1302 - Nikis Ave,0
+2026-07-31T17:18:59Z,2026-07-31T20:23:40.408248+03:00,_1,910016111853,B18 - Georgiou Griva Digeni Ave,B18 - Georgiou Griva Digeni Ave,4
+2026-07-31T17:18:59Z,2026-07-31T20:23:40.408248+03:00,_2,be1978e23bd0,B18 - Georgiou Griva Digeni Ave,E165 - Themistokli Dervi,0
+2026-07-31T17:18:59Z,2026-07-31T20:23:40.408248+03:00,_3,06a69b0e63fe,B18 - Georgiou Griva Digeni Ave,Evagorou Ave,3
+2026-07-31T17:18:59Z,2026-07-31T20:23:40.408248+03:00,_4,76dbed895c05,E165 - Themistokli Dervi,Evagorou Ave,0
