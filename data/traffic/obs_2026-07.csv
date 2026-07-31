@@ -6231,3 +6231,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-07-31T21:37:40Z,2026-08-01T00:42:20.749515+03:00,_2,c97b954fcb12,E110 - 1 Apriliou,E110,0
 2026-07-31T21:57:48Z,2026-08-01T01:02:28.572986+03:00,_0,9294f633d701,E147 - Archiepiskopou Makariou III Ave,E110,0
 2026-07-31T21:57:48Z,2026-08-01T01:02:28.572986+03:00,_1,fd78ea114c73,Sokratous,E110 - Eleftherias,3
+2026-07-31T22:58:44Z,2026-08-01T02:03:24.582618+03:00,_0,55963dd913fc,E110,Agias Filaxeos,0
+2026-07-31T22:58:44Z,2026-08-01T02:03:24.582618+03:00,_1,c42028886147,Agias Filaxeos,Agias Filaxeos,4
+2026-07-31T22:58:44Z,2026-08-01T02:03:24.582618+03:00,_2,02446ed5df97,Spyrou Kyprianou Ave,E147 - Archiepiskopou Makariou III Ave,0
