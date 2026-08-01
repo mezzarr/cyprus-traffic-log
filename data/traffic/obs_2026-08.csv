@@ -233,3 +233,5 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-01T17:36:16Z,2026-08-01T20:40:57.462659+03:00,_0,d0dc64f54734,,Lemesou Ave,0
 2026-08-01T17:36:16Z,2026-08-01T20:40:57.462659+03:00,_1,1c3025f6d361,Strovolos,Lemesou Ave,3
 2026-08-01T17:36:16Z,2026-08-01T20:40:57.462659+03:00,_2,cc8badd45da4,Aglantzia,Evagorou Ave,0
+2026-08-01T17:46:21Z,2026-08-01T20:51:02.356098+03:00,_0,98b5261b31f5,E110,E147 - Archiepiskopou Makariou III Ave,0
+2026-08-01T17:46:21Z,2026-08-01T20:51:02.356098+03:00,_1,676c339d8b55,Agias Filaxeos,E147 - Archiepiskopou Makariou III Ave,3
