@@ -387,3 +387,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-02T18:57:08Z,2026-08-02T22:01:49.911279+03:00,_0,23e9d057024d,,Lemesou Ave,0
 2026-08-02T18:57:08Z,2026-08-02T22:01:49.911279+03:00,_1,64039a076bda,Strovolos,Lemesou Ave,2
 2026-08-02T18:57:08Z,2026-08-02T22:01:49.911279+03:00,_2,cc8badd45da4,Aglantzia,Evagorou Ave,0
+2026-08-02T23:25:19Z,2026-08-03T02:30:00.863289+03:00,_0,0cd4e90dbfef,Kosta Misiaouli,E950 - Giannou Kranidioti,0
+2026-08-02T23:25:19Z,2026-08-03T02:30:00.863289+03:00,_1,e01877ac5641,E950 - Giannou Kranidioti,E950 - Giannou Kranidioti,4
+2026-08-02T23:25:19Z,2026-08-03T02:30:00.863289+03:00,_2,9174c2860977,Dimotikou Stadiou,E902 - Proedrikou Megarou Ave,0
