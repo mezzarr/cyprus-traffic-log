@@ -1500,3 +1500,12 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-04T20:10:36Z,2026-08-04T23:15:18.165292+03:00,_0,9b29889acf68,Exit 24 >E127 Germasogeia / E113 Lemesos-Centre,Kato Polemidia,0
 2026-08-04T20:10:36Z,2026-08-04T23:15:18.165292+03:00,_1,0b7511f02fda,Ypsonas,Ypsonas,2
 2026-08-04T20:10:36Z,2026-08-04T23:15:18.165292+03:00,_2,b0f2709c7ff8,Ypsonas,"to A6 > Pafos, Pafos Airport",0
+2026-08-04T20:20:41Z,2026-08-04T23:25:23.454068+03:00,_0,4f10bd89bbf7,Exit 24 >E127 Germasogeia / E113 Lemesos-Centre,Kato Polemidia,0
+2026-08-04T20:20:41Z,2026-08-04T23:25:23.454068+03:00,_1,8df7591062a2,Kato Polemidia,Ypsonas,2
+2026-08-04T20:20:41Z,2026-08-04T23:25:23.454068+03:00,_2,b0f2709c7ff8,Ypsonas,"to A6 > Pafos, Pafos Airport",0
+2026-08-04T20:20:41Z,2026-08-04T23:25:23.454068+03:00,_0,f551976cfa70,E147 - Archiepiskopou Makariou III Ave,Bellini,0
+2026-08-04T20:20:41Z,2026-08-04T23:25:23.454068+03:00,_1,2e4f789e4b9b,Georgiou Papandreou,Bellini,4
+2026-08-04T20:20:41Z,2026-08-04T23:25:23.454068+03:00,_2,67fd586de3bc,Georgiou Papandreou,Ivykou,0
+2026-08-04T20:20:41Z,2026-08-04T23:25:23.454068+03:00,_3,cec91fb425c4,Bottitselli,Steliou Kyriakidi,2
+2026-08-04T20:20:41Z,2026-08-04T23:25:23.454068+03:00,_4,fbdd0e351f56,Ivykou,,4
+2026-08-04T20:20:41Z,2026-08-04T23:25:23.454068+03:00,_5,f5f94ff22484,Agias Filaxeos,E110,0
