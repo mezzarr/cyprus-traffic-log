@@ -1467,3 +1467,7 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-04T19:16:25Z,2026-08-04T22:21:07.177168+03:00,_0,e840a4c3672b,E147 - Archiepiskopou Makariou III Ave,Steliou Kyriakidi,0
 2026-08-04T19:16:25Z,2026-08-04T22:21:07.177168+03:00,_1,a80760be4702,Ivykou,Agias Filaxeos,3
 2026-08-04T19:16:25Z,2026-08-04T22:21:07.177168+03:00,_2,87a7ea39e613,Steliou Kyriakidi,E110,0
+2026-08-04T19:26:28Z,2026-08-04T22:31:10.411230+03:00,_0,0f933a47c7c3,E147 - Archiepiskopou Makariou III Ave,Ivykou,0
+2026-08-04T19:26:28Z,2026-08-04T22:31:10.411230+03:00,_1,cec91fb425c4,Bottitselli,Steliou Kyriakidi,2
+2026-08-04T19:26:28Z,2026-08-04T22:31:10.411230+03:00,_2,a80760be4702,Ivykou,Agias Filaxeos,4
+2026-08-04T19:26:28Z,2026-08-04T22:31:10.411230+03:00,_3,87a7ea39e613,Steliou Kyriakidi,E110,0
