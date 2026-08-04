@@ -168,3 +168,4 @@ utc,feed,error
 2026-08-04T13:01:45Z,alerts,"https://fixcyprus.cy/gnosis/open/api/nap/datasets/waze_alerts/: ParseError: syntax error: line 1, column 0"
 2026-08-04T13:13:13Z,alerts,"https://fixcyprus.cy/gnosis/open/api/nap/datasets/waze_alerts/: ParseError: syntax error: line 1, column 0"
 2026-08-04T13:24:22Z,alerts,"https://fixcyprus.cy/gnosis/open/api/nap/datasets/waze_alerts/: ParseError: syntax error: line 1, column 0"
+2026-08-04T13:46:58Z,alerts,"https://fixcyprus.cy/gnosis/open/api/nap/datasets/waze_alerts/: ParseError: syntax error: line 1, column 0"
