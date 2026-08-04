@@ -1516,3 +1516,9 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-04T20:30:45Z,2026-08-04T23:35:27.316881+03:00,_1,cec91fb425c4,Bottitselli,Steliou Kyriakidi,2
 2026-08-04T20:30:45Z,2026-08-04T23:35:27.316881+03:00,_2,fbdd0e351f56,Ivykou,,4
 2026-08-04T20:30:45Z,2026-08-04T23:35:27.316881+03:00,_3,f5f94ff22484,Agias Filaxeos,E110,0
+2026-08-04T20:40:49Z,2026-08-04T23:45:31.223557+03:00,_0,e840a4c3672b,E147 - Archiepiskopou Makariou III Ave,Steliou Kyriakidi,0
+2026-08-04T20:40:49Z,2026-08-04T23:45:31.223557+03:00,_1,a80760be4702,Ivykou,Agias Filaxeos,2
+2026-08-04T20:40:49Z,2026-08-04T23:45:31.223557+03:00,_2,87a7ea39e613,Steliou Kyriakidi,E110,0
+2026-08-04T20:40:49Z,2026-08-04T23:45:31.223557+03:00,_0,9b29889acf68,Exit 24 >E127 Germasogeia / E113 Lemesos-Centre,Kato Polemidia,0
+2026-08-04T20:40:49Z,2026-08-04T23:45:31.223557+03:00,_1,e3cf8a80db8f,Ypsonas,Ypsonas,1
+2026-08-04T20:40:49Z,2026-08-04T23:45:31.223557+03:00,_2,210d1e57ec93,Ypsonas,"to A6 > Pafos, Pafos Airport",0
