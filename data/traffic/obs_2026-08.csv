@@ -1458,3 +1458,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-04T17:45:28Z,2026-08-04T20:50:10.490472+03:00,_0,c7636f6313c5,,E1302 - Nikis Ave,0
 2026-08-04T17:45:28Z,2026-08-04T20:50:10.490472+03:00,_1,910016111853,B18 - Georgiou Griva Digeni Ave,B18 - Georgiou Griva Digeni Ave,3
 2026-08-04T17:45:28Z,2026-08-04T20:50:10.490472+03:00,_2,bbf67e32aa17,B18 - Georgiou Griva Digeni Ave,Evagorou Ave,0
+2026-08-04T17:55:32Z,2026-08-04T21:00:14.269221+03:00,_0,e840a4c3672b,E147 - Archiepiskopou Makariou III Ave,Steliou Kyriakidi,0
+2026-08-04T17:55:32Z,2026-08-04T21:00:14.269221+03:00,_1,a80760be4702,Ivykou,Agias Filaxeos,3
+2026-08-04T17:55:32Z,2026-08-04T21:00:14.269221+03:00,_2,87a7ea39e613,Steliou Kyriakidi,E110,0
