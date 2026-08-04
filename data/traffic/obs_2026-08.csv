@@ -1249,3 +1249,19 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-04T15:31:24Z,2026-08-04T18:36:05.659461+03:00,_0,68ba8c9365ac,Exit 24 >E127 Germasogeia / E113 Lemesos-Centre,Germasogeia,0
 2026-08-04T15:31:24Z,2026-08-04T18:36:05.659461+03:00,_1,ce32023c9f0b,Germasogeia,Germasogeia,1
 2026-08-04T15:31:24Z,2026-08-04T18:36:05.659461+03:00,_2,3e1d75b9e16e,Agios Athanasios,"to A6 > Pafos, Pafos Airport",0
+2026-08-04T15:41:55Z,2026-08-04T18:46:36.895023+03:00,_0,320e7f883c81,E110,E147 - Archiepiskopou Makariou III Ave,0
+2026-08-04T15:41:55Z,2026-08-04T18:46:36.895023+03:00,_1,88697bca4b53,Agias Filaxeos,E147 - Archiepiskopou Makariou III Ave,3
+2026-08-04T15:41:55Z,2026-08-04T18:46:36.895023+03:00,_0,0404ea780de8,E147 - Archiepiskopou Makariou III Ave,Vasileos Georgiou II,0
+2026-08-04T15:41:55Z,2026-08-04T18:46:36.895023+03:00,_1,ded58892ae74,Agias Filaxeos,Vasileos Georgiou II,4
+2026-08-04T15:41:55Z,2026-08-04T18:46:36.895023+03:00,_2,f74602cafe9b,Agias Filaxeos,Steliou Kyriakidi,0
+2026-08-04T15:41:55Z,2026-08-04T18:46:36.895023+03:00,_3,a80760be4702,Ivykou,Agias Filaxeos,3
+2026-08-04T15:41:55Z,2026-08-04T18:46:36.895023+03:00,_4,a4260c51b19c,Steliou Kyriakidi,,4
+2026-08-04T15:41:55Z,2026-08-04T18:46:36.895023+03:00,_5,f5f94ff22484,Agias Filaxeos,E110,0
+2026-08-04T15:41:55Z,2026-08-04T18:46:36.895023+03:00,_0,21071115abc5,,> A1 Lefkosia / (A5) Larnaka / (A5)(A3) Larnaka Airport,0
+2026-08-04T15:41:55Z,2026-08-04T18:46:36.895023+03:00,_1,449dd31251f4,Germasogeia,Germasogeia,2
+2026-08-04T15:41:55Z,2026-08-04T18:46:36.895023+03:00,_2,3a34f7fdb5db,> A1 Lefkosia / (A5) Larnaka / (A5)(A3) Larnaka Airport,Evagorou Ave,0
+2026-08-04T15:41:55Z,2026-08-04T18:46:36.895023+03:00,_0,391ae18682fa,Episkopi,> A1 Lefkosia / (A5) Larnaka / (A5)(A3) Larnaka Airport,0
+2026-08-04T15:41:55Z,2026-08-04T18:46:36.895023+03:00,_1,cafc026927d2,Germasogeia,Germasogeia,2
+2026-08-04T15:41:55Z,2026-08-04T18:46:36.895023+03:00,_0,06afc6492b14,Exit 24 >E127 Germasogeia / E113 Lemesos-Centre,Germasogeia,0
+2026-08-04T15:41:55Z,2026-08-04T18:46:36.895023+03:00,_1,c0f129731113,Agios Athanasios,Mesa Geitonia,2
+2026-08-04T15:41:55Z,2026-08-04T18:46:36.895023+03:00,_2,0df26c3b855b,Lemesos,"to A6 > Pafos, Pafos Airport",0
