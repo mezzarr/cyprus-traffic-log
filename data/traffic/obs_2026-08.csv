@@ -2110,3 +2110,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-05T16:53:00Z,2026-08-05T19:57:42.244720+03:00,_2,cc8badd45da4,Aglantzia,Evagorou Ave,0
 2026-08-05T16:53:00Z,2026-08-05T19:57:42.244720+03:00,_0,248866f2f861,E110,E147 - Archiepiskopou Makariou III Ave,0
 2026-08-05T16:53:00Z,2026-08-05T19:57:42.244720+03:00,_1,e713c7488bdd,Agias Filaxeos,E147 - Archiepiskopou Makariou III Ave,3
+2026-08-05T17:03:07Z,2026-08-05T20:07:48.959517+03:00,_0,920305ee9a1e,E147 - Archiepiskopou Makariou III Ave,Agias Filaxeos,0
+2026-08-05T17:03:07Z,2026-08-05T20:07:48.959517+03:00,_1,a4260c51b19c,Steliou Kyriakidi,,4
+2026-08-05T17:03:07Z,2026-08-05T20:07:48.959517+03:00,_2,f5f94ff22484,Agias Filaxeos,E110,0
