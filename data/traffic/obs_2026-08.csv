@@ -2075,3 +2075,8 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-05T16:12:21Z,2026-08-05T19:17:03.628333+03:00,_2,8fab7dfc83f0,Lemesou Ave,Evagorou Ave,0
 2026-08-05T16:12:21Z,2026-08-05T19:17:03.628333+03:00,_0,1cc902273d46,E110,E147 - Archiepiskopou Makariou III Ave,0
 2026-08-05T16:12:21Z,2026-08-05T19:17:03.628333+03:00,_1,b1607c8a378f,Agias Filaxeos,E147 - Archiepiskopou Makariou III Ave,3
+2026-08-05T16:22:46Z,2026-08-05T19:27:28.208253+03:00,_0,320e7f883c81,E110,E147 - Archiepiskopou Makariou III Ave,0
+2026-08-05T16:22:46Z,2026-08-05T19:27:28.208253+03:00,_1,88697bca4b53,Agias Filaxeos,E147 - Archiepiskopou Makariou III Ave,3
+2026-08-05T16:22:46Z,2026-08-05T19:27:28.208253+03:00,_0,5c308ae9824f,,Germasogeia,0
+2026-08-05T16:22:46Z,2026-08-05T19:27:28.208253+03:00,_1,613da88c9e19,> A1 Lefkosia / (A5) Larnaka / (A5)(A3) Larnaka Airport,Germasogeia,1
+2026-08-05T16:22:46Z,2026-08-05T19:27:28.208253+03:00,_2,3a34f7fdb5db,> A1 Lefkosia / (A5) Larnaka / (A5)(A3) Larnaka Airport,Evagorou Ave,0
