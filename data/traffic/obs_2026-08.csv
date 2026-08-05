@@ -1875,3 +1875,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-05T10:42:13Z,2026-08-05T13:46:54.984927+03:00,_0,51516327098d,Georgiou Neofytou,Spyrou Kyprianou Ave,0
 2026-08-05T10:42:13Z,2026-08-05T13:46:54.984927+03:00,_1,f53c43abff4f,Spyrou Kyprianou Ave,Spyrou Kyprianou Ave,4
 2026-08-05T10:42:13Z,2026-08-05T13:46:54.984927+03:00,_2,170ca50cf9c5,Spyrou Kyprianou Ave,Angelou Vlachou,0
+2026-08-05T11:03:06Z,2026-08-05T14:07:48.871257+03:00,_0,1903b2559960,,Archiepiskopou Makariou III Ave,0
+2026-08-05T11:03:06Z,2026-08-05T14:07:48.871257+03:00,_1,660d388bb733,Lemesou Ave,Archiepiskopou Makariou III Ave,2
+2026-08-05T11:03:06Z,2026-08-05T14:07:48.871257+03:00,_2,8fab7dfc83f0,Lemesou Ave,Evagorou Ave,0
