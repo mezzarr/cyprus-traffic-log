@@ -1780,3 +1780,15 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-05T09:08:47Z,2026-08-05T12:13:29.105409+03:00,_0,c7636f6313c5,,E1302 - Nikis Ave,0
 2026-08-05T09:08:47Z,2026-08-05T12:13:29.105409+03:00,_1,910016111853,B18 - Georgiou Griva Digeni Ave,B18 - Georgiou Griva Digeni Ave,3
 2026-08-05T09:08:47Z,2026-08-05T12:13:29.105409+03:00,_2,bbf67e32aa17,B18 - Georgiou Griva Digeni Ave,Evagorou Ave,0
+2026-08-05T09:19:13Z,2026-08-05T12:23:55.736060+03:00,_0,69fc3b9dbbdd,Strovolos,Archiepiskopou Makariou III Ave,0
+2026-08-05T09:19:13Z,2026-08-05T12:23:55.736060+03:00,_1,c57daf65c80e,Lemesou Ave,Archiepiskopou Makariou III Ave,2
+2026-08-05T09:19:13Z,2026-08-05T12:23:55.736060+03:00,_0,51516327098d,Georgiou Neofytou,Spyrou Kyprianou Ave,0
+2026-08-05T09:19:13Z,2026-08-05T12:23:55.736060+03:00,_1,e47265de14fc,Spyrou Kyprianou Ave,Spyrou Kyprianou Ave,4
+2026-08-05T09:19:13Z,2026-08-05T12:23:55.736060+03:00,_2,b16f06e86626,Spyrou Kyprianou Ave,Angelou Vlachou,0
+2026-08-05T09:19:13Z,2026-08-05T12:23:55.736060+03:00,_0,390a534e7e4c,E110,Agias Filaxeos,0
+2026-08-05T09:19:13Z,2026-08-05T12:23:55.736060+03:00,_1,02446ed5df97,Spyrou Kyprianou Ave,E147 - Archiepiskopou Makariou III Ave,3
+2026-08-05T09:19:13Z,2026-08-05T12:23:55.736060+03:00,_0,daca33dbcb0d,,Archiepiskopou Makariou III Ave,0
+2026-08-05T09:19:13Z,2026-08-05T12:23:55.736060+03:00,_1,43f05193c4b0,Lemesou Ave,Archiepiskopou Makariou III Ave,2
+2026-08-05T09:19:13Z,2026-08-05T12:23:55.736060+03:00,_2,7e9e53411917,Lemesou Ave,E1302 - Nikis Ave,0
+2026-08-05T09:19:13Z,2026-08-05T12:23:55.736060+03:00,_3,910016111853,B18 - Georgiou Griva Digeni Ave,B18 - Georgiou Griva Digeni Ave,3
+2026-08-05T09:19:13Z,2026-08-05T12:23:55.736060+03:00,_4,bbf67e32aa17,B18 - Georgiou Griva Digeni Ave,Evagorou Ave,0
