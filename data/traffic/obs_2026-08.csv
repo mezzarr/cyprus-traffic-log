@@ -2410,3 +2410,9 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-06T09:30:56Z,2026-08-06T12:35:38.651019+03:00,_0,920305ee9a1e,E147 - Archiepiskopou Makariou III Ave,Agias Filaxeos,0
 2026-08-06T09:30:56Z,2026-08-06T12:35:38.651019+03:00,_1,a4260c51b19c,Steliou Kyriakidi,,3
 2026-08-06T09:30:56Z,2026-08-06T12:35:38.651019+03:00,_2,f5f94ff22484,Agias Filaxeos,E110,0
+2026-08-06T09:40:59Z,2026-08-06T12:45:41.913343+03:00,_0,72b03ff9b5bc,E110,E110 - Agias Fylaxeos,0
+2026-08-06T09:40:59Z,2026-08-06T12:45:41.913343+03:00,_1,e50ca2ecb1e0,E110 - 1 Apriliou,,2
+2026-08-06T09:40:59Z,2026-08-06T12:45:41.913343+03:00,_2,94bd22476a9c,E110 - Agias Fylaxeos,E147 - Archiepiskopou Makariou III Ave,0
+2026-08-06T09:40:59Z,2026-08-06T12:45:41.913343+03:00,_3,980e7c5b23f7,Agias Filaxeos,Agias Filaxeos,1
+2026-08-06T09:40:59Z,2026-08-06T12:45:41.913343+03:00,_4,dcb4b8d1a62a,Agias Filaxeos,Agias Filaxeos,0
+2026-08-06T09:40:59Z,2026-08-06T12:45:41.913343+03:00,_5,e713c7488bdd,Agias Filaxeos,E147 - Archiepiskopou Makariou III Ave,3
