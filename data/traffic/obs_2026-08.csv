@@ -2747,3 +2747,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-06T16:57:09Z,2026-08-06T20:01:52.394728+03:00,_0,23e9d057024d,,Lemesou Ave,0
 2026-08-06T16:57:09Z,2026-08-06T20:01:52.394728+03:00,_1,64039a076bda,Strovolos,Lemesou Ave,3
 2026-08-06T16:57:09Z,2026-08-06T20:01:52.394728+03:00,_2,cc8badd45da4,Aglantzia,Evagorou Ave,0
+2026-08-06T17:07:15Z,2026-08-06T20:11:58.031278+03:00,_0,c7636f6313c5,,E1302 - Nikis Ave,0
+2026-08-06T17:07:15Z,2026-08-06T20:11:58.031278+03:00,_1,910016111853,B18 - Georgiou Griva Digeni Ave,B18 - Georgiou Griva Digeni Ave,4
+2026-08-06T17:07:15Z,2026-08-06T20:11:58.031278+03:00,_2,bbf67e32aa17,B18 - Georgiou Griva Digeni Ave,Evagorou Ave,0
