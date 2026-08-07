@@ -2750,3 +2750,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-06T17:07:15Z,2026-08-06T20:11:58.031278+03:00,_0,c7636f6313c5,,E1302 - Nikis Ave,0
 2026-08-06T17:07:15Z,2026-08-06T20:11:58.031278+03:00,_1,910016111853,B18 - Georgiou Griva Digeni Ave,B18 - Georgiou Griva Digeni Ave,4
 2026-08-06T17:07:15Z,2026-08-06T20:11:58.031278+03:00,_2,bbf67e32aa17,B18 - Georgiou Griva Digeni Ave,Evagorou Ave,0
+2026-08-07T02:42:32Z,2026-08-07T05:47:15.306490+03:00,_0,18f24c18f201,Pafos,Kofinou,0
+2026-08-07T02:42:32Z,2026-08-07T05:47:15.306490+03:00,_1,fd325771953e,> A1 Lefkosia,Kofinou,1
+2026-08-07T02:42:32Z,2026-08-07T05:47:15.306490+03:00,_2,b0dcdd92d1a7,Kornos,B19 - Omirou Ave,0
