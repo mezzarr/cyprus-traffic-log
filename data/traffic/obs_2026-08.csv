@@ -3854,3 +3854,12 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-08T07:33:11Z,2026-08-08T10:37:54.900052+03:00,_0,3db0c525fb5c,Leoforos Strovolou,Strovolou Ave,0
 2026-08-08T07:33:11Z,2026-08-08T10:37:54.900052+03:00,_1,1d6ff30cde12,Strovolou Ave,Strovolou Ave,5
 2026-08-08T07:33:11Z,2026-08-08T10:37:54.900052+03:00,_2,f2d609d930db,Strovolou Ave,E902 - Proedrikou Megarou Ave,0
+2026-08-08T07:43:15Z,2026-08-08T10:47:59.149174+03:00,_0,72b03ff9b5bc,E110,E110 - Agias Fylaxeos,0
+2026-08-08T07:43:15Z,2026-08-08T10:47:59.149174+03:00,_1,6b1c856e842f,E110 - 1 Apriliou,E110 - Agias Fylaxeos,3
+2026-08-08T07:43:15Z,2026-08-08T10:47:59.149174+03:00,_2,fd8d2aab3fe9,E110 - 1 Apriliou,E147 - Archiepiskopou Makariou III Ave,0
+2026-08-08T07:43:15Z,2026-08-08T10:47:59.149174+03:00,_0,543dd67c0e60,,B18 - Georgiou Griva Digeni Ave,0
+2026-08-08T07:43:15Z,2026-08-08T10:47:59.149174+03:00,_1,aabab5b0e87d,Archiepiskopou Makariou III Ave,B18 - Georgiou Griva Digeni Ave,3
+2026-08-08T07:43:15Z,2026-08-08T10:47:59.149174+03:00,_2,e1beab30434a,Archiepiskopou Makariou III Ave,Evagorou Ave,0
+2026-08-08T07:43:15Z,2026-08-08T10:47:59.149174+03:00,_0,3db0c525fb5c,Leoforos Strovolou,Strovolou Ave,0
+2026-08-08T07:43:15Z,2026-08-08T10:47:59.149174+03:00,_1,1d6ff30cde12,Strovolou Ave,Strovolou Ave,5
+2026-08-08T07:43:15Z,2026-08-08T10:47:59.149174+03:00,_2,f2d609d930db,Strovolou Ave,E902 - Proedrikou Megarou Ave,0
