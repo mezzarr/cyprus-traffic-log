@@ -3942,3 +3942,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-08T08:44:08Z,2026-08-08T11:48:51.458245+03:00,_2,d354936cf700,Strovolou Ave,Strovolou Ave,0
 2026-08-08T08:44:08Z,2026-08-08T11:48:51.458245+03:00,_3,0c7c45c2059f,Strovolou Ave,Strovolou Ave,5
 2026-08-08T08:44:08Z,2026-08-08T11:48:51.458245+03:00,_4,122e7b93a517,Strovolou Ave,E902 - Proedrikou Megarou Ave,0
+2026-08-08T08:54:14Z,2026-08-08T11:58:54.853871+03:00,_0,2459eb632a9a,Exit 24 >E127 Germasogeia / E113 Lemesos-Centre,Lemesos,0
+2026-08-08T08:54:14Z,2026-08-08T11:58:54.853871+03:00,_1,830dda577c6e,Lemesos,A6,3
+2026-08-08T08:54:14Z,2026-08-08T11:58:54.853871+03:00,_2,2fb4908adeb8,A1,"to A6 > Pafos, Pafos Airport",0
