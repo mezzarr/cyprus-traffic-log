@@ -4043,3 +4043,9 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-08T13:58:22Z,2026-08-08T17:03:05.849701+03:00,_0,1903b2559960,,Archiepiskopou Makariou III Ave,0
 2026-08-08T13:58:22Z,2026-08-08T17:03:05.849701+03:00,_1,660d388bb733,Lemesou Ave,Archiepiskopou Makariou III Ave,2
 2026-08-08T13:58:22Z,2026-08-08T17:03:05.849701+03:00,_2,8fab7dfc83f0,Lemesou Ave,Evagorou Ave,0
+2026-08-08T15:32:39Z,2026-08-08T18:37:22.737299+03:00,_0,2e51d966c5a2,,Agios Athanasios,0
+2026-08-08T15:32:39Z,2026-08-08T18:37:22.737299+03:00,_1,69e2abb27a41,Agios Athanasios,Agios Athanasios,1
+2026-08-08T15:32:39Z,2026-08-08T18:37:22.737299+03:00,_2,83677176177d,Germasogeia,Evagorou Ave,0
+2026-08-08T15:32:39Z,2026-08-08T18:37:22.737299+03:00,_0,12364e237b9f,Episkopi,Agios Athanasios,0
+2026-08-08T15:32:39Z,2026-08-08T18:37:22.737299+03:00,_1,69e2abb27a41,Agios Athanasios,Agios Athanasios,1
+2026-08-08T15:32:39Z,2026-08-08T18:37:22.737299+03:00,_2,cafc026927d2,Germasogeia,Germasogeia,0
