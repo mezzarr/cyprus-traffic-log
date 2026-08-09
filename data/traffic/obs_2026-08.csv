@@ -4268,3 +4268,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-09T18:24:56Z,2026-08-09T21:28:55.502298+03:00,_2,7792802c8552,Aglantzia,Archiepiskopou Makariou III Ave,0
 2026-08-09T18:24:56Z,2026-08-09T21:28:55.502298+03:00,_3,660d388bb733,Lemesou Ave,Archiepiskopou Makariou III Ave,2
 2026-08-09T18:24:56Z,2026-08-09T21:28:55.502298+03:00,_4,8fab7dfc83f0,Lemesou Ave,Evagorou Ave,0
+2026-08-09T21:42:39Z,2026-08-10T00:47:23.624874+03:00,_0,27376a44e937,,B18 - Digeni Akrita Ave,0
+2026-08-09T21:42:39Z,2026-08-10T00:47:23.624874+03:00,_1,970cc58093c6,Archiepiskopou Makariou III Ave,B18 - Georgiou Griva Digeni Ave,4
+2026-08-09T21:42:39Z,2026-08-10T00:47:23.624874+03:00,_2,e1beab30434a,Archiepiskopou Makariou III Ave,Evagorou Ave,0
