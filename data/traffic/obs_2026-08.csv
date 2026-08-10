@@ -4349,3 +4349,7 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-10T08:02:40Z,2026-08-10T11:07:24.178171+03:00,_2,a4082cd3b8e8,Aglantzia,E1302 - Nikis Ave,0
 2026-08-10T08:02:40Z,2026-08-10T11:07:24.178171+03:00,_3,910016111853,B18 - Georgiou Griva Digeni Ave,E165 - Themistokli Dervi,4
 2026-08-10T08:02:40Z,2026-08-10T11:07:24.178171+03:00,_4,bbf67e32aa17,B18 - Georgiou Griva Digeni Ave,Evagorou Ave,0
+2026-08-10T08:20:36Z,2026-08-10T11:25:21.026028+03:00,_0,6564ca4ab008,E110,Agias Filaxeos,0
+2026-08-10T08:20:36Z,2026-08-10T11:25:21.026028+03:00,_1,c7626fee6f30,Agias Filaxeos,Agias Filaxeos,3
+2026-08-10T08:20:36Z,2026-08-10T11:25:21.026028+03:00,_2,63550abc2b0b,Agias Filaxeos,Agiou Artemiou,0
+2026-08-10T08:20:36Z,2026-08-10T11:25:21.026028+03:00,_3,88697bca4b53,Agias Filaxeos,E147 - Archiepiskopou Makariou III Ave,3
