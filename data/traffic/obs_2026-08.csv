@@ -4335,3 +4335,9 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-10T08:51:12Z,2026-08-10T11:55:35.587469+03:00,_2,7792802c8552,Aglantzia,Archiepiskopou Makariou III Ave,0
 2026-08-10T08:51:12Z,2026-08-10T11:55:35.587469+03:00,_3,660d388bb733,Lemesou Ave,Archiepiskopou Makariou III Ave,2
 2026-08-10T08:51:12Z,2026-08-10T11:55:35.587469+03:00,_4,8fab7dfc83f0,Lemesou Ave,Evagorou Ave,0
+2026-08-10T09:01:15Z,2026-08-10T12:05:59.475935+03:00,_0,431f99d1e0ab,E110,E110 - Agias Fylaxeos,0
+2026-08-10T09:01:15Z,2026-08-10T12:05:59.475935+03:00,_1,3a8521ffabca,E110 - Agias Fylaxeos,E110 - Agias Fylaxeos,1
+2026-08-10T09:01:15Z,2026-08-10T12:05:59.475935+03:00,_2,46e9b8494d6b,E110 - Agias Fylaxeos,Agias Filaxeos,0
+2026-08-10T09:01:15Z,2026-08-10T12:05:59.475935+03:00,_3,0a5c4761a6b4,Agias Filaxeos,Agias Filaxeos,3
+2026-08-10T09:01:15Z,2026-08-10T12:05:59.475935+03:00,_4,63550abc2b0b,Agias Filaxeos,Agiou Artemiou,0
+2026-08-10T09:01:15Z,2026-08-10T12:05:59.475935+03:00,_5,88697bca4b53,Agias Filaxeos,E147 - Archiepiskopou Makariou III Ave,3
