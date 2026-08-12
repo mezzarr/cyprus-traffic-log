@@ -4946,3 +4946,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-12T10:06:36Z,2026-08-12T13:11:21.300371+03:00,_0,82de824e3dd9,E147 - Archiepiskopou Makariou III Ave,E110 - 1 Apriliou,0
 2026-08-12T10:06:36Z,2026-08-12T13:11:21.300371+03:00,_1,b12402f32100,E110 - Agias Fylaxeos,E110 - 1 Apriliou,2
 2026-08-12T10:06:36Z,2026-08-12T13:11:21.300371+03:00,_2,f99b72a378a5,E110 - Agias Fylaxeos,E110,0
+2026-08-12T10:24:40Z,2026-08-12T13:28:56.607866+03:00,_0,e2926746f44f,E147 - Archiepiskopou Makariou III Ave,E110 - 1 Apriliou,0
+2026-08-12T10:24:40Z,2026-08-12T13:28:56.607866+03:00,_1,f33351b72ad6,E110 - Agias Fylaxeos,E110 - 1 Apriliou,1
+2026-08-12T10:24:40Z,2026-08-12T13:28:56.607866+03:00,_2,f614dde3c2d7,E110 - Agias Fylaxeos,E110,0
