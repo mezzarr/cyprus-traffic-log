@@ -5109,3 +5109,9 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-13T08:55:01Z,2026-08-13T11:58:57.158310+03:00,_2,8fab7dfc83f0,Lemesou Ave,Evagorou Ave,0
 2026-08-13T08:55:01Z,2026-08-13T11:58:57.158310+03:00,_0,06afc6492b14,Exit 24 >E127 Germasogeia / E113 Lemesos-Centre,Germasogeia,2
 2026-08-13T08:55:01Z,2026-08-13T11:58:57.158310+03:00,_1,3e1d75b9e16e,Agios Athanasios,"to A6 > Pafos, Pafos Airport",0
+2026-08-13T09:43:30Z,2026-08-13T12:48:15.999817+03:00,_0,15ae2e1d5817,E147 - Archiepiskopou Makariou III Ave,Agias Filaxeos,0
+2026-08-13T09:43:30Z,2026-08-13T12:48:15.999817+03:00,_1,e0103df7d76d,Agias Filaxeos,Agias Filaxeos,3
+2026-08-13T09:43:30Z,2026-08-13T12:48:15.999817+03:00,_2,62f9e9861a53,Agias Filaxeos,E110,0
+2026-08-13T09:43:30Z,2026-08-13T12:48:15.999817+03:00,_0,346c64116a63,,Mouttagiaka,0
+2026-08-13T09:43:30Z,2026-08-13T12:48:15.999817+03:00,_1,517e037facd9,Mouttagiaka,Mouttagiaka,1
+2026-08-13T09:43:30Z,2026-08-13T12:48:15.999817+03:00,_2,bddc564a7b1f,Agios Tychonas,Evagorou Ave,0
