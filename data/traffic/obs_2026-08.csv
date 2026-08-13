@@ -5008,3 +5008,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-13T00:56:38Z,2026-08-13T04:01:24.176859+03:00,_0,5661b3f9cb72,Kosta Misiaouli,Strovolou Ave,0
 2026-08-13T00:56:38Z,2026-08-13T04:01:24.176859+03:00,_1,98e312849c02,Strovolou Ave,Strovolou Ave,2
 2026-08-13T00:56:38Z,2026-08-13T04:01:24.176859+03:00,_2,f2d609d930db,Strovolou Ave,E902 - Proedrikou Megarou Ave,0
+2026-08-13T04:51:40Z,2026-08-13T07:56:25.987510+03:00,_0,390a534e7e4c,E110 - Eleftherias,Agias Filaxeos,0
+2026-08-13T04:51:40Z,2026-08-13T07:56:25.987510+03:00,_1,85203f007a1c,Agias Filaxeos,Agias Filaxeos,4
+2026-08-13T04:51:40Z,2026-08-13T07:56:25.987510+03:00,_2,afcda84a293b,Agias Filaxeos,Agias Filaxeos,0
