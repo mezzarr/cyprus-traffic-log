@@ -5005,3 +5005,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-13T00:26:26Z,2026-08-13T03:31:12.274938+03:00,_0,35653bf66474,E110,Spyrou Kyprianou Ave,0
 2026-08-13T00:26:26Z,2026-08-13T03:31:12.274938+03:00,_1,29b0778aea64,Agias Filaxeos,Agias Filaxeos,4
 2026-08-13T00:26:26Z,2026-08-13T03:31:12.274938+03:00,_2,25decb465da9,Agias Filaxeos,E147 - Archiepiskopou Makariou III Ave,0
+2026-08-13T00:56:38Z,2026-08-13T04:01:24.176859+03:00,_0,5661b3f9cb72,Kosta Misiaouli,Strovolou Ave,0
+2026-08-13T00:56:38Z,2026-08-13T04:01:24.176859+03:00,_1,98e312849c02,Strovolou Ave,Strovolou Ave,2
+2026-08-13T00:56:38Z,2026-08-13T04:01:24.176859+03:00,_2,f2d609d930db,Strovolou Ave,E902 - Proedrikou Megarou Ave,0
