@@ -5066,3 +5066,11 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-13T07:36:36Z,2026-08-13T10:41:22.338334+03:00,_2,8fab7dfc83f0,Lemesou Ave,Evagorou Ave,0
 2026-08-13T07:46:42Z,2026-08-13T10:51:28.213747+03:00,_0,06afc6492b14,Germasogeia,Germasogeia,2
 2026-08-13T07:46:42Z,2026-08-13T10:51:28.213747+03:00,_1,3e1d75b9e16e,Agios Athanasios,Episkopi,0
+2026-08-13T07:56:46Z,2026-08-13T11:01:32.066045+03:00,_0,06afc6492b14,Exit 24 >E127 Germasogeia / E113 Lemesos-Centre,Germasogeia,3
+2026-08-13T07:56:46Z,2026-08-13T11:01:32.066045+03:00,_1,3e1d75b9e16e,Agios Athanasios,"to A6 > Pafos, Pafos Airport",0
+2026-08-13T07:56:46Z,2026-08-13T11:01:32.066045+03:00,_0,90311137b0fc,E147 - Archiepiskopou Makariou III Ave,Agias Filaxeos,0
+2026-08-13T07:56:46Z,2026-08-13T11:01:32.066045+03:00,_1,57ae009fa94e,Agias Filaxeos,Agias Filaxeos,2
+2026-08-13T07:56:46Z,2026-08-13T11:01:32.066045+03:00,_2,62f9e9861a53,Agias Filaxeos,E110,0
+2026-08-13T07:56:46Z,2026-08-13T11:01:32.066045+03:00,_0,543dd67c0e60,,B18 - Digeni Akrita Ave,0
+2026-08-13T07:56:46Z,2026-08-13T11:01:32.066045+03:00,_1,aabab5b0e87d,Archiepiskopou Makariou III Ave,B18 - Georgiou Griva Digeni Ave,3
+2026-08-13T07:56:46Z,2026-08-13T11:01:32.066045+03:00,_2,e1beab30434a,Archiepiskopou Makariou III Ave,Evagorou Ave,0
