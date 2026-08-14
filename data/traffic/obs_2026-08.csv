@@ -5244,3 +5244,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-14T03:08:12Z,2026-08-14T06:12:58.653689+03:00,_0,06065899251a,Pafos,Paramali,0
 2026-08-14T03:08:12Z,2026-08-14T06:12:58.653689+03:00,_1,efd8bd85622d,Paramali,Paramali,1
 2026-08-14T03:08:12Z,2026-08-14T06:12:58.653689+03:00,_2,7dbaf018197a,Episkopi Garrison,B19 - Omirou Ave,0
+2026-08-14T03:18:17Z,2026-08-14T06:23:03.910552+03:00,_0,1903b2559960,,Archiepiskopou Makariou III Ave,0
+2026-08-14T03:18:17Z,2026-08-14T06:23:03.910552+03:00,_1,660d388bb733,Lemesou Ave,Archiepiskopou Makariou III Ave,2
+2026-08-14T03:18:17Z,2026-08-14T06:23:03.910552+03:00,_2,8fab7dfc83f0,Lemesou Ave,Evagorou Ave,0
