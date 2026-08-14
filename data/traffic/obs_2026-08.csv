@@ -5262,3 +5262,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-14T05:08:39Z,2026-08-14T08:13:25.747858+03:00,_2,fe9e6c2d5cee,A1,Lemesou Ave,0
 2026-08-14T05:08:39Z,2026-08-14T08:13:25.747858+03:00,_3,e9550772caa3,Lemesou Ave,Lemesou Ave,1
 2026-08-14T05:08:39Z,2026-08-14T08:13:25.747858+03:00,_4,42e8917c1e04,A1,Evagorou Ave,0
+2026-08-14T07:06:50Z,2026-08-14T10:11:36.762272+03:00,_0,2122746d5a59,Spyrou Kyprianou Ave,Spyrou Kyprianou Ave,0
+2026-08-14T07:06:50Z,2026-08-14T10:11:36.762272+03:00,_1,f0fc85e67dfe,Spyrou Kyprianou Ave,Spyrou Kyprianou Ave,3
+2026-08-14T07:06:50Z,2026-08-14T10:11:36.762272+03:00,_2,0efa495a7a2f,Spyrou Kyprianou Ave,Spyrou Kyprianou Ave,0
