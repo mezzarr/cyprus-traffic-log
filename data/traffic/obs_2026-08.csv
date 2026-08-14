@@ -5265,3 +5265,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-14T07:06:50Z,2026-08-14T10:11:36.762272+03:00,_0,2122746d5a59,Spyrou Kyprianou Ave,Spyrou Kyprianou Ave,0
 2026-08-14T07:06:50Z,2026-08-14T10:11:36.762272+03:00,_1,f0fc85e67dfe,Spyrou Kyprianou Ave,Spyrou Kyprianou Ave,3
 2026-08-14T07:06:50Z,2026-08-14T10:11:36.762272+03:00,_2,0efa495a7a2f,Spyrou Kyprianou Ave,Spyrou Kyprianou Ave,0
+2026-08-14T07:24:52Z,2026-08-14T10:28:57.871805+03:00,_0,2122746d5a59,Agiou Athanasiou Ave,Spyrou Kyprianou Ave,0
+2026-08-14T07:24:52Z,2026-08-14T10:28:57.871805+03:00,_1,f0fc85e67dfe,Spyrou Kyprianou Ave,Spyrou Kyprianou Ave,2
+2026-08-14T07:24:52Z,2026-08-14T10:28:57.871805+03:00,_2,0efa495a7a2f,Spyrou Kyprianou Ave,Angelou Vlachou,0
