@@ -5378,3 +5378,8 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-15T09:01:39Z,2026-08-15T12:06:26.254421+03:00,_0,a621b9829dc1,Exit 24 >E127 Germasogeia / E113 Lemesos-Centre,A6,0
 2026-08-15T09:01:39Z,2026-08-15T12:06:26.254421+03:00,_1,df060225d58f,A1,Kato Polemidia,2
 2026-08-15T09:01:39Z,2026-08-15T12:06:26.254421+03:00,_2,8e8cea011a58,Ypsonas,"to A6 > Pafos, Pafos Airport",0
+2026-08-15T08:41:11Z,2026-08-15T11:45:58.186851+03:00,_0,06afc6492b14,Germasogeia,Germasogeia,2
+2026-08-15T08:41:11Z,2026-08-15T11:45:58.186851+03:00,_1,3e1d75b9e16e,Agios Athanasios,Episkopi,0
+2026-08-15T09:19:47Z,2026-08-15T12:23:58.061136+03:00,_0,d6074089d8ef,Exit 24 >E127 Germasogeia / E113 Lemesos-Centre,A6,0
+2026-08-15T09:19:47Z,2026-08-15T12:23:58.061136+03:00,_1,495dbc897204,Lemesos,Ypsonas,3
+2026-08-15T09:19:47Z,2026-08-15T12:23:58.061136+03:00,_2,a79c40fcd60a,Ypsonas,"to A6 > Pafos, Pafos Airport",0
