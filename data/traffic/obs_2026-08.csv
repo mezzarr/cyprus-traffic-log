@@ -5441,3 +5441,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-16T03:18:03Z,2026-08-16T06:22:50.477440+03:00,_0,e7cd1b0359c7,Leoforos Strovolou,E950 - Giannou Kranidioti,0
 2026-08-16T03:18:03Z,2026-08-16T06:22:50.477440+03:00,_1,2e2b1ef71edd,E948 - Pefkou,E950 - Giannou Kranidioti,3
 2026-08-16T03:18:03Z,2026-08-16T06:22:50.477440+03:00,_2,9174c2860977,E948 - Pefkou,E902 - Proedrikou Megarou Ave,0
+2026-08-16T07:40:27Z,2026-08-16T10:45:13.864216+03:00,_0,1903b2559960,,Archiepiskopou Makariou III Ave,0
+2026-08-16T07:40:27Z,2026-08-16T10:45:13.864216+03:00,_1,660d388bb733,Lemesou Ave,Archiepiskopou Makariou III Ave,2
+2026-08-16T07:40:27Z,2026-08-16T10:45:13.864216+03:00,_2,8fab7dfc83f0,Lemesou Ave,Evagorou Ave,0
