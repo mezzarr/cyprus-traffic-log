@@ -5426,3 +5426,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-15T19:23:06Z,2026-08-15T22:27:52.943590+03:00,_0,543dd67c0e60,,B18 - Digeni Akrita Ave,0
 2026-08-15T19:23:06Z,2026-08-15T22:27:52.943590+03:00,_1,aabab5b0e87d,Archiepiskopou Makariou III Ave,B18 - Georgiou Griva Digeni Ave,3
 2026-08-15T19:23:06Z,2026-08-15T22:27:52.943590+03:00,_2,e1beab30434a,Archiepiskopou Makariou III Ave,Evagorou Ave,0
+2026-08-16T00:06:04Z,2026-08-16T03:10:51.740842+03:00,_0,2fd0d5fd8149,Leoforos Strovolou,Strovolou Ave,0
+2026-08-16T00:06:04Z,2026-08-16T03:10:51.740842+03:00,_1,fda30a34d7e8,Arch. Makariou III,Strovolou Ave,2
+2026-08-16T00:06:04Z,2026-08-16T03:10:51.740842+03:00,_2,288bbc8f90d3,Strovolou Ave,E902 - Proedrikou Megarou Ave,0
