@@ -5435,3 +5435,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-16T02:37:44Z,2026-08-16T05:42:31.124078+03:00,_0,4c0187e14339,Pafos,Kouklia,0
 2026-08-16T02:37:44Z,2026-08-16T05:42:31.124078+03:00,_1,aac49f15b948,Kouklia,Kouklia,3
 2026-08-16T02:37:44Z,2026-08-16T05:42:31.124078+03:00,_2,155cce8edcfa,Ha Potami,B19 - Omirou Ave,0
+2026-08-16T03:07:59Z,2026-08-16T06:12:46.350937+03:00,_0,e7cd1b0359c7,Kosta Misiaouli,E950 - Giannou Kranidioti,0
+2026-08-16T03:07:59Z,2026-08-16T06:12:46.350937+03:00,_1,979971bf3a6f,Dimotikou Stadiou,E950 - Giannou Kranidioti,4
+2026-08-16T03:07:59Z,2026-08-16T06:12:46.350937+03:00,_2,d2b3b7da61f9,E948 - Pefkou,E902 - Proedrikou Megarou Ave,0
