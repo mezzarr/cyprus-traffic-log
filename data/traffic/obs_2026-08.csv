@@ -5558,3 +5558,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-17T23:10:29Z,2026-08-18T02:15:17.284541+03:00,_0,43286710d8e6,E110,E110 - 1 Apriliou,0
 2026-08-17T23:10:29Z,2026-08-18T02:15:17.284541+03:00,_1,635805bac913,E110 - 1 Apriliou,E110 - Agias Fylaxeos,2
 2026-08-17T23:10:29Z,2026-08-18T02:15:17.284541+03:00,_2,3ef9e194a523,E110 - 1 Apriliou,E147 - Archiepiskopou Makariou III Ave,0
+2026-08-17T23:20:32Z,2026-08-18T02:25:19.948250+03:00,_0,8ab26eb37313,Kosta Misiaouli,Ithakis,0
+2026-08-17T23:20:32Z,2026-08-18T02:25:19.948250+03:00,_1,85114d25c599,Ithakis,Dimotikou Stadiou,3
+2026-08-17T23:20:32Z,2026-08-18T02:25:19.948250+03:00,_2,df43d5a6895a,Ithakis,E902 - Proedrikou Megarou Ave,0
