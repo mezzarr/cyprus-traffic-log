@@ -5561,3 +5561,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-17T23:20:32Z,2026-08-18T02:25:19.948250+03:00,_0,8ab26eb37313,Kosta Misiaouli,Ithakis,0
 2026-08-17T23:20:32Z,2026-08-18T02:25:19.948250+03:00,_1,85114d25c599,Ithakis,Dimotikou Stadiou,3
 2026-08-17T23:20:32Z,2026-08-18T02:25:19.948250+03:00,_2,df43d5a6895a,Ithakis,E902 - Proedrikou Megarou Ave,0
+2026-08-18T03:51:26Z,2026-08-18T06:56:14.084433+03:00,_0,1903b2559960,Pafos,Archiepiskopou Makariou III Ave,0
+2026-08-18T03:51:26Z,2026-08-18T06:56:14.084433+03:00,_1,660d388bb733,Lemesou Ave,Archiepiskopou Makariou III Ave,2
+2026-08-18T03:51:26Z,2026-08-18T06:56:14.084433+03:00,_2,8fab7dfc83f0,Lemesou Ave,B19 - Omirou Ave,0
