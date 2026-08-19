@@ -5693,3 +5693,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-18T23:21:52Z,2026-08-19T02:26:40.688505+03:00,_0,87b7d53833c2,Kosta Misiaouli,Strovolou Ave,0
 2026-08-18T23:21:52Z,2026-08-19T02:26:40.688505+03:00,_1,020dd95bc935,Strovolou Ave,Strovolou Ave,2
 2026-08-18T23:21:52Z,2026-08-19T02:26:40.688505+03:00,_2,849e12d85bf2,Strovolou Ave,E902 - Proedrikou Megarou Ave,0
+2026-08-19T01:43:51Z,2026-08-19T04:48:35.484021+03:00,_0,bcb6249e496e,,E1302 - Nikis Ave,0
+2026-08-19T01:43:51Z,2026-08-19T04:48:35.484021+03:00,_1,4cadbb7e2669,Archiepiskopou Makariou III Ave,E1302 - Nikis Ave,2
+2026-08-19T01:43:51Z,2026-08-19T04:48:35.484021+03:00,_2,53725b50c7e6,B18 - Georgiou Griva Digeni Ave,Evagorou Ave,0
