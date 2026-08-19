@@ -5849,3 +5849,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-19T17:48:55Z,2026-08-19T20:53:43.345067+03:00,_0,d0dc64f54734,,Lemesou Ave,0
 2026-08-19T17:48:55Z,2026-08-19T20:53:43.345067+03:00,_1,16a08779ce14,Strovolos,Lemesou Ave,4
 2026-08-19T17:48:55Z,2026-08-19T20:53:43.345067+03:00,_2,14b12720ba53,A1,Evagorou Ave,0
+2026-08-19T18:40:13Z,2026-08-19T21:44:56.604055+03:00,_0,1903b2559960,Pafos,Archiepiskopou Makariou III Ave,0
+2026-08-19T18:40:13Z,2026-08-19T21:44:56.604055+03:00,_1,660d388bb733,Lemesou Ave,Archiepiskopou Makariou III Ave,2
+2026-08-19T18:40:13Z,2026-08-19T21:44:56.604055+03:00,_2,8fab7dfc83f0,Lemesou Ave,B19 - Omirou Ave,0
