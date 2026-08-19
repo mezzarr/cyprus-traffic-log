@@ -31,12 +31,20 @@ data/motion/delays_YYYY-MM.csv  GTFS-RT bus delays, one row per active NPT
 raw/<feed>/YYYY/MM/DD_HH00Z.xml.gz   hourly raw DATEX II snapshots
 data/health.csv                 feed outages (utc, feed, error) — appended when a
                                 feed stays unreachable/unparseable after retries
+data/flow/fl_YYYY-MM.csv        TomTom Traffic Flow Segment Data (separate
+                                20K/month quota): current vs free-flow speed
+                                and travel time at each corridor midpoint:
+                                fetched_utc, route_id, frc, cur_kmh, ff_kmh,
+                                cur_s, ff_s, confidence, closed, snap coords.
+                                Weekdays, peaks every 20', off-peak hourly.
 data/tomtom/tt_YYYY-MM.csv      TomTom Routing travel times for 25 corridors
                                 (routes.json), both directions: fetched_utc,
                                 route_id, direction, length_m, travel_s,
                                 freeflow_s, delay_s. Delay for analysis =
-                                travel_s - freeflow_s. Peak-focused sampling
-                                to stay within the free API tier.
+                                travel_s - freeflow_s. Weekdays only, peaks every
+                                20' + one midday round, hard cap 19K rows —
+                                the free tier is 20K/MONTH (exhausted 14/08/26
+                                when we sampled as if it were 2,500/day).
 ```
 
 Note: up to 2026-07-23 the cron ran ~7x/day due to GitHub schedule throttling

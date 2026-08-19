@@ -45,6 +45,7 @@ jobs:
           for i in $(seq 1 16); do
             python3 logger.py
             python3 tomtom_logger.py || true
+            python3 flow_logger.py || true
             python3 motion_logger.py || true
             git add -A data raw
             if ! git diff --cached --quiet; then

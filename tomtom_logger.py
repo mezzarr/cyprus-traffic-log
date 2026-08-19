@@ -6,8 +6,9 @@ both directions, and appends one CSV row per direction: real travel time,
 free-flow travel time and delay. Complements the Waze jam logger: Waze says
 WHERE congestion is reported, this measures WHAT IT COSTS in minutes.
 
-Schedule gating keeps daily usage under the free tier (2,500 req/day):
-full sampling in peak windows, hourly off-peak, silent at night.
+Free tier is 20,000 requests/MONTH (not per day — learned the hard way,
+quota exhausted 14/08/2026). Schedule: WEEKDAYS ONLY, AM/PM peaks every
+20 min plus one midday round; hard budget guard on this month's row count.
 Requires TOMTOM_API_KEY in the environment. Stdlib only.
 """
 import csv
@@ -24,19 +25,32 @@ CY = timezone(timedelta(hours=3))  # Cyprus summer time
 
 # local-time windows: (start_minute_of_day, end_minute_of_day)
 PEAKS = [(6*60+30, 9*60), (13*60, 14*60+30), (16*60+45, 19*60+15)]
-OFFPEAK = (9*60, 22*60)  # outside peaks, sample only ~hourly
+OFFPEAK = (9*60, 22*60)  # (unused by routing now, kept for reference)
+MONTH_CAP = 19000  # free tier 20K/month, keep headroom
 
 
 def should_run(now_local, force=False):
     if force:
         return True
+    if now_local.weekday() >= 5:  # school-term comparison: weekdays only
+        return False
     m = now_local.hour * 60 + now_local.minute
     for s, e in PEAKS:
         if s <= m < e:
-            return True
-    if OFFPEAK[0] <= m < OFFPEAK[1]:
-        return now_local.minute < 10  # one loop hit per hour
+            return now_local.minute % 20 < 10  # every 20 min (loop is 10-min)
+    if 13*60+30 <= m < 13*60+40:  # single midday reference round
+        return True
     return False
+
+
+def month_budget_left(month):
+    """Rows already written this month = requests spent (1 row per request)."""
+    path = os.path.join(ROOT, "data", "tomtom", f"tt_{month}.csv")
+    if not os.path.exists(path):
+        return MONTH_CAP
+    with open(path, encoding="utf-8") as f:
+        used = max(0, sum(1 for _ in f) - 1)
+    return MONTH_CAP - used
 
 
 def fetch_route(a, b, tries=2):
@@ -84,6 +98,9 @@ def main():
     stamp = now.strftime("%Y-%m-%dT%H:%M:%SZ")
     month = now.strftime("%Y-%m")
     routes = json.load(open(os.path.join(ROOT, "routes.json"), encoding="utf-8"))
+    if month_budget_left(month) < 2 * len(routes):
+        print(f"tomtom: monthly budget spent, skipping until next month")
+        return 0
     if limit:
         routes = routes[:limit]
     rows, failed = [], 0
