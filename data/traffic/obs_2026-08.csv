@@ -5994,3 +5994,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-21T03:53:10Z,2026-08-21T06:57:24.087222+03:00,_0,1903b2559960,Pafos,Archiepiskopou Makariou III Ave,0
 2026-08-21T03:53:10Z,2026-08-21T06:57:24.087222+03:00,_1,660d388bb733,Lemesou Ave,Archiepiskopou Makariou III Ave,2
 2026-08-21T03:53:10Z,2026-08-21T06:57:24.087222+03:00,_2,8fab7dfc83f0,Lemesou Ave,B19 - Omirou Ave,0
+2026-08-21T04:03:13Z,2026-08-21T07:07:10.816501+03:00,_0,1903b2559960,,Archiepiskopou Makariou III Ave,0
+2026-08-21T04:03:13Z,2026-08-21T07:07:10.816501+03:00,_1,660d388bb733,Lemesou Ave,Archiepiskopou Makariou III Ave,2
+2026-08-21T04:03:13Z,2026-08-21T07:07:10.816501+03:00,_2,8fab7dfc83f0,Lemesou Ave,Evagorou Ave,0
