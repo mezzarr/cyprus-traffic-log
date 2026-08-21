@@ -6053,3 +6053,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-21T14:25:49Z,2026-08-21T17:30:38.988409+03:00,_0,1903b2559960,,Archiepiskopou Makariou III Ave,0
 2026-08-21T14:25:49Z,2026-08-21T17:30:38.988409+03:00,_1,660d388bb733,Lemesou Ave,Archiepiskopou Makariou III Ave,2
 2026-08-21T14:25:49Z,2026-08-21T17:30:38.988409+03:00,_2,8fab7dfc83f0,Lemesou Ave,Evagorou Ave,0
+2026-08-21T14:35:59Z,2026-08-21T17:40:48.130660+03:00,_0,0404ea780de8,E147 - Archiepiskopou Makariou III Ave,Vasileos Georgiou II,0
+2026-08-21T14:35:59Z,2026-08-21T17:40:48.130660+03:00,_1,ded58892ae74,Agias Filaxeos,Vasileos Georgiou II,4
+2026-08-21T14:35:59Z,2026-08-21T17:40:48.130660+03:00,_2,325832a07612,Agias Filaxeos,E110,0
