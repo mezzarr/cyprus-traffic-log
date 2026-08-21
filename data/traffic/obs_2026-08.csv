@@ -6033,3 +6033,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-21T11:18:50Z,2026-08-21T14:23:39.429011+03:00,_0,ab8ac493c4ab,Leoforos Strovolou,Strovolou Ave,0
 2026-08-21T11:18:50Z,2026-08-21T14:23:39.429011+03:00,_1,14c2fab14614,Strovolou Ave,Strovolou Ave,4
 2026-08-21T11:18:50Z,2026-08-21T14:23:39.429011+03:00,_2,4acb93600db4,Strovolou Ave,E902 - Proedrikou Megarou Ave,0
+2026-08-21T11:39:00Z,2026-08-21T14:43:50.663929+03:00,_0,1903b2559960,,Archiepiskopou Makariou III Ave,0
+2026-08-21T11:39:00Z,2026-08-21T14:43:50.663929+03:00,_1,660d388bb733,Lemesou Ave,Archiepiskopou Makariou III Ave,2
+2026-08-21T11:39:00Z,2026-08-21T14:43:50.663929+03:00,_2,8fab7dfc83f0,Lemesou Ave,Evagorou Ave,0
