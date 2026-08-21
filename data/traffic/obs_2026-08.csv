@@ -5991,3 +5991,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-20T19:14:41Z,2026-08-20T22:19:31.099878+03:00,_0,280f434c77f8,E147 - Archiepiskopou Makariou III Ave,Dimitriou Psatha,0
 2026-08-20T19:14:41Z,2026-08-20T22:19:31.099878+03:00,_1,bba60fd78a23,Isavron,Georgiou Papandreou,4
 2026-08-20T19:14:41Z,2026-08-20T22:19:31.099878+03:00,_2,cfdaca7cb53b,Dimitriou Psatha,E110,0
+2026-08-21T03:53:10Z,2026-08-21T06:57:24.087222+03:00,_0,1903b2559960,Pafos,Archiepiskopou Makariou III Ave,0
+2026-08-21T03:53:10Z,2026-08-21T06:57:24.087222+03:00,_1,660d388bb733,Lemesou Ave,Archiepiskopou Makariou III Ave,2
+2026-08-21T03:53:10Z,2026-08-21T06:57:24.087222+03:00,_2,8fab7dfc83f0,Lemesou Ave,B19 - Omirou Ave,0
