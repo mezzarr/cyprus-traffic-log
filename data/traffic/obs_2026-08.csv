@@ -6165,3 +6165,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-22T09:46:30Z,2026-08-22T12:51:20.280278+03:00,_0,ab8ac493c4ab,Kosta Misiaouli,Strovolou Ave,0
 2026-08-22T09:46:30Z,2026-08-22T12:51:20.280278+03:00,_1,14c2fab14614,Strovolou Ave,Strovolou Ave,4
 2026-08-22T09:46:30Z,2026-08-22T12:51:20.280278+03:00,_2,4acb93600db4,Strovolou Ave,E902 - Proedrikou Megarou Ave,0
+2026-08-22T12:56:16Z,2026-08-22T16:01:06.143804+03:00,_0,3258fc9114bb,Exit 24 >E127 Germasogeia / E113 Lemesos-Centre,Ypsonas,0
+2026-08-22T12:56:16Z,2026-08-22T16:01:06.143804+03:00,_1,e99e9a65d515,Ypsonas,Ypsonas,3
+2026-08-22T12:56:16Z,2026-08-22T16:01:06.143804+03:00,_2,210d1e57ec93,Ypsonas,"to A6 > Pafos, Pafos Airport",0
