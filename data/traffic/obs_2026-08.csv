@@ -6208,3 +6208,8 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-22T17:42:11Z,2026-08-22T20:47:01.223255+03:00,_2,7792802c8552,Aglantzia,Archiepiskopou Makariou III Ave,0
 2026-08-22T17:42:11Z,2026-08-22T20:47:01.223255+03:00,_0,9047fb30c8db,E110,E147 - Archiepiskopou Makariou III Ave,0
 2026-08-22T17:42:11Z,2026-08-22T20:47:01.223255+03:00,_1,535964c57235,Agias Filaxeos,E147 - Archiepiskopou Makariou III Ave,3
+2026-08-22T17:52:15Z,2026-08-22T20:57:05.233046+03:00,_0,9637c1cd3244,Exit 4 >E148 Latsia / GSP Stadium,Strovolos,0
+2026-08-22T17:52:15Z,2026-08-22T20:57:05.233046+03:00,_1,8a167e0dcc42,Strovolos,Lemesou Ave,4
+2026-08-22T17:52:15Z,2026-08-22T20:57:05.233046+03:00,_2,002a54c51467,A1,Archiepiskopou Makariou III Ave,0
+2026-08-22T17:52:15Z,2026-08-22T20:57:05.233046+03:00,_0,1cc902273d46,E110,E147 - Archiepiskopou Makariou III Ave,0
+2026-08-22T17:52:15Z,2026-08-22T20:57:05.233046+03:00,_1,b1607c8a378f,Agias Filaxeos,E147 - Archiepiskopou Makariou III Ave,3
