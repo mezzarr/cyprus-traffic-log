@@ -6718,3 +6718,10 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-24T09:46:28Z,2026-08-24T12:51:18.502566+03:00,_2,62f9e9861a53,Agias Filaxeos,E110,0
 2026-08-24T09:58:18Z,2026-08-24T13:02:12.173568+03:00,_0,21112a4dd623,E147 - Archiepiskopou Makariou III Ave,Agias Filaxeos,3
 2026-08-24T09:58:18Z,2026-08-24T13:02:12.173568+03:00,_1,f9cdd5f5c7a1,E147 - Archiepiskopou Makariou III Ave,E110,0
+2026-08-24T10:28:36Z,2026-08-24T13:33:26.892010+03:00,_0,320e7f883c81,E110 - Eleftherias,E147 - Archiepiskopou Makariou III Ave,0
+2026-08-24T10:28:36Z,2026-08-24T13:33:26.892010+03:00,_1,88697bca4b53,Agias Filaxeos,E147 - Archiepiskopou Makariou III Ave,2
+2026-08-24T10:28:36Z,2026-08-24T13:33:26.892010+03:00,_0,044a01c053a4,Agias Filaxeos,Agias Filaxeos,2
+2026-08-24T10:28:36Z,2026-08-24T13:33:26.892010+03:00,_1,a16a3f4bac66,E147 - Archiepiskopou Makariou III Ave,E110,0
+2026-08-24T10:28:36Z,2026-08-24T13:33:26.892010+03:00,_0,c7636f6313c5,Pafos,E1302 - Nikis Ave,0
+2026-08-24T10:28:36Z,2026-08-24T13:33:26.892010+03:00,_1,910016111853,B18 - Georgiou Griva Digeni Ave,E165 - Themistokli Dervi,4
+2026-08-24T10:28:36Z,2026-08-24T13:33:26.892010+03:00,_2,bbf67e32aa17,B18 - Georgiou Griva Digeni Ave,B19 - Omirou Ave,0
