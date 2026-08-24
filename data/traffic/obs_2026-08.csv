@@ -6727,3 +6727,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-24T10:28:36Z,2026-08-24T13:33:26.892010+03:00,_2,bbf67e32aa17,B18 - Georgiou Griva Digeni Ave,B19 - Omirou Ave,0
 2026-08-24T10:48:49Z,2026-08-24T13:53:40.295302+03:00,_0,c367476144f8,E110,E147 - Archiepiskopou Makariou III Ave,0
 2026-08-24T10:48:49Z,2026-08-24T13:53:40.295302+03:00,_1,0047479cf4c6,Agias Filaxeos,E147 - Archiepiskopou Makariou III Ave,2
+2026-08-24T11:19:11Z,2026-08-24T14:24:02.332385+03:00,_0,1903b2559960,,Archiepiskopou Makariou III Ave,0
+2026-08-24T11:19:11Z,2026-08-24T14:24:02.332385+03:00,_1,660d388bb733,Lemesou Ave,Archiepiskopou Makariou III Ave,2
+2026-08-24T11:19:11Z,2026-08-24T14:24:02.332385+03:00,_2,8fab7dfc83f0,Lemesou Ave,Evagorou Ave,0
