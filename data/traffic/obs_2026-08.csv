@@ -7026,3 +7026,16 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-25T03:37:48Z,2026-08-25T06:42:12.381067+03:00,_0,6311136a7b90,Pafos,Archiepiskopou Makariou III Ave,0
 2026-08-25T03:37:48Z,2026-08-25T06:42:12.381067+03:00,_1,6efde239cabf,Lemesou Ave,Archiepiskopou Makariou III Ave,2
 2026-08-25T03:37:48Z,2026-08-25T06:42:12.381067+03:00,_2,8fab7dfc83f0,Lemesou Ave,B19 - Omirou Ave,0
+2026-08-25T04:18:59Z,2026-08-25T07:23:14.468593+03:00,_0,fe72ea2b224f,Strovolos,Lemesou Ave,0
+2026-08-25T04:18:59Z,2026-08-25T07:23:14.468593+03:00,_1,1c3025f6d361,Strovolos,Lemesou Ave,3
+2026-08-25T04:18:59Z,2026-08-25T07:23:14.468593+03:00,_2,7792802c8552,Aglantzia,Archiepiskopou Makariou III Ave,0
+2026-08-25T04:18:59Z,2026-08-25T07:23:14.468593+03:00,_0,d624d2c1050e,Leoforos Strovolou,Strovolou Ave,0
+2026-08-25T04:18:59Z,2026-08-25T07:23:14.468593+03:00,_1,83ec6d1f609f,Strovolou Ave,Strovolou Ave,2
+2026-08-25T04:18:59Z,2026-08-25T07:23:14.468593+03:00,_2,b4e66db7c6bf,Strovolou Ave,E902 - Proedrikou Megarou Ave,0
+2026-08-25T04:18:59Z,2026-08-25T07:23:14.468593+03:00,_0,d0dc64f54734,,Lemesou Ave,0
+2026-08-25T04:18:59Z,2026-08-25T07:23:14.468593+03:00,_1,1c3025f6d361,Strovolos,Lemesou Ave,3
+2026-08-25T04:18:59Z,2026-08-25T07:23:14.468593+03:00,_2,7792802c8552,Aglantzia,Archiepiskopou Makariou III Ave,0
+2026-08-25T04:18:59Z,2026-08-25T07:23:14.468593+03:00,_3,660d388bb733,Lemesou Ave,Archiepiskopou Makariou III Ave,2
+2026-08-25T04:18:59Z,2026-08-25T07:23:14.468593+03:00,_4,1c6a3fc2a217,Lemesou Ave,B18 - Georgiou Griva Digeni Ave,0
+2026-08-25T04:18:59Z,2026-08-25T07:23:14.468593+03:00,_5,aabab5b0e87d,Archiepiskopou Makariou III Ave,B18 - Georgiou Griva Digeni Ave,4
+2026-08-25T04:18:59Z,2026-08-25T07:23:14.468593+03:00,_6,e1beab30434a,Archiepiskopou Makariou III Ave,Evagorou Ave,0
