@@ -7314,3 +7314,14 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-25T07:03:11Z,2026-08-25T10:07:12.632215+03:00,_2,cc8badd45da4,Aglantzia,Evagorou Ave,0
 2026-08-25T07:03:11Z,2026-08-25T10:07:12.632215+03:00,_0,06afc6492b14,Exit 24 >E127 Germasogeia / E113 Lemesos-Centre,Germasogeia,1
 2026-08-25T07:03:11Z,2026-08-25T10:07:12.632215+03:00,_1,3e1d75b9e16e,Agios Athanasios,"to A6 > Pafos, Pafos Airport",0
+2026-08-25T07:13:20Z,2026-08-25T10:17:12.695608+03:00,_0,fe72ea2b224f,Strovolos,Lemesou Ave,0
+2026-08-25T07:13:20Z,2026-08-25T10:17:12.695608+03:00,_1,1c3025f6d361,Strovolos,Lemesou Ave,4
+2026-08-25T07:13:20Z,2026-08-25T10:17:12.695608+03:00,_2,7792802c8552,Aglantzia,Archiepiskopou Makariou III Ave,0
+2026-08-25T07:13:20Z,2026-08-25T10:17:12.695608+03:00,_0,d0dc64f54734,,Lemesou Ave,0
+2026-08-25T07:13:20Z,2026-08-25T10:17:12.695608+03:00,_1,1c3025f6d361,Strovolos,Lemesou Ave,4
+2026-08-25T07:13:20Z,2026-08-25T10:17:12.695608+03:00,_2,244a4f90b567,Aglantzia,Archiepiskopou Makariou III Ave,0
+2026-08-25T07:13:20Z,2026-08-25T10:17:12.695608+03:00,_3,2f70270e55a2,Lemesou Ave,B18 - Georgiou Griva Digeni Ave,2
+2026-08-25T07:13:20Z,2026-08-25T10:17:12.695608+03:00,_4,e1beab30434a,Archiepiskopou Makariou III Ave,Evagorou Ave,0
+2026-08-25T07:13:20Z,2026-08-25T10:17:12.695608+03:00,_0,68ba8c9365ac,Exit 24 >E127 Germasogeia / E113 Lemesos-Centre,Germasogeia,0
+2026-08-25T07:13:20Z,2026-08-25T10:17:12.695608+03:00,_1,ce32023c9f0b,Germasogeia,Germasogeia,1
+2026-08-25T07:13:20Z,2026-08-25T10:17:12.695608+03:00,_2,3e1d75b9e16e,Agios Athanasios,"to A6 > Pafos, Pafos Airport",0
