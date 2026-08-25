@@ -7550,3 +7550,8 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-25T11:58:24Z,2026-08-25T15:03:15.268950+03:00,_2,91353c408128,,Lemesou Ave,0
 2026-08-25T11:58:24Z,2026-08-25T15:03:15.268950+03:00,_3,660d388bb733,Lemesou Ave,Archiepiskopou Makariou III Ave,2
 2026-08-25T11:58:24Z,2026-08-25T15:03:15.268950+03:00,_4,8fab7dfc83f0,Lemesou Ave,Evagorou Ave,0
+2026-08-25T12:08:29Z,2026-08-25T15:13:20.121071+03:00,_0,69fc3b9dbbdd,Strovolos,Archiepiskopou Makariou III Ave,0
+2026-08-25T12:08:29Z,2026-08-25T15:13:20.121071+03:00,_1,c57daf65c80e,Lemesou Ave,Archiepiskopou Makariou III Ave,3
+2026-08-25T12:08:29Z,2026-08-25T15:13:20.121071+03:00,_0,daca33dbcb0d,,Archiepiskopou Makariou III Ave,0
+2026-08-25T12:08:29Z,2026-08-25T15:13:20.121071+03:00,_1,43f05193c4b0,Lemesou Ave,Archiepiskopou Makariou III Ave,3
+2026-08-25T12:08:29Z,2026-08-25T15:13:20.121071+03:00,_2,8fab7dfc83f0,Lemesou Ave,Evagorou Ave,0
