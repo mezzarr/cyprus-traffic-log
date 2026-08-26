@@ -8329,3 +8329,11 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-26T11:54:33Z,2026-08-26T14:59:25.553207+03:00,_0,daca33dbcb0d,,Archiepiskopou Makariou III Ave,0
 2026-08-26T11:54:33Z,2026-08-26T14:59:25.553207+03:00,_1,43f05193c4b0,Lemesou Ave,Archiepiskopou Makariou III Ave,3
 2026-08-26T11:54:33Z,2026-08-26T14:59:25.553207+03:00,_2,8fab7dfc83f0,Lemesou Ave,Evagorou Ave,0
+2026-08-26T12:04:39Z,2026-08-26T15:09:31.038888+03:00,_0,69fc3b9dbbdd,Strovolos,Archiepiskopou Makariou III Ave,0
+2026-08-26T12:04:39Z,2026-08-26T15:09:31.038888+03:00,_1,c57daf65c80e,Lemesou Ave,Archiepiskopou Makariou III Ave,3
+2026-08-26T12:04:39Z,2026-08-26T15:09:31.038888+03:00,_0,daca33dbcb0d,,Archiepiskopou Makariou III Ave,0
+2026-08-26T12:04:39Z,2026-08-26T15:09:31.038888+03:00,_1,43f05193c4b0,Lemesou Ave,Archiepiskopou Makariou III Ave,3
+2026-08-26T12:04:39Z,2026-08-26T15:09:31.038888+03:00,_2,8fab7dfc83f0,Lemesou Ave,Evagorou Ave,0
+2026-08-26T12:04:39Z,2026-08-26T15:09:31.038888+03:00,_0,af4b6e415491,Spyrou Kyprianou Ave,Spyrou Kyprianou Ave,0
+2026-08-26T12:04:39Z,2026-08-26T15:09:31.038888+03:00,_1,b767bbb73e7a,Spyrou Kyprianou Ave,Spyrou Kyprianou Ave,3
+2026-08-26T12:04:39Z,2026-08-26T15:09:31.038888+03:00,_2,b16f06e86626,Spyrou Kyprianou Ave,Spyrou Kyprianou Ave,0
