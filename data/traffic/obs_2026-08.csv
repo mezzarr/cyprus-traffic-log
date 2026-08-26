@@ -8683,3 +8683,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-26T18:07:47Z,2026-08-26T21:12:13.153094+03:00,_0,23e9d057024d,,Lemesou Ave,0
 2026-08-26T18:07:47Z,2026-08-26T21:12:13.153094+03:00,_1,64039a076bda,Strovolos,Lemesou Ave,4
 2026-08-26T18:07:47Z,2026-08-26T21:12:13.153094+03:00,_2,cc8badd45da4,Aglantzia,Evagorou Ave,0
+2026-08-26T20:59:55Z,2026-08-27T00:04:48.160672+03:00,_0,ed0f8536366e,E110 - Eleftherias,E110 - 1 Apriliou,0
+2026-08-26T20:59:55Z,2026-08-27T00:04:48.160672+03:00,_1,32c2745803b6,E110 - Eleftherias,E110 - 1 Apriliou,3
+2026-08-26T20:59:55Z,2026-08-27T00:04:48.160672+03:00,_2,c9decce66ab6,E110 - Eleftherias,Agias Filaxeos,0
