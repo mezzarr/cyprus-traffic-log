@@ -7847,3 +7847,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-25T19:13:04Z,2026-08-25T22:17:12.733065+03:00,_0,ed0f8536366e,E110,E110 - 1 Apriliou,0
 2026-08-25T19:13:04Z,2026-08-25T22:17:12.733065+03:00,_1,5251cec9071f,E110 - Eleftherias,E110 - 1 Apriliou,2
 2026-08-25T19:13:04Z,2026-08-25T22:17:12.733065+03:00,_2,c6aecf56f8a5,E110 - 1 Apriliou,E147 - Archiepiskopou Makariou III Ave,0
+2026-08-26T03:23:06Z,2026-08-26T06:27:12.915035+03:00,_0,9a5aec5a135f,E147 - Archiepiskopou Makariou III Ave,E110 - Eleftherias,0
+2026-08-26T03:23:06Z,2026-08-26T06:27:12.915035+03:00,_1,db98c9d0a2e0,E110 - 1 Apriliou,E110 - 1 Apriliou,3
+2026-08-26T03:23:06Z,2026-08-26T06:27:12.915035+03:00,_2,c97b954fcb12,E110 - 1 Apriliou,E110,0
