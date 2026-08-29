@@ -9215,3 +9215,5 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-29T10:18:03Z,2026-08-29T13:22:14.366193+03:00,_2,f5f94ff22484,Agias Filaxeos,E110,0
 2026-08-29T10:28:10Z,2026-08-29T13:32:14.391581+03:00,_0,68ba8c9365ac,Exit 24 >E127 Germasogeia / E113 Lemesos-Centre,Germasogeia,4
 2026-08-29T10:28:10Z,2026-08-29T13:32:14.391581+03:00,_1,d0b10ee52b6a,Exit 24 >E127 Germasogeia / E113 Lemesos-Centre,"to A6 > Pafos, Pafos Airport",0
+2026-08-29T10:38:13Z,2026-08-29T13:42:14.334643+03:00,_0,68ba8c9365ac,Exit 24 >E127 Germasogeia / E113 Lemesos-Centre,Germasogeia,3
+2026-08-29T10:38:13Z,2026-08-29T13:42:14.334643+03:00,_1,d0b10ee52b6a,Exit 24 >E127 Germasogeia / E113 Lemesos-Centre,"to A6 > Pafos, Pafos Airport",0
