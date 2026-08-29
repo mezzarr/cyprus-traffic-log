@@ -9173,3 +9173,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-29T02:33:37Z,2026-08-29T05:38:29.769945+03:00,_0,aa4d6b7f5aef,Pafos,Kofinou,0
 2026-08-29T02:33:37Z,2026-08-29T05:38:29.769945+03:00,_1,778ce647f4a1,Kornos,Kornos,4
 2026-08-29T02:33:37Z,2026-08-29T05:38:29.769945+03:00,_2,c437db950136,Exit 11 >E143 Pyrga / Kornos,B19 - Omirou Ave,0
+2026-08-29T03:23:59Z,2026-08-29T06:28:51.580449+03:00,_0,1903b2559960,,Archiepiskopou Makariou III Ave,0
+2026-08-29T03:23:59Z,2026-08-29T06:28:51.580449+03:00,_1,660d388bb733,Lemesou Ave,Archiepiskopou Makariou III Ave,2
+2026-08-29T03:23:59Z,2026-08-29T06:28:51.580449+03:00,_2,8fab7dfc83f0,Lemesou Ave,Evagorou Ave,0
