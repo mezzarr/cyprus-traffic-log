@@ -9223,3 +9223,8 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-29T11:48:50Z,2026-08-29T14:53:43.418053+03:00,_0,1903b2559960,,Archiepiskopou Makariou III Ave,0
 2026-08-29T11:48:50Z,2026-08-29T14:53:43.418053+03:00,_1,660d388bb733,Lemesou Ave,Archiepiskopou Makariou III Ave,3
 2026-08-29T11:48:50Z,2026-08-29T14:53:43.418053+03:00,_2,8fab7dfc83f0,Lemesou Ave,Evagorou Ave,0
+2026-08-29T11:58:57Z,2026-08-29T15:04:01.340765+03:00,_0,5c308ae9824f,,Germasogeia,0
+2026-08-29T11:58:57Z,2026-08-29T15:04:01.340765+03:00,_1,d92cd76e07f0,> A1 Lefkosia / (A5) Larnaka / (A5)(A3) Larnaka Airport,Agios Tychonas,1
+2026-08-29T11:58:57Z,2026-08-29T15:04:01.340765+03:00,_2,60c9860b9f3e,Agios Tychonas,Archiepiskopou Makariou III Ave,0
+2026-08-29T11:58:57Z,2026-08-29T15:04:01.340765+03:00,_3,660d388bb733,Lemesou Ave,Archiepiskopou Makariou III Ave,2
+2026-08-29T11:58:57Z,2026-08-29T15:04:01.340765+03:00,_4,8fab7dfc83f0,Lemesou Ave,Evagorou Ave,0
