@@ -9170,3 +9170,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-28T17:47:27Z,2026-08-28T20:52:14.083364+03:00,_0,23e9d057024d,,Lemesou Ave,0
 2026-08-28T17:47:27Z,2026-08-28T20:52:14.083364+03:00,_1,64039a076bda,Strovolos,Lemesou Ave,2
 2026-08-28T17:47:27Z,2026-08-28T20:52:14.083364+03:00,_2,cc8badd45da4,Aglantzia,Evagorou Ave,0
+2026-08-29T02:33:37Z,2026-08-29T05:38:29.769945+03:00,_0,aa4d6b7f5aef,Pafos,Kofinou,0
+2026-08-29T02:33:37Z,2026-08-29T05:38:29.769945+03:00,_1,778ce647f4a1,Kornos,Kornos,4
+2026-08-29T02:33:37Z,2026-08-29T05:38:29.769945+03:00,_2,c437db950136,Exit 11 >E143 Pyrga / Kornos,B19 - Omirou Ave,0
