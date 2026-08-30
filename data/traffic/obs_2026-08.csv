@@ -9349,3 +9349,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-30T18:57:00Z,2026-08-30T22:01:53.672947+03:00,_0,b76325a3f599,Episkopi,Kolossi,0
 2026-08-30T18:57:00Z,2026-08-30T22:01:53.672947+03:00,_1,623f06e6c379,Ypsonas,A1,1
 2026-08-30T18:57:00Z,2026-08-30T22:01:53.672947+03:00,_2,a39773a286ea,Kato Polemidia,Germasogeia,0
+2026-08-30T21:49:11Z,2026-08-31T00:54:04.647276+03:00,_0,cbac127df69f,E110,Agias Filaxeos,0
+2026-08-30T21:49:11Z,2026-08-31T00:54:04.647276+03:00,_1,3f489e45468a,Agias Filaxeos,Agias Filaxeos,3
+2026-08-30T21:49:11Z,2026-08-31T00:54:04.647276+03:00,_2,e93ba5af1ef3,Agias Filaxeos,E147 - Archiepiskopou Makariou III Ave,0
