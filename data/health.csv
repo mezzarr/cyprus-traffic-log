@@ -13747,3 +13747,5 @@ utc,feed,error
 2026-08-30T00:13:55Z,alerts,https://fixcyprus.cy/gnosis/open/api/nap/datasets/waze_alerts/: URLError: <urlopen error timed out>
 2026-08-30T00:37:58Z,traffic,https://fixcyprus.cy/gnosis/open/api/nap/datasets/waze_traffic/: URLError: <urlopen error timed out>
 2026-08-30T00:37:58Z,alerts,https://fixcyprus.cy/gnosis/open/api/nap/datasets/waze_alerts/: URLError: <urlopen error timed out>
+2026-08-30T01:02:02Z,traffic,https://fixcyprus.cy/gnosis/open/api/nap/datasets/waze_traffic/: URLError: <urlopen error timed out>
+2026-08-30T01:02:02Z,alerts,https://fixcyprus.cy/gnosis/open/api/nap/datasets/waze_alerts/: URLError: <urlopen error timed out>
