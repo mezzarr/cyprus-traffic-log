@@ -9264,3 +9264,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-30T06:56:08Z,2026-08-30T10:00:41.060988+03:00,_0,65d74e39bfaa,,Omirou Ave,0
 2026-08-30T06:56:08Z,2026-08-30T10:00:41.060988+03:00,_1,34c1a4955017,E165 - Diagorou,Omirou Ave,4
 2026-08-30T06:56:08Z,2026-08-30T10:00:41.060988+03:00,_2,be61879007bb,E165 - Diagorou,Anastasiou Leventi,0
+2026-08-30T12:19:32Z,2026-08-30T15:24:25.618599+03:00,_0,543dd67c0e60,,B18 - Digeni Akrita Ave,0
+2026-08-30T12:19:32Z,2026-08-30T15:24:25.618599+03:00,_1,aabab5b0e87d,Archiepiskopou Makariou III Ave,B18 - Georgiou Griva Digeni Ave,4
+2026-08-30T12:19:32Z,2026-08-30T15:24:25.618599+03:00,_2,e1beab30434a,Archiepiskopou Makariou III Ave,Evagorou Ave,0
