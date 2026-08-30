@@ -13745,3 +13745,5 @@ utc,feed,error
 2026-08-22T06:54:36Z,swarco_loops,LIVE: 8 nonzero values — start logging!
 2026-08-30T00:13:55Z,traffic,https://fixcyprus.cy/gnosis/open/api/nap/datasets/waze_traffic/: URLError: <urlopen error timed out>
 2026-08-30T00:13:55Z,alerts,https://fixcyprus.cy/gnosis/open/api/nap/datasets/waze_alerts/: URLError: <urlopen error timed out>
+2026-08-30T00:37:58Z,traffic,https://fixcyprus.cy/gnosis/open/api/nap/datasets/waze_traffic/: URLError: <urlopen error timed out>
+2026-08-30T00:37:58Z,alerts,https://fixcyprus.cy/gnosis/open/api/nap/datasets/waze_alerts/: URLError: <urlopen error timed out>
