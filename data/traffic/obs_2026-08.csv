@@ -9267,3 +9267,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-30T12:19:32Z,2026-08-30T15:24:25.618599+03:00,_0,543dd67c0e60,,B18 - Digeni Akrita Ave,0
 2026-08-30T12:19:32Z,2026-08-30T15:24:25.618599+03:00,_1,aabab5b0e87d,Archiepiskopou Makariou III Ave,B18 - Georgiou Griva Digeni Ave,4
 2026-08-30T12:19:32Z,2026-08-30T15:24:25.618599+03:00,_2,e1beab30434a,Archiepiskopou Makariou III Ave,Evagorou Ave,0
+2026-08-30T12:29:36Z,2026-08-30T15:34:29.550652+03:00,_0,1903b2559960,,Archiepiskopou Makariou III Ave,0
+2026-08-30T12:29:36Z,2026-08-30T15:34:29.550652+03:00,_1,660d388bb733,Lemesou Ave,Archiepiskopou Makariou III Ave,2
+2026-08-30T12:29:36Z,2026-08-30T15:34:29.550652+03:00,_2,8fab7dfc83f0,Lemesou Ave,Evagorou Ave,0
