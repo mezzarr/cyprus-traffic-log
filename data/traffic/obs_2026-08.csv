@@ -9968,3 +9968,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-31T21:57:03Z,2026-09-01T01:01:57.274185+03:00,_0,af4b6e415491,Georgiou Neofytou,Spyrou Kyprianou Ave,0
 2026-08-31T21:57:03Z,2026-09-01T01:01:57.274185+03:00,_1,f78672a56365,Spyrou Kyprianou Ave,Spyrou Kyprianou Ave,4
 2026-08-31T21:57:03Z,2026-09-01T01:01:57.274185+03:00,_2,f07ddde0a59d,Spyrou Kyprianou Ave,Angelou Vlachou,0
+2026-08-31T22:27:17Z,2026-09-01T01:32:10.611961+03:00,_0,39bc0d9edbe1,E147 - Archiepiskopou Makariou III Ave,E110 - 1 Apriliou,0
+2026-08-31T22:27:17Z,2026-09-01T01:32:10.611961+03:00,_1,f99e4b2a8444,E110 - 1 Apriliou,E110 - 1 Apriliou,1
+2026-08-31T22:27:17Z,2026-09-01T01:32:10.611961+03:00,_2,15f60bb25351,E110 - 1 Apriliou,E110,0
