@@ -9588,3 +9588,16 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-08-31T07:24:05Z,2026-08-31T10:28:09.692091+03:00,_3,0a5c4761a6b4,Agias Filaxeos,Agias Filaxeos,4
 2026-08-31T07:24:05Z,2026-08-31T10:28:09.692091+03:00,_4,fd1ec1f2cdf4,Agias Filaxeos,E147 - Archiepiskopou Makariou III Ave,0
 2026-08-31T07:24:05Z,2026-08-31T10:28:09.692091+03:00,_5,676c339d8b55,Agias Filaxeos,E147 - Archiepiskopou Makariou III Ave,3
+2026-08-31T07:34:08Z,2026-08-31T10:39:02.481632+03:00,_0,5b27c50fa078,Strovolos,Archiepiskopou Makariou III Ave,0
+2026-08-31T07:34:08Z,2026-08-31T10:39:02.481632+03:00,_1,8b530b355b26,Lemesou Ave,Archiepiskopou Makariou III Ave,2
+2026-08-31T07:34:08Z,2026-08-31T10:39:02.481632+03:00,_0,72b03ff9b5bc,E110,E110 - Agias Fylaxeos,0
+2026-08-31T07:34:08Z,2026-08-31T10:39:02.481632+03:00,_1,e50ca2ecb1e0,E110 - 1 Apriliou,,1
+2026-08-31T07:34:08Z,2026-08-31T10:39:02.481632+03:00,_2,e33776a3a190,E110 - Agias Fylaxeos,Agias Filaxeos,0
+2026-08-31T07:34:08Z,2026-08-31T10:39:02.481632+03:00,_3,0a5c4761a6b4,Agias Filaxeos,Vasileos Georgiou II,3
+2026-08-31T07:34:08Z,2026-08-31T10:39:02.481632+03:00,_4,fd1ec1f2cdf4,Agias Filaxeos,E147 - Archiepiskopou Makariou III Ave,0
+2026-08-31T07:34:08Z,2026-08-31T10:39:02.481632+03:00,_5,676c339d8b55,Agias Filaxeos,E147 - Archiepiskopou Makariou III Ave,3
+2026-08-31T07:34:08Z,2026-08-31T10:39:02.481632+03:00,_0,39864853c88c,,Archiepiskopou Makariou III Ave,0
+2026-08-31T07:34:08Z,2026-08-31T10:39:02.481632+03:00,_1,3dec49aff703,Lemesou Ave,Archiepiskopou Makariou III Ave,2
+2026-08-31T07:34:08Z,2026-08-31T10:39:02.481632+03:00,_2,7e9e53411917,Lemesou Ave,E1302 - Nikis Ave,0
+2026-08-31T07:34:08Z,2026-08-31T10:39:02.481632+03:00,_3,910016111853,B18 - Georgiou Griva Digeni Ave,B18 - Georgiou Griva Digeni Ave,4
+2026-08-31T07:34:08Z,2026-08-31T10:39:02.481632+03:00,_4,bbf67e32aa17,B18 - Georgiou Griva Digeni Ave,Evagorou Ave,0
