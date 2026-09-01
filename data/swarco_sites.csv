@@ -1,0 +1,267 @@
+site_id,site_identification,lat,lon,equipment,name
+1,1000,35.14922,33.37415,Loop,Lemesou Ave. (TCC)
+2,1000,35.14922,33.37415,Loop,Lemesou Ave. (ACC)
+3,1001,35.14989,33.33482,Loop,Elaionon (ACC)
+4,1001,35.14989,33.33482,Loop,Elaionon (TCC)
+5,1002,35.14776,33.3458,Loop,Strovolou (ACC)
+6,1002,35.14776,33.3458,Loop,Strovolou (TCC)
+7,1003,35.15739,33.35316,Loop,Matsi (ACC)
+8,1003,35.15739,33.35316,Loop,Matsi (TCC)
+9,1004,35.15948,33.35305,Loop,Severi (ACC)
+10,1004,35.15948,33.35305,Loop,Severi (TCC)
+11,1005,35.16051,33.35816,Loop,Nikis (TCC)
+12,1005,35.16051,33.35816,Loop,Nikis (ACC)
+13,1006,35.16057,33.34626,Loop,Prodromou (ACC)
+14,1006,35.16057,33.34626,Loop,Prodromou (TCC)
+15,1007,35.13601,33.35808,Loop,Chatziosif (TCC)
+16,1007,35.13601,33.35808,Loop,Chatziosif (ACC)
+17,1008,35.14476,33.36206,Loop,Athalassis Ave. (East to Lemesou Athalassis Junct. )
+18,1008,35.14476,33.36206,Loop,Athalassis Ave. (West to Akropoleos / Chadjiosif Junct. )
+19,1009,35.14801,33.32521,Loop,Archaggelou (TCC)
+20,1009,35.14801,33.32521,Loop,Archaggelou (ACC)
+21,1010,35.16413,33.35085,Loop,Gr. Dhigeni Ave. (TCC)
+22,1010,35.16413,33.35085,Loop,Gr. Dhigeni Ave. (ACC)
+23,1011,35.16346,33.36485,Loop,Makariou (ACC)
+24,1011,35.16346,33.36485,Loop,Makariou (TCC)
+25,1012,35.16348,33.38415,Loop,Larnakos Ave. (ACC)
+26,1012,35.16348,33.38415,Loop,Larnakos Ave. (TCC)
+29,1014,35.12643,33.3374,Loop,Tseriou (ACC)
+30,1014,35.12643,33.3374,Loop,Tseriou (TCC)
+27,1013,35.123,33.3307,Loop,Sp. Kyprianou - Kantaras (Eastbound to Tseriou R/B )
+28,1013,35.123,33.3307,Loop,Sp. Kyprianou - Kantaras (Westbound to Strovolou Ave. )
+31,1015,35.12892,33.36243,Loop,Sp. Kyprianou - Ag. Therissos (Eastbound to Kalamon Junct. )
+32,1015,35.12892,33.36243,Loop,Sp. Kyprianou - Ag. Therissos (Westbound to Hadjiosif/ Vikella Junct. )
+33,1016,35.16158,33.16929,Loop,Kokkinotrimithia (ACC)
+34,1016,35.16158,33.16929,Loop,Kokkinotrimithia (TCC)
+35,6000,35.06587,33.37856,Loop,Latsia - Nicosia (Northbound to Nicosia )
+37,6010,35.08505,33.37656,Loop,Nicosia - Limassol (Southbound - Away from Nicosia )
+39,6020,34.82357,33.37374,Loop,Skarinou (Larnaka) (Westbound to Limassol )
+40,6020,34.82357,33.37374,Loop,Skarinou (Larnaka) (Eastbound to Nicosia / Larnaka )
+41,6030,34.71608,33.16923,Loop,Pareklissia (Limassol) (Eastbound to Nicosia / Larnaka )
+42,6030,34.71608,33.16923,Loop,Pareklissia (Limassol) (Westbound to Limassol )
+43,6040,34.68262,32.90107,Loop,Episkopi - Pafos (Episkopi) (Westbound to Pafos )
+45,6050,34.68158,32.89648,Loop,Episkopi - Limassol (Episkopi) (Eastbound to Limassol )
+47,6060,34.71042,32.55391,Loop,Mandria - Pafos (Westbound to Pafos )
+48,6060,34.71042,32.55391,Loop,Mandria - Pafos (Eastbound to Limassol )
+49,6070,34.83328,33.4085,Loop,Kofinou - Larnaka (Eastbound to Larnaka )
+50,6070,34.83328,33.4085,Loop,Kofinou - Larnaka (Westbound to Limassol )
+51,6080,34.96005,33.56988,Loop,Rizoelia - Larnaka (Eastbound to Larnaka )
+52,6080,34.96005,33.56988,Loop,Rizoelia - Larnaka (Westbound to Nicosia )
+53,6090,34.97638,33.88305,Loop,Xylofagou - Famagousta (Eastbound to Paralimni )
+54,6090,34.97638,33.88305,Loop,Xylofagou - Famagousta (Westbound to Larnaka - Rizoelia )
+55,6100,35.13573,33.28153,Loop,Anthoupolis - Nicosia (Westbound to Troodos )
+56,6100,35.13573,33.28153,Loop,Anthoupolis - Nicosia (Eastbound to Nicosia )
+57,6110,34.649197,33.00019,Loop,ALK - South
+58,6110,34.649197,33.00019,Loop,ALK - North
+59,6120,34.971573,33.65343,Loop,Oroklinis - North
+60,6120,34.971573,33.65343,Loop,Oroklinis - South
+63,1017,35.12006,33.37685,Loop,G.Granidioti - Latsia-North
+64,1017,35.12006,33.37685,Loop,G.Granidioti - Latsia-South
+65,1018,35.0654,33.3851,Loop,Ilioupolis Latsia B1-North
+66,1018,35.0654,33.3851,Loop,Ilioupolis Latsia B1-South
+67,1019,35.13723,33.14066,Loop,Akaki-West
+68,1019,35.13723,33.14066,Loop,Akaki-East
+69,1020,35.12323,33.29023,Loop,Anthoup. - Palech. Rd-North
+70,1020,35.12323,33.29023,Loop,Anthoup. - Palech. Rd-South
+71,1021,35.13706,33.02933,Loop,Troodos Rd-West
+72,1021,35.13706,33.02933,Loop,Troodos Rd-East
+73,1022,34.99361,33.44959,Loop,Lymbia A-West
+74,1022,34.99361,33.44959,Loop,Lymbia A-East
+77,1024,34.89183,33.582306,Loop,Larnaka Airport Rd. West to Rizoelia
+78,1024,34.89183,33.582306,Loop,Larnaka Airport Rd. East to Airport
+79,1025,35.07816,33.381283,Loop,Kornos A1 North to Nicosia
+80,1025,35.07816,33.381283,Loop,Kornos A1 South to Limassol
+81,1027,34.68398,33.00795,Loop,Ag. Athanasios Lsol West to Ag. Athanasios Interch.
+82,1027,34.68398,33.00795,Loop,Ag. Athanasios Lsol East to Germasogia Interch.
+83,1026,34.70829,33.06828,Loop,Omonias Limassol South to Port
+84,1026,34.70829,33.06828,Loop,Omonias Limassol North to Bypass
+85,1029,34.766754,32.484684,Loop,Konia A6 Pafos West to Pafos
+86,1029,34.766754,32.484684,Loop,Konia A6 Pafos East to Limassol
+95,1036,35.11296,33.32055,Loop,
+96,1036,35.11296,33.32055,Loop,
+97,1037,35.113773,33.289906,Loop,
+98,1037,35.113773,33.289906,Loop,
+99,1040,35.14631,33.3066,Loop,
+100,1040,35.14631,33.3066,Loop,
+101,1041,35.168262,33.33186,Loop,
+102,1041,35.168262,33.33186,Loop,
+103,1042,35.172382,33.348644,Loop,
+104,1042,35.172382,33.348644,Loop,
+105,1043,35.17416,33.349617,Loop,
+106,1043,35.17416,33.349617,Loop,
+107,1050,35.13152,33.357445,Loop,
+108,1050,35.13152,33.357445,Loop,
+109,1049,35.160915,33.34237,Loop,
+110,1049,35.160915,33.34237,Loop,
+111,1047,35.135563,33.331493,Loop,
+112,1047,35.135563,33.331493,Loop,
+113,1039,35.131542,33.314102,Loop,
+114,1039,35.131542,33.314102,Loop,
+115,1038,35.121513,33.319023,Loop,
+116,1038,35.121513,33.319023,Loop,
+84,1017,35.007397,33.386883,Bluetooth,Nicosia highway
+85,1018,34.90804,33.56735,Bluetooth,Larnaca exit
+86,1019,34.835754,33.394966,Bluetooth,Larnaca - Limassol
+87,1020,34.71213,33.12729,Bluetooth,Limassol exit
+88,1021,35.12152,33.3349,Bluetooth,Cheriou roundabout
+89,1022,35.084225,33.376556,Bluetooth,Latsia A1
+90,1023,35.12798,33.36582,Bluetooth,Kalamon roundabout
+91,1018,35.12414,33.37565,Bluetooth,Hospital roundabout
+92,1201,35.15707,33.39376,Bluetooth,Aglatzias &amp; Larnakos
+93,1400,35.17093,33.3752,Bluetooth,Larnakos &amp; Dig. Akrita
+94,1401,35.14209,33.34082,Bluetooth,Strovolou - Alexandroupoleos
+95,1028,35.139374,33.345913,Bluetooth,Athinon - Irakleos
+97,1001,35.14006,33.37486,Bluetooth,Athalassas - Lemessou
+98,1002,35.14544,33.35992,Bluetooth,Athalassas - Chatziosif
+99,1003,35.16283,33.35891,Bluetooth,Nikis - Griva - D.Akrita
+100,1004,35.161034,33.33937,Bluetooth,Griva - Prokopiou
+101,1005,35.12737,33.35655,Bluetooth,Chatziosif - Kiprianou
+102,1006,35.12623,33.32349,Bluetooth,Strovolou - Kiprianou
+103,1007,35.15613,33.34453,Bluetooth,Prodromou 1 - Leykonos
+104,1008,35.16413,33.34887,Bluetooth,Prodromou 2 - Griva
+105,1009,35.12907,33.29716,Bluetooth,Archaggelou city entrance
+106,1010,35.16785,33.31654,Bluetooth,Griva - Matsi
+107,1011,35.16343,33.35428,Bluetooth,Griva - Severi
+108,1012,35.15746,33.37328,Bluetooth,Lemessou - Kennedy
+109,1013,35.15276,33.3476,Bluetooth,Strovolou - Kiprianou
+110,1014,35.16886,33.35909,Bluetooth,Makariou - Eyagorou
+111,1015,35.142487,33.302925,Bluetooth,Iroon - Morfou
+112,1016,35.14693,33.33381,Bluetooth,Elaionon - Makedonitssis
+113,1029,34.99368,33.44953,Bluetooth,Limpia A2
+114,1030,34.952896,33.573875,Bluetooth,Rizoelia A3
+115,1031,34.97339,33.658398,Bluetooth,Oroklini A3
+116,1032,34.972363,33.827023,Bluetooth,Ormidia - Xilofagou A3
+117,1033,35.003872,33.998535,Bluetooth,R/b Agias Napas A3
+118,1034,34.879322,33.596863,Bluetooth,Larnaka Airport
+119,1035,34.86831,33.4912,Bluetooth,Alethriko A5
+120,1036,34.93424,33.41018,Bluetooth,Kornos A1
+121,1037,34.752815,33.311302,Bluetooth,Kalavasos A1
+122,1038,34.73284,33.22804,Bluetooth,Pentakomo A1
+123,1039,34.706577,33.092163,Bluetooth,Interchange Germasogia A1
+124,1040,34.707222,33.06155,Bluetooth,Interchange Agios Athanasios A1
+125,1041,34.70518,33.048653,Bluetooth,Interchange Mesa Gitonia A1
+126,1042,34.704865,33.0291,Bluetooth,Interchange Agias Filaxeos A1
+127,1043,34.69425,33.01429,Bluetooth,Interchange Kato Polemidia A1
+128,1044,34.688026,33.008465,Bluetooth,Omonoias Ave.
+129,1045,34.662846,33.016834,Bluetooth,Omonoias - Frangklinou Rousvelt
+130,1046,34.68027,32.99083,Bluetooth,Kathetos - R/B Ipsona
+131,1047,34.648514,33.000443,Bluetooth,Kathetos - Limassol Port
+132,1048,34.684395,32.907356,Bluetooth,Erimi A6
+133,1049,34.69565,32.83101,Bluetooth,Sotira A6
+134,1050,34.682877,32.698895,Bluetooth,Pissouri A6
+135,1051,34.668896,32.619938,Bluetooth,Kouklia A6
+136,1052,34.724285,32.53008,Bluetooth,R/B Timis A6
+137,1053,34.783215,32.445675,Bluetooth,konia Paphos A6
+138,1054,35.162006,33.163452,Bluetooth,Deneia A9
+139,1055,35.11297,33.332424,Bluetooth,Ippokratous - Tseriou
+140,1056,35.13731,33.34147,Bluetooth,Konstantinoupoleos - Tseriou
+175,7001,34.77485,32.408684,Bluetooth,leoforos tafon vasileon
+176,7002,34.784447,32.405804,Bluetooth,chlorakos avenue
+177,7003,34.77514,32.421516,Bluetooth,glastonos
+178,7004,34.768105,32.439495,Bluetooth,athinon
+179,7005,34.748707,32.470264,Bluetooth,makariou ii
+180,7006,34.759438,32.422707,Bluetooth,spyrou kipiranou
+181,7007,34.756683,32.424698,Bluetooth,spirou kiprianou 2
+182,7008,34.75215,32.428402,Bluetooth,spirou kiprianou iii
+183,7009,34.743862,32.44455,Bluetooth,spirou kiprianou iiii
+184,7010,34.740517,32.434284,Bluetooth,Afroditis Avenue
+185,7011,34.748707,32.424576,Bluetooth,poseidonos avenue
+186,7012,34.756912,32.412556,Bluetooth,lidas
+187,7013,34.770874,32.41784,Bluetooth,Apostolou Pavlou
+188,7014,34.791996,32.436317,Bluetooth,tasou papadopoulou
+189,7015,34.787487,32.44085,Bluetooth,dimokratias avenue
+190,7016,34.783115,32.44712,Bluetooth,A6
+191,7018,34.714382,33.156803,Bluetooth,Leoforos Amathountas
+192,7019,34.708374,33.124474,Bluetooth,Leoforos Amathountos II
+193,7020,34.702667,33.10725,Bluetooth,Leoforos Amathountos III
+194,7023,34.696217,33.089092,Bluetooth,Vasileos Georgiou III
+195,7024,34.693108,33.082153,Bluetooth,Vasileos Georgiou IIIII
+196,7025,34.689068,33.07065,Bluetooth,Promachon Eleftherias
+197,7027,34.684555,33.060493,Bluetooth,28 Oktovriou
+198,7028,34.67181,33.042828,Bluetooth,spyrou araouzou
+199,7029,34.671898,33.034184,Bluetooth,Tzelal Baglar
+200,7030,34.66723,33.025196,Bluetooth,Fraglinou Rousvet II
+201,7031,34.656883,32.998158,Bluetooth,Fragklinou Rousvet IIII
+202,7032,34.763187,32.412518,Bluetooth,apostolou pavlou ii
+203,7034,34.68913,33.008232,Bluetooth,OMONIAS A1
+204,7035,34.693626,33.013214,Bluetooth,POLEMIDIA TROODOUS
+205,7036,34.704468,33.02642,Bluetooth,AGIA FYLA A1
+206,7037,34.705246,33.045803,Bluetooth,MESA GITONIA A1
+207,7038,34.70692,33.06007,Bluetooth,AGIOS ATHANASIOS A1
+208,7039,34.680515,33.00934,Bluetooth,OMONIAS 1
+209,7040,34.686394,33.014095,Bluetooth,SPYROU KIPRIANOU
+210,7041,34.680172,33.02548,Bluetooth,FOTA SIMILIDI
+211,7042,34.673557,33.021313,Bluetooth,AGIOS IOANNIS
+212,7043,34.675148,33.01176,Bluetooth,PAFOU
+213,7044,34.681442,32.99165,Bluetooth,NIKAIAS
+214,7045,34.689938,33.01778,Bluetooth,NIKOU KAI DESPINAS PAT.
+215,7046,34.68351,33.030136,Bluetooth,FOTA FAIRWAYS
+216,7047,34.6769,33.03882,Bluetooth,EIRINIS
+217,7048,34.697277,33.033115,Bluetooth,AGIAS FYLAXEOS
+218,7049,34.687004,33.037407,Bluetooth,FOTA KAFE PARI
+219,7050,34.67881,33.041172,Bluetooth,AGIAS FYLAXEOS END
+220,7051,34.680374,33.042927,Bluetooth,GLASTONOS
+221,7052,34.68265,33.047092,Bluetooth,GLASTONOS 2
+222,7053,34.68612,33.053543,Bluetooth,GLASTONOS III
+223,7054,34.67502,33.046787,Bluetooth,ANEXARTISIAS END
+224,7055,34.68791,33.043846,Bluetooth,FOTA TOU ARIEL
+225,7056,34.698265,33.04502,Bluetooth,SPIROU KIPRIANOU
+226,7057,34.699963,33.060097,Bluetooth,SPIROU KIPRIANOU END
+227,7058,34.695023,33.06601,Bluetooth,LEOFOROS AGIOU ATHANASIOU
+228,7059,34.701694,33.077415,Bluetooth,KOLONAKIOU
+229,7060,34.70397,33.082165,Bluetooth,KOLONAKIOU - SPIROU KIPRIANOU
+230,7061,34.70708,33.08623,Bluetooth,SPIROU KIPRIANOU A1
+231,7062,34.67452,33.028767,Bluetooth,markoni
+232,7063,34.695553,33.012806,Bluetooth,giannou kranidioti
+233,7064,34.71534,32.995808,Bluetooth,lemesos saita 1
+234,7065,34.67345,33.033333,Bluetooth,Misaouri kai Kara.
+235,7066,34.70786,33.087738,Bluetooth,germasogeia a1
+236,7067,34.708065,33.110092,Bluetooth,Mpoutagiaka
+237,7068,34.712452,33.128178,Bluetooth,Agios Tyxinas
+238,7069,34.942802,33.582493,Bluetooth,AKROPOLEOS 1
+239,7070,34.93292,33.595654,Bluetooth,ELEUTHERIAS AVENUE
+240,7071,34.928276,33.604427,Bluetooth,GRIVA DIGENI
+241,7072,34.924202,33.60961,Bluetooth,AGIOS NIKOLAOS
+242,7073,34.92004,33.616776,Bluetooth,GRIVA DIGENI II
+243,7074,34.9181,33.62051,Bluetooth,GRIVA DIGENI III
+244,7075,34.915855,33.625965,Bluetooth,LEONIDA YIOUPI
+245,7076,34.914032,33.62781,Bluetooth,ARTEMIDOS
+246,7077,34.91523,33.60199,Bluetooth,VASOU LISSARIDI
+247,7079,34.92131,33.599586,Bluetooth,GEORGIOU CHRISTODOULIDI
+248,7080,34.95208,33.58456,Bluetooth,leoforos 1is Apriliou
+249,7081,34.949314,33.58775,Bluetooth,grigiri afxentiou i
+250,7082,34.947296,33.591736,Bluetooth,kiriakou matsi
+251,7083,34.93846,33.602642,Bluetooth,zapata avenue
+252,7084,34.93331,33.608406,Bluetooth,KRIAKOU MATSI III
+253,7085,34.9296,33.614376,Bluetooth,AMMOCHOSTOS STADIUM
+254,7086,34.930435,33.62501,Bluetooth,SPYROY KIPRIANOU IIII
+255,7087,34.92902,33.63715,Bluetooth,MAMARIOU III
+256,7088,34.921684,33.636585,Bluetooth,MAKARIOU III II
+257,7089,34.917686,33.636127,Bluetooth,GRIGORI AFXENT.
+258,7090,34.917698,33.631657,Bluetooth,GRIGORI AFX. II
+259,7091,34.916973,33.627953,Bluetooth,GRIGORI AFX. IIII
+260,7092,35.12567,33.32316,Bluetooth,LEOFOROS STROVOLOU
+261,7093,35.12171,33.334324,Bluetooth,SPYROU KIPRIANOU
+262,7094,35.12703,33.35593,Bluetooth,SPIROU KIPRIANOU II
+263,7095,35.141026,33.372112,Bluetooth,ATHALASSAS AVENUE
+264,7096,35.15348,33.374973,Bluetooth,LEMESOU
+265,7097,35.150024,33.346886,Bluetooth,STROVOLOU II
+266,7098,35.164467,33.363983,Bluetooth,LIKAVITOU
+267,7099,35.16295,33.35949,Bluetooth,GRIVA DIGENI II
+268,7100,35.161205,33.35866,Bluetooth,JOHN KENNEDY
+269,7101,35.16132,33.338596,Bluetooth,AGIOU PROKOPIOU
+270,7102,35.14697,33.324306,Bluetooth,Archangrlou Michael
+271,7103,35.135807,33.308918,Bluetooth,Archangelos Michael ii
+272,7104,35.137394,33.30933,Bluetooth,Leoforos Morfou
+273,7105,35.024544,33.9833,Bluetooth,e905
+274,7106,35.029675,34.00307,Bluetooth,e324
+275,7107,35.028286,34.03059,Bluetooth,LEOFOR. PROTARA CAVO GRECO
+276,7108,34.99386,34.001305,Bluetooth,RETHIMNOU AVENUE
+277,7109,34.989197,34.0083,Bluetooth,LEOF. CAVO GREKO 2
+278,7110,34.976196,34.039585,Bluetooth,LEOFOROS CAVO GREKO 3
+279,7111,34.994812,34.06611,Bluetooth,LEOFOROS CAVO GREKO 4
+280,7112,34.988544,33.98571,Bluetooth,LEOFOROS NISSI
+281,7113,34.990387,33.971676,Bluetooth,LEOFOROS NISSI 2
+282,7114,34.992683,33.96091,Bluetooth,LEOFOROS NISSI 3
+283,7115,34.98093,33.934082,Bluetooth,LEOFOROS NISSI 4
+284,7116,34.98471,33.92796,Bluetooth,LEOFOROS NISSI 5
