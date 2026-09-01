@@ -61,3 +61,17 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-09-01T09:03:52Z,2026-09-01T12:08:46.964182+03:00,_4,a4548539654b,Lemesou Ave,B18 - Digeni Akrita Ave,0
 2026-09-01T09:03:52Z,2026-09-01T12:08:46.964182+03:00,_5,0767c1bb57ab,Archiepiskopou Makariou III Ave,B18 - Georgiou Griva Digeni Ave,3
 2026-09-01T09:03:52Z,2026-09-01T12:08:46.964182+03:00,_6,e1beab30434a,Archiepiskopou Makariou III Ave,Evagorou Ave,0
+2026-09-01T09:13:59Z,2026-09-01T12:18:53.012494+03:00,_0,dd4be8784553,E147 - Archiepiskopou Makariou III Ave,Agias Filaxeos,0
+2026-09-01T09:13:59Z,2026-09-01T12:18:53.012494+03:00,_1,931dd79e324a,E147 - Archiepiskopou Makariou III Ave,Vasileos Georgiou II,2
+2026-09-01T09:13:59Z,2026-09-01T12:18:53.012494+03:00,_2,cfd611ccb05b,Agias Filaxeos,Agias Filaxeos,0
+2026-09-01T09:13:59Z,2026-09-01T12:18:53.012494+03:00,_3,95579dbc01e3,Agias Filaxeos,Vasileos Georgiou II,3
+2026-09-01T09:13:59Z,2026-09-01T12:18:53.012494+03:00,_4,f0692a22ef39,Agias Filaxeos,Agias Filaxeos,0
+2026-09-01T09:13:59Z,2026-09-01T12:18:53.012494+03:00,_5,a4260c51b19c,Steliou Kyriakidi,,3
+2026-09-01T09:13:59Z,2026-09-01T12:18:53.012494+03:00,_6,f780373a5188,Agias Filaxeos,E110 - Agias Fylaxeos,0
+2026-09-01T09:13:59Z,2026-09-01T12:18:53.012494+03:00,_7,6841a02a1258,,E110 - 1 Apriliou,3
+2026-09-01T09:13:59Z,2026-09-01T12:18:53.012494+03:00,_8,f99b72a378a5,E110 - Agias Fylaxeos,E110,0
+2026-09-01T09:13:59Z,2026-09-01T12:18:53.012494+03:00,_0,69fc3b9dbbdd,Strovolos,Archiepiskopou Makariou III Ave,0
+2026-09-01T09:13:59Z,2026-09-01T12:18:53.012494+03:00,_1,c57daf65c80e,Lemesou Ave,Archiepiskopou Makariou III Ave,3
+2026-09-01T09:13:59Z,2026-09-01T12:18:53.012494+03:00,_0,daca33dbcb0d,,Archiepiskopou Makariou III Ave,0
+2026-09-01T09:13:59Z,2026-09-01T12:18:53.012494+03:00,_1,43f05193c4b0,Lemesou Ave,Archiepiskopou Makariou III Ave,3
+2026-09-01T09:13:59Z,2026-09-01T12:18:53.012494+03:00,_2,8fab7dfc83f0,Lemesou Ave,Evagorou Ave,0
