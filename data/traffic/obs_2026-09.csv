@@ -1102,3 +1102,11 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-09-02T11:51:02Z,2026-09-02T14:55:42.445534+03:00,_0,daca33dbcb0d,,Archiepiskopou Makariou III Ave,0
 2026-09-02T11:51:02Z,2026-09-02T14:55:42.445534+03:00,_1,43f05193c4b0,Lemesou Ave,Archiepiskopou Makariou III Ave,3
 2026-09-02T11:51:02Z,2026-09-02T14:55:42.445534+03:00,_2,8fab7dfc83f0,Lemesou Ave,Evagorou Ave,0
+2026-09-02T12:01:06Z,2026-09-02T15:05:46.459074+03:00,_0,69fc3b9dbbdd,Exit 4 >E148 Latsia / GSP Stadium,Archiepiskopou Makariou III Ave,0
+2026-09-02T12:01:06Z,2026-09-02T15:05:46.459074+03:00,_1,c57daf65c80e,Chrysanthou Mylona,Archiepiskopou Makariou III Ave,3
+2026-09-02T12:01:06Z,2026-09-02T15:05:46.459074+03:00,_0,920305ee9a1e,E147 - Archiepiskopou Makariou III Ave,Agias Filaxeos,0
+2026-09-02T12:01:06Z,2026-09-02T15:05:46.459074+03:00,_1,a4260c51b19c,Steliou Kyriakidi,,4
+2026-09-02T12:01:06Z,2026-09-02T15:05:46.459074+03:00,_2,f5f94ff22484,Agias Filaxeos,E110,0
+2026-09-02T12:01:06Z,2026-09-02T15:05:46.459074+03:00,_0,daca33dbcb0d,,Archiepiskopou Makariou III Ave,0
+2026-09-02T12:01:06Z,2026-09-02T15:05:46.459074+03:00,_1,43f05193c4b0,Chrysanthou Mylona,Archiepiskopou Makariou III Ave,3
+2026-09-02T12:01:06Z,2026-09-02T15:05:46.459074+03:00,_2,8fab7dfc83f0,Lemesou Ave,Evagorou Ave,0
