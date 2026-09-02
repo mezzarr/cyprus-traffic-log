@@ -1451,3 +1451,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-09-02T21:48:24Z,2026-09-03T00:52:51.269102+03:00,_0,98b5261b31f5,E110,E147 - Archiepiskopou Makariou III Ave,0
 2026-09-02T21:48:24Z,2026-09-03T00:52:51.269102+03:00,_1,b1780c8ae04c,Agias Filaxeos,Agiou Artemiou,4
 2026-09-02T21:48:24Z,2026-09-03T00:52:51.269102+03:00,_2,b1607c8a378f,Agias Filaxeos,E147 - Archiepiskopou Makariou III Ave,0
+2026-09-02T22:48:58Z,2026-09-03T01:53:53.087393+03:00,_0,69f475d1f3cd,,B18 - Georgiou Griva Digeni Ave,0
+2026-09-02T22:48:58Z,2026-09-03T01:53:53.087393+03:00,_1,6d77a1492ae1,B18 - Georgiou Griva Digeni Ave,Evagorou Ave,3
+2026-09-02T22:48:58Z,2026-09-03T01:53:53.087393+03:00,_2,5650524d62d0,E165 - Themistokli Dervi,Evagorou Ave,0
