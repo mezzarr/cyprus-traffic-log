@@ -1061,3 +1061,11 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-09-02T06:53:34Z,2026-09-02T09:57:51.156206+03:00,_6,7c1a88e2db2c,Archiepiskopou Makariou III Ave,E1302 - Nikis Ave,0
 2026-09-02T06:53:34Z,2026-09-02T09:57:51.156206+03:00,_7,910016111853,B18 - Georgiou Griva Digeni Ave,B18 - Georgiou Griva Digeni Ave,4
 2026-09-02T06:53:34Z,2026-09-02T09:57:51.156206+03:00,_8,bbf67e32aa17,B18 - Georgiou Griva Digeni Ave,Evagorou Ave,0
+2026-09-02T11:20:25Z,2026-09-02T14:25:19.401439+03:00,_0,69fc3b9dbbdd,Strovolos,Archiepiskopou Makariou III Ave,0
+2026-09-02T11:20:25Z,2026-09-02T14:25:19.401439+03:00,_1,c57daf65c80e,Lemesou Ave,Archiepiskopou Makariou III Ave,2
+2026-09-02T11:20:25Z,2026-09-02T14:25:19.401439+03:00,_0,431f99d1e0ab,E110,E110 - Agias Fylaxeos,0
+2026-09-02T11:20:25Z,2026-09-02T14:25:19.401439+03:00,_1,b8e1983f3a68,E110 - Agias Fylaxeos,,3
+2026-09-02T11:20:25Z,2026-09-02T14:25:19.401439+03:00,_2,c8792afe581d,E110 - Agias Fylaxeos,E147 - Archiepiskopou Makariou III Ave,0
+2026-09-02T11:20:25Z,2026-09-02T14:25:19.401439+03:00,_0,daca33dbcb0d,,Archiepiskopou Makariou III Ave,0
+2026-09-02T11:20:25Z,2026-09-02T14:25:19.401439+03:00,_1,43f05193c4b0,Lemesou Ave,Archiepiskopou Makariou III Ave,2
+2026-09-02T11:20:25Z,2026-09-02T14:25:19.401439+03:00,_2,8fab7dfc83f0,Lemesou Ave,Evagorou Ave,0
