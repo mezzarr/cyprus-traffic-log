@@ -1413,3 +1413,9 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-09-02T17:40:10Z,2026-09-02T20:44:40.358564+03:00,_2,7c50b274239b,Aglantzia,E164 - Armenias,0
 2026-09-02T17:40:10Z,2026-09-02T20:44:40.358564+03:00,_3,43f05193c4b0,Lemesou Ave,Archiepiskopou Makariou III Ave,3
 2026-09-02T17:40:10Z,2026-09-02T20:44:40.358564+03:00,_4,8fab7dfc83f0,Lemesou Ave,Evagorou Ave,0
+2026-09-02T17:50:14Z,2026-09-02T20:55:08.595356+03:00,_0,fe72ea2b224f,Exit 4 >E148 Latsia / GSP Stadium,Lemesou Ave,0
+2026-09-02T17:50:14Z,2026-09-02T20:55:08.595356+03:00,_1,1c3025f6d361,Strovolos,Lemesou Ave,4
+2026-09-02T17:50:14Z,2026-09-02T20:55:08.595356+03:00,_2,7792802c8552,Exit 1 > E116 Athalassis Ave.,Archiepiskopou Makariou III Ave,0
+2026-09-02T17:50:14Z,2026-09-02T20:55:08.595356+03:00,_0,d0dc64f54734,,Lemesou Ave,0
+2026-09-02T17:50:14Z,2026-09-02T20:55:08.595356+03:00,_1,1c3025f6d361,Strovolos,Lemesou Ave,4
+2026-09-02T17:50:14Z,2026-09-02T20:55:08.595356+03:00,_2,cc8badd45da4,Exit 1 > E116 Athalassis Ave.,Evagorou Ave,0
