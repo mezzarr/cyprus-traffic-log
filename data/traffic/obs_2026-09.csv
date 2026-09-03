@@ -1466,3 +1466,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-09-03T00:50:40Z,2026-09-03T03:55:35.451435+03:00,_0,db0d9865008e,,Anarita,0
 2026-09-03T00:50:40Z,2026-09-03T03:55:35.451435+03:00,_1,066e19c6de08,Agia Varvara (Pafos),Anarita,1
 2026-09-03T00:50:40Z,2026-09-03T03:55:35.451435+03:00,_2,5841f418448d,Kouklia,Evagorou Ave,0
+2026-09-03T01:20:55Z,2026-09-03T04:25:42.571477+03:00,_0,04e0d90cca46,Kosta Misiaouli,E902 - Proedrikou Megarou Ave,0
+2026-09-03T01:20:55Z,2026-09-03T04:25:42.571477+03:00,_1,2e2860fdee90,Strovolou Ave,E902 - Proedrikou Megarou Ave,2
+2026-09-03T01:20:55Z,2026-09-03T04:25:42.571477+03:00,_2,c6ac6530f2b9,Strovolou Ave,E902 - Proedrikou Megarou Ave,0
