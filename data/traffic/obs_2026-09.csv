@@ -1950,3 +1950,9 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-09-03T11:16:53Z,2026-09-03T14:21:48.163095+03:00,_0,72b03ff9b5bc,E110,E110 - Agias Fylaxeos,0
 2026-09-03T11:16:53Z,2026-09-03T14:21:48.163095+03:00,_1,e50ca2ecb1e0,E110 - 1 Apriliou,,2
 2026-09-03T11:16:53Z,2026-09-03T14:21:48.163095+03:00,_2,c8792afe581d,E110 - Agias Fylaxeos,E147 - Archiepiskopou Makariou III Ave,0
+2026-09-03T11:27:00Z,2026-09-03T14:31:55.561107+03:00,_0,1903b2559960,,Archiepiskopou Makariou III Ave,0
+2026-09-03T11:27:00Z,2026-09-03T14:31:55.561107+03:00,_1,660d388bb733,Lemesou Ave,Archiepiskopou Makariou III Ave,2
+2026-09-03T11:27:00Z,2026-09-03T14:31:55.561107+03:00,_2,8fab7dfc83f0,Lemesou Ave,Evagorou Ave,0
+2026-09-03T11:27:00Z,2026-09-03T14:31:55.561107+03:00,_0,22ab44e87e33,Exit 24 >E127 Germasogeia / E113 Lemesos-Centre,Agios Athanasios,0
+2026-09-03T11:27:00Z,2026-09-03T14:31:55.561107+03:00,_1,1f9e4309220a,Agios Athanasios,Agios Athanasios,1
+2026-09-03T11:27:00Z,2026-09-03T14:31:55.561107+03:00,_2,e532d87a661f,Mesa Geitonia,"to A6 > Pafos, Pafos Airport",0
