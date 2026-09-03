@@ -2338,3 +2338,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-09-03T21:16:38Z,2026-09-04T00:20:43.206065+03:00,_2,c97b954fcb12,E110 - 1 Apriliou,E110,0
 2026-09-03T22:47:13Z,2026-09-04T01:51:12.902005+03:00,_0,028bcd4c5217,Agiou Nikolaou,Sokratous,4
 2026-09-03T22:47:13Z,2026-09-04T01:51:12.902005+03:00,_1,155ee62b0ac1,E110,E114 - Agias Zonis,0
+2026-09-03T23:07:21Z,2026-09-04T02:12:16.858289+03:00,_0,4b1fdac90a97,Leoforos Strovolou,Strovolou Ave,0
+2026-09-03T23:07:21Z,2026-09-04T02:12:16.858289+03:00,_1,8de31ba004ba,Strovolou Ave,Strovolou Ave,2
+2026-09-03T23:07:21Z,2026-09-04T02:12:16.858289+03:00,_2,288bbc8f90d3,Strovolou Ave,E902 - Proedrikou Megarou Ave,0
