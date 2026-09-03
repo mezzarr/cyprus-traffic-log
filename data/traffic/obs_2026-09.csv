@@ -2319,3 +2319,11 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-09-03T17:20:48Z,2026-09-03T20:25:43.022086+03:00,_4,cc8badd45da4,Aglantzia,Evagorou Ave,0
 2026-09-03T17:20:48Z,2026-09-03T20:25:43.022086+03:00,_0,391ae18682fa,Episkopi,> A1 Lefkosia / (A5) Larnaka / (A5)(A3) Larnaka Airport,0
 2026-09-03T17:20:48Z,2026-09-03T20:25:43.022086+03:00,_1,cafc026927d2,Germasogeia,Germasogeia,3
+2026-09-03T17:30:53Z,2026-09-03T20:35:01.458495+03:00,_0,fe72ea2b224f,Strovolos,Lemesou Ave,0
+2026-09-03T17:30:53Z,2026-09-03T20:35:01.458495+03:00,_1,1c3025f6d361,Strovolos,Lemesou Ave,4
+2026-09-03T17:30:53Z,2026-09-03T20:35:01.458495+03:00,_2,7792802c8552,Aglantzia,Archiepiskopou Makariou III Ave,0
+2026-09-03T17:30:53Z,2026-09-03T20:35:01.458495+03:00,_0,d0dc64f54734,,Lemesou Ave,0
+2026-09-03T17:30:53Z,2026-09-03T20:35:01.458495+03:00,_1,1c3025f6d361,Strovolos,Lemesou Ave,4
+2026-09-03T17:30:53Z,2026-09-03T20:35:01.458495+03:00,_2,09cb6b4802cf,Aglantzia,B18 - Digeni Akrita Ave,0
+2026-09-03T17:30:53Z,2026-09-03T20:35:01.458495+03:00,_3,970cc58093c6,Archiepiskopou Makariou III Ave,B18 - Georgiou Griva Digeni Ave,3
+2026-09-03T17:30:53Z,2026-09-03T20:35:01.458495+03:00,_4,e1beab30434a,Archiepiskopou Makariou III Ave,Evagorou Ave,0
