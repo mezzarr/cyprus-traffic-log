@@ -2031,3 +2031,19 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-09-03T12:28:18Z,2026-09-03T15:33:13.589053+03:00,_2,c6ac6530f2b9,Strovolou Ave,E902 - Proedrikou Megarou Ave,0
 2026-09-03T12:28:18Z,2026-09-03T15:33:13.589053+03:00,_0,06afc6492b14,Exit 24 >E127 Germasogeia / E113 Lemesos-Centre,Germasogeia,1
 2026-09-03T12:28:18Z,2026-09-03T15:33:13.589053+03:00,_1,3e1d75b9e16e,Agios Athanasios,"to A6 > Pafos, Pafos Airport",0
+2026-09-03T12:38:27Z,2026-09-03T15:43:22.665899+03:00,_0,69fc3b9dbbdd,Strovolos,Archiepiskopou Makariou III Ave,0
+2026-09-03T12:38:27Z,2026-09-03T15:43:22.665899+03:00,_1,c57daf65c80e,Lemesou Ave,Archiepiskopou Makariou III Ave,3
+2026-09-03T12:38:27Z,2026-09-03T15:43:22.665899+03:00,_0,137f66eaa4ab,E147 - Archiepiskopou Makariou III Ave,Agias Filaxeos,3
+2026-09-03T12:38:27Z,2026-09-03T15:43:22.665899+03:00,_1,01294ef49009,E147 - Archiepiskopou Makariou III Ave,Agias Filaxeos,0
+2026-09-03T12:38:27Z,2026-09-03T15:43:22.665899+03:00,_2,a4260c51b19c,Steliou Kyriakidi,,4
+2026-09-03T12:38:27Z,2026-09-03T15:43:22.665899+03:00,_3,f5f94ff22484,Agias Filaxeos,E110,0
+2026-09-03T12:38:27Z,2026-09-03T15:43:22.665899+03:00,_0,daca33dbcb0d,,Archiepiskopou Makariou III Ave,0
+2026-09-03T12:38:27Z,2026-09-03T15:43:22.665899+03:00,_1,43f05193c4b0,Lemesou Ave,Archiepiskopou Makariou III Ave,3
+2026-09-03T12:38:27Z,2026-09-03T15:43:22.665899+03:00,_2,7e9e53411917,Lemesou Ave,E1302 - Nikis Ave,0
+2026-09-03T12:38:27Z,2026-09-03T15:43:22.665899+03:00,_3,910016111853,B18 - Georgiou Griva Digeni Ave,B18 - Georgiou Griva Digeni Ave,4
+2026-09-03T12:38:27Z,2026-09-03T15:43:22.665899+03:00,_4,bd5c9c327179,B18 - Georgiou Griva Digeni Ave,E165 - Diagorou,2
+2026-09-03T12:38:27Z,2026-09-03T15:43:22.665899+03:00,_5,76dbed895c05,E165 - Themistokli Dervi,Evagorou Ave,0
+2026-09-03T12:38:27Z,2026-09-03T15:43:22.665899+03:00,_0,06afc6492b14,Exit 24 >E127 Germasogeia / E113 Lemesos-Centre,Germasogeia,1
+2026-09-03T12:38:27Z,2026-09-03T15:43:22.665899+03:00,_1,307257218b8f,Agios Athanasios,Lemesos,0
+2026-09-03T12:38:27Z,2026-09-03T15:43:22.665899+03:00,_2,e1dac3423766,Lemesos,Lemesos,2
+2026-09-03T12:38:27Z,2026-09-03T15:43:22.665899+03:00,_3,ef93f4872b51,Lemesos,"to A6 > Pafos, Pafos Airport",0
