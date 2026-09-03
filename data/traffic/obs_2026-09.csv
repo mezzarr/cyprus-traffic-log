@@ -1460,3 +1460,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-09-03T00:00:15Z,2026-09-03T03:05:09.883672+03:00,_0,6cbad308b637,Strovolos,Archiepiskopou Makariou III Ave,0
 2026-09-03T00:00:15Z,2026-09-03T03:05:09.883672+03:00,_1,18295613da88,Lemesou Ave,Lemesou Ave,4
 2026-09-03T00:00:15Z,2026-09-03T03:05:09.883672+03:00,_2,8b530b355b26,Lemesou Ave,Archiepiskopou Makariou III Ave,0
+2026-09-03T00:40:35Z,2026-09-03T03:45:30.368921+03:00,_0,adaf0f561bfb,,Pafos,0
+2026-09-03T00:40:35Z,2026-09-03T03:45:30.368921+03:00,_1,30471498bc80,Pafos,Anarita,1
+2026-09-03T00:40:35Z,2026-09-03T03:45:30.368921+03:00,_2,09e019294b1a,Anarita,Evagorou Ave,0
