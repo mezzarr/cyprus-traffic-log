@@ -2341,3 +2341,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-09-03T23:07:21Z,2026-09-04T02:12:16.858289+03:00,_0,4b1fdac90a97,Leoforos Strovolou,Strovolou Ave,0
 2026-09-03T23:07:21Z,2026-09-04T02:12:16.858289+03:00,_1,8de31ba004ba,Strovolou Ave,Strovolou Ave,2
 2026-09-03T23:07:21Z,2026-09-04T02:12:16.858289+03:00,_2,288bbc8f90d3,Strovolou Ave,E902 - Proedrikou Megarou Ave,0
+2026-09-04T01:29:16Z,2026-09-04T04:33:53.778684+03:00,_0,6564ca4ab008,E110,Spyrou Kyprianou Ave,0
+2026-09-04T01:29:16Z,2026-09-04T04:33:53.778684+03:00,_1,b2a3d4dcbcf4,Agias Filaxeos,Spyrou Kyprianou Ave,3
+2026-09-04T01:29:16Z,2026-09-04T04:33:53.778684+03:00,_2,5c7a1bf71452,Vasileos Georgiou II,E147 - Archiepiskopou Makariou III Ave,0
