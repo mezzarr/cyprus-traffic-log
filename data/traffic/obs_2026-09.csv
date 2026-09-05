@@ -3436,3 +3436,10 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-09-05T10:28:45Z,2026-09-05T13:33:41.316784+03:00,_0,543dd67c0e60,,B18 - Georgiou Griva Digeni Ave,0
 2026-09-05T10:28:45Z,2026-09-05T13:33:41.316784+03:00,_1,aabab5b0e87d,Archiepiskopou Makariou III Ave,B18 - Georgiou Griva Digeni Ave,2
 2026-09-05T10:28:45Z,2026-09-05T13:33:41.316784+03:00,_2,e1beab30434a,Archiepiskopou Makariou III Ave,Evagorou Ave,0
+2026-09-05T10:38:52Z,2026-09-05T13:43:47.783289+03:00,_0,0404ea780de8,E147 - Archiepiskopou Makariou III Ave,Vasileos Georgiou II,0
+2026-09-05T10:38:52Z,2026-09-05T13:43:47.783289+03:00,_1,ded58892ae74,Agias Filaxeos,Vasileos Georgiou II,4
+2026-09-05T10:38:52Z,2026-09-05T13:43:47.783289+03:00,_2,f0692a22ef39,Agias Filaxeos,Agias Filaxeos,0
+2026-09-05T10:38:52Z,2026-09-05T13:43:47.783289+03:00,_3,a4260c51b19c,Steliou Kyriakidi,,4
+2026-09-05T10:38:52Z,2026-09-05T13:43:47.783289+03:00,_4,f780373a5188,Agias Filaxeos,E110 - Agias Fylaxeos,0
+2026-09-05T10:38:52Z,2026-09-05T13:43:47.783289+03:00,_5,6841a02a1258,,E110 - 1 Apriliou,2
+2026-09-05T10:38:52Z,2026-09-05T13:43:47.783289+03:00,_6,f99b72a378a5,E110 - Agias Fylaxeos,E110,0
