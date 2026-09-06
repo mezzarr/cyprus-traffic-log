@@ -3904,3 +3904,13 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-09-06T17:14:55Z,2026-09-06T20:19:51.695619+03:00,_6,cc8badd45da4,Aglantzia,Evagorou Ave,0
 2026-09-06T17:14:55Z,2026-09-06T20:19:51.695619+03:00,_0,cf9421bed762,Episkopi,> A1 Lefkosia / (A5) Larnaka / (A5)(A3) Larnaka Airport,0
 2026-09-06T17:14:55Z,2026-09-06T20:19:51.695619+03:00,_1,a0e0a7c1b318,> A1 Lefkosia / (A5) Larnaka / (A5)(A3) Larnaka Airport,Germasogeia,1
+2026-09-06T17:25:03Z,2026-09-06T20:30:00.276237+03:00,_0,fe72ea2b224f,Strovolos,Lemesou Ave,0
+2026-09-06T17:25:03Z,2026-09-06T20:30:00.276237+03:00,_1,1c3025f6d361,Strovolos,Lemesou Ave,3
+2026-09-06T17:25:03Z,2026-09-06T20:30:00.276237+03:00,_2,7792802c8552,Aglantzia,Archiepiskopou Makariou III Ave,0
+2026-09-06T17:25:03Z,2026-09-06T20:30:00.276237+03:00,_0,978bfa547244,,> A1 Lefkosia / (A5) Larnaka / (A5)(A3) Larnaka Airport,0
+2026-09-06T17:25:03Z,2026-09-06T20:30:00.276237+03:00,_1,20e0a4fd0196,> A1 Lefkosia / (A5) Larnaka / (A5)(A3) Larnaka Airport,Germasogeia,1
+2026-09-06T17:25:03Z,2026-09-06T20:30:00.276237+03:00,_2,37f77aa02bc1,> A1 Lefkosia / (A5) Larnaka / (A5)(A3) Larnaka Airport,Lemesou Ave,0
+2026-09-06T17:25:03Z,2026-09-06T20:30:00.276237+03:00,_3,1c3025f6d361,Strovolos,Lemesou Ave,3
+2026-09-06T17:25:03Z,2026-09-06T20:30:00.276237+03:00,_4,cc8badd45da4,Aglantzia,Evagorou Ave,0
+2026-09-06T17:25:03Z,2026-09-06T20:30:00.276237+03:00,_0,cf9421bed762,Episkopi,> A1 Lefkosia / (A5) Larnaka / (A5)(A3) Larnaka Airport,0
+2026-09-06T17:25:03Z,2026-09-06T20:30:00.276237+03:00,_1,a0e0a7c1b318,> A1 Lefkosia / (A5) Larnaka / (A5)(A3) Larnaka Airport,Germasogeia,1
