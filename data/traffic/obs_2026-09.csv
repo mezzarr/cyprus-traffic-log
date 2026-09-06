@@ -3756,3 +3756,9 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-09-06T10:48:54Z,2026-09-06T13:53:50.747433+03:00,_0,86ca3f119319,Strovolos,E164 - Armenias,0
 2026-09-06T10:48:54Z,2026-09-06T13:53:50.747433+03:00,_1,e9550772caa3,Lemesou Ave,Lemesou Ave,2
 2026-09-06T10:48:54Z,2026-09-06T13:53:50.747433+03:00,_2,85b99fc6d959,A1,Archiepiskopou Makariou III Ave,0
+2026-09-06T11:49:25Z,2026-09-06T14:54:22.231359+03:00,_0,1903b2559960,,Archiepiskopou Makariou III Ave,0
+2026-09-06T11:49:25Z,2026-09-06T14:54:22.231359+03:00,_1,660d388bb733,Lemesou Ave,Archiepiskopou Makariou III Ave,2
+2026-09-06T11:49:25Z,2026-09-06T14:54:22.231359+03:00,_2,8fab7dfc83f0,Lemesou Ave,Evagorou Ave,0
+2026-09-06T11:49:25Z,2026-09-06T14:54:22.231359+03:00,_0,bfc30b8ed2a7,E110,Agias Filaxeos,0
+2026-09-06T11:49:25Z,2026-09-06T14:54:22.231359+03:00,_1,e5ffcfbb4e74,Agias Filaxeos,Agias Filaxeos,5
+2026-09-06T11:49:25Z,2026-09-06T14:54:22.231359+03:00,_2,8efecb847652,Vasileos Georgiou II,E147 - Archiepiskopou Makariou III Ave,0
