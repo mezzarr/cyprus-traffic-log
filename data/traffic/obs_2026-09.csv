@@ -3780,3 +3780,12 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-09-06T12:49:59Z,2026-09-06T15:54:57.498516+03:00,_0,bfc30b8ed2a7,E110,Agias Filaxeos,0
 2026-09-06T12:49:59Z,2026-09-06T15:54:57.498516+03:00,_1,e5ffcfbb4e74,Agias Filaxeos,Agias Filaxeos,5
 2026-09-06T12:49:59Z,2026-09-06T15:54:57.498516+03:00,_2,49acd1a72602,Vasileos Georgiou II,E147 - Archiepiskopou Makariou III Ave,0
+2026-09-06T15:23:38Z,2026-09-06T18:28:35.122633+03:00,_0,4e76d1a3fa55,Strovolos,Strovolos,3
+2026-09-06T15:23:38Z,2026-09-06T18:28:35.122633+03:00,_1,4c19d7768e18,Strovolos,Archiepiskopou Makariou III Ave,0
+2026-09-06T15:23:38Z,2026-09-06T18:28:35.122633+03:00,_0,21071115abc5,,> A1 Lefkosia / (A5) Larnaka / (A5)(A3) Larnaka Airport,0
+2026-09-06T15:23:38Z,2026-09-06T18:28:35.122633+03:00,_1,3d69df352bf6,Germasogeia,Agios Tychonas,3
+2026-09-06T15:23:38Z,2026-09-06T18:28:35.122633+03:00,_2,79ac80fa96cd,Parekklisia,Latsia,0
+2026-09-06T15:23:38Z,2026-09-06T18:28:35.122633+03:00,_3,4e76d1a3fa55,Latsia,Strovolos,3
+2026-09-06T15:23:38Z,2026-09-06T18:28:35.122633+03:00,_4,87cf90f9f072,Strovolos,Evagorou Ave,0
+2026-09-06T15:23:38Z,2026-09-06T18:28:35.122633+03:00,_0,391ae18682fa,Episkopi,> A1 Lefkosia / (A5) Larnaka / (A5)(A3) Larnaka Airport,0
+2026-09-06T15:23:38Z,2026-09-06T18:28:35.122633+03:00,_1,cafc026927d2,Germasogeia,Germasogeia,3
