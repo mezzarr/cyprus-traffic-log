@@ -4497,3 +4497,24 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-09-07T12:50:49Z,2026-09-07T15:55:37.807577+03:00,_2,5dc6cad47a31,Strovolou Ave,Strovolou Ave,0
 2026-09-07T12:50:49Z,2026-09-07T15:55:37.807577+03:00,_3,1e7665234fdc,Strovolou Ave,E902 - Proedrikou Megarou Ave,3
 2026-09-07T12:50:49Z,2026-09-07T15:55:37.807577+03:00,_4,c6ac6530f2b9,Strovolou Ave,E902 - Proedrikou Megarou Ave,0
+2026-09-07T13:00:53Z,2026-09-07T16:04:49.576292+03:00,_0,8d2065e6031d,E147 - Archiepiskopou Makariou III Ave,Faidonos,0
+2026-09-07T13:00:53Z,2026-09-07T16:04:49.576292+03:00,_1,f38856b8f195,Agias Filaxeos,Spyrou Kyprianou Ave,3
+2026-09-07T13:00:53Z,2026-09-07T16:04:49.576292+03:00,_2,ec5eee792e7a,Spyrou Kyprianou Ave,Steliou Kyriakidi,0
+2026-09-07T13:00:53Z,2026-09-07T16:04:49.576292+03:00,_3,a80760be4702,Ivykou,Agias Filaxeos,3
+2026-09-07T13:00:53Z,2026-09-07T16:04:49.576292+03:00,_4,a4260c51b19c,Steliou Kyriakidi,,4
+2026-09-07T13:00:53Z,2026-09-07T16:04:49.576292+03:00,_5,f5f94ff22484,Agias Filaxeos,E110,0
+2026-09-07T13:00:53Z,2026-09-07T16:04:49.576292+03:00,_0,fe72ea2b224f,Exit 4 >E148 Latsia / GSP Stadium,Lemesou Ave,0
+2026-09-07T13:00:53Z,2026-09-07T16:04:49.576292+03:00,_1,1c3025f6d361,Strovolos,Lemesou Ave,3
+2026-09-07T13:00:53Z,2026-09-07T16:04:49.576292+03:00,_2,7c50b274239b,Exit 1 > E116 Athalassis Ave.,E164 - Armenias,0
+2026-09-07T13:00:53Z,2026-09-07T16:04:49.576292+03:00,_3,c57daf65c80e,Chrysanthou Mylona,Archiepiskopou Makariou III Ave,3
+2026-09-07T13:00:53Z,2026-09-07T16:04:49.576292+03:00,_0,377a3d877abc,Exit 24 >E127 Germasogeia / E113 Lemesos-Centre,Exit 27 >E110 Agia Fylaxi / Agros / Tsirio Stadium / Lemesos-Centre,2
+2026-09-07T13:00:53Z,2026-09-07T16:04:49.576292+03:00,_1,5f071a5847f6,Mesa Geitonia,"to A1 > Lemesos Port, Pafos, Pafos Airport",0
+2026-09-07T13:00:53Z,2026-09-07T16:04:49.576292+03:00,_2,e1dac3423766,"to A1 > Lemesos Port, Pafos, Pafos Airport",Exit 28 >B8 Troodos / Lemesos Centre / E142 Polemidia,1
+2026-09-07T13:00:53Z,2026-09-07T16:04:49.576292+03:00,_3,ef93f4872b51,Exit 28 >B8 Troodos / Lemesos Centre / E142 Polemidia,"to A6 > Pafos, Pafos Airport",0
+2026-09-07T13:00:53Z,2026-09-07T16:04:49.576292+03:00,_0,d0dc64f54734,,Lemesou Ave,0
+2026-09-07T13:00:53Z,2026-09-07T16:04:49.576292+03:00,_1,1c3025f6d361,Strovolos,Lemesou Ave,3
+2026-09-07T13:00:53Z,2026-09-07T16:04:49.576292+03:00,_2,7c50b274239b,Exit 1 > E116 Athalassis Ave.,E164 - Armenias,0
+2026-09-07T13:00:53Z,2026-09-07T16:04:49.576292+03:00,_3,43f05193c4b0,Chrysanthou Mylona,Archiepiskopou Makariou III Ave,3
+2026-09-07T13:00:53Z,2026-09-07T16:04:49.576292+03:00,_4,404b3c67b759,Lemesou Ave,Omirou Ave,0
+2026-09-07T13:00:53Z,2026-09-07T16:04:49.576292+03:00,_5,34c1a4955017,E165 - Diagorou,Omirou Ave,3
+2026-09-07T13:00:53Z,2026-09-07T16:04:49.576292+03:00,_6,be61879007bb,E165 - Diagorou,Anastasiou Leventi,0
