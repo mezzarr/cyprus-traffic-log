@@ -3949,3 +3949,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-09-06T22:31:34Z,2026-09-07T01:35:36.320613+03:00,_0,f2dad27e0b2c,E110,E110 - 1 Apriliou,0
 2026-09-06T22:31:34Z,2026-09-07T01:35:36.320613+03:00,_1,0bc8a04884b8,E110 - 1 Apriliou,E110 - 1 Apriliou,3
 2026-09-06T22:31:34Z,2026-09-07T01:35:36.320613+03:00,_2,8b86bdddc300,E110 - Eleftherias,E147 - Archiepiskopou Makariou III Ave,0
+2026-09-07T00:02:51Z,2026-09-07T03:07:47.358563+03:00,_0,04e0d90cca46,Leoforos Strovolou,E902 - Proedrikou Megarou Ave,0
+2026-09-07T00:02:51Z,2026-09-07T03:07:47.358563+03:00,_1,2e2860fdee90,Strovolou Ave,E902 - Proedrikou Megarou Ave,3
+2026-09-07T00:02:51Z,2026-09-07T03:07:47.358563+03:00,_2,c6ac6530f2b9,Strovolou Ave,E902 - Proedrikou Megarou Ave,0
