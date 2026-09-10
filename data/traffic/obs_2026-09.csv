@@ -7471,3 +7471,21 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-09-10T06:43:24Z,2026-09-10T09:48:22.294859+03:00,_0,68c80e5ac67b,Leoforos Strovolou,E116 - Athalassis Ave,0
 2026-09-10T06:43:24Z,2026-09-10T09:48:22.294859+03:00,_1,9806b23dbdae,Omirou,E902 - Proedrikou Megarou Ave,3
 2026-09-10T06:43:24Z,2026-09-10T09:48:22.294859+03:00,_2,96c3ee6a9698,Strovolou Ave,E902 - Proedrikou Megarou Ave,0
+2026-09-10T06:53:32Z,2026-09-10T09:58:30.306172+03:00,_0,d7fa998be72c,Strovolos,Strovolos,0
+2026-09-10T06:53:32Z,2026-09-10T09:58:30.306172+03:00,_1,56258ee4f147,Strovolos,Lemesou Ave,4
+2026-09-10T06:53:32Z,2026-09-10T09:58:30.306172+03:00,_2,7792802c8552,Aglantzia,Archiepiskopou Makariou III Ave,0
+2026-09-10T06:53:32Z,2026-09-10T09:58:30.306172+03:00,_0,db379abb1dc7,Georgiou Neofytou,Spyrou Kyprianou Ave,0
+2026-09-10T06:53:32Z,2026-09-10T09:58:30.306172+03:00,_1,d485409681ec,Spyrou Kyprianou Ave,Spyrou Kyprianou Ave,3
+2026-09-10T06:53:32Z,2026-09-10T09:58:30.306172+03:00,_2,b16f06e86626,Spyrou Kyprianou Ave,Angelou Vlachou,0
+2026-09-10T06:53:32Z,2026-09-10T09:58:30.306172+03:00,_0,06afc6492b14,Exit 24 >E127 Germasogeia / E113 Lemesos-Centre,Germasogeia,2
+2026-09-10T06:53:32Z,2026-09-10T09:58:30.306172+03:00,_1,3e1d75b9e16e,Agios Athanasios,"to A6 > Pafos, Pafos Airport",0
+2026-09-10T06:53:32Z,2026-09-10T09:58:30.306172+03:00,_0,37e913d03e44,,Strovolos,0
+2026-09-10T06:53:32Z,2026-09-10T09:58:30.306172+03:00,_1,56258ee4f147,Strovolos,Lemesou Ave,4
+2026-09-10T06:53:32Z,2026-09-10T09:58:30.306172+03:00,_2,f403275ce8d4,Aglantzia,Archiepiskopou Makariou III Ave,0
+2026-09-10T06:53:32Z,2026-09-10T09:58:30.306172+03:00,_3,798c594a6669,Archiepiskopou Makariou III Ave,B18 - Georgiou Griva Digeni Ave,3
+2026-09-10T06:53:32Z,2026-09-10T09:58:30.306172+03:00,_4,7c1a88e2db2c,Archiepiskopou Makariou III Ave,E1302 - Nikis Ave,0
+2026-09-10T06:53:32Z,2026-09-10T09:58:30.306172+03:00,_5,910016111853,B18 - Georgiou Griva Digeni Ave,B18 - Georgiou Griva Digeni Ave,4
+2026-09-10T06:53:32Z,2026-09-10T09:58:30.306172+03:00,_6,bbf67e32aa17,B18 - Georgiou Griva Digeni Ave,Evagorou Ave,0
+2026-09-10T06:53:32Z,2026-09-10T09:58:30.306172+03:00,_0,aaf73b6e9007,Leoforos Strovolou,E116 - Athalassis Ave,0
+2026-09-10T06:53:32Z,2026-09-10T09:58:30.306172+03:00,_1,e43fac5d0a5a,Strovolou Ave,E116 - Athalassis Ave,2
+2026-09-10T06:53:32Z,2026-09-10T09:58:30.306172+03:00,_2,92d65c298345,E116 - Athalassis Ave,E902 - Proedrikou Megarou Ave,0
