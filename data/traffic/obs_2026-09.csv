@@ -8071,3 +8071,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-09-10T21:28:09Z,2026-09-11T00:33:07.605962+03:00,_0,f2dad27e0b2c,E110,E110 - 1 Apriliou,0
 2026-09-10T21:28:09Z,2026-09-11T00:33:07.605962+03:00,_1,0bc8a04884b8,E110 - 1 Apriliou,E110 - 1 Apriliou,3
 2026-09-10T21:28:09Z,2026-09-11T00:33:07.605962+03:00,_2,c9decce66ab6,E110 - Eleftherias,E147 - Archiepiskopou Makariou III Ave,0
+2026-09-10T23:39:57Z,2026-09-11T02:44:56.301579+03:00,_0,db0d9865008e,,Anarita,0
+2026-09-10T23:39:57Z,2026-09-11T02:44:56.301579+03:00,_1,a840b6915e0c,Agia Varvara (Pafos),Agia Varvara (Pafos),3
+2026-09-10T23:39:57Z,2026-09-11T02:44:56.301579+03:00,_2,470390ad0739,Anarita,Evagorou Ave,0
