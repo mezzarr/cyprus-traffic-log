@@ -13758,3 +13758,5 @@ utc,feed,error
 2026-09-07T12:29:37Z,traffic,"https://fixcyprus.cy/gnosis/open/api/nap/datasets/waze_traffic/: ParseError: syntax error: line 1, column 0"
 2026-09-11T00:00:13Z,traffic,https://fixcyprus.cy/gnosis/open/api/nap/datasets/waze_traffic/: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)>
 2026-09-11T00:00:13Z,alerts,https://fixcyprus.cy/gnosis/open/api/nap/datasets/waze_alerts/: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)>
+2026-09-11T00:12:20Z,traffic,https://fixcyprus.cy/gnosis/open/api/nap/datasets/waze_traffic/: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)>
+2026-09-11T00:12:20Z,alerts,https://fixcyprus.cy/gnosis/open/api/nap/datasets/waze_alerts/: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)>
