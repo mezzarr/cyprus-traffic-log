@@ -8824,3 +8824,10 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-09-11T17:33:46Z,2026-09-11T20:38:44.828777+03:00,_2,c6e235d3222a,Aglantzia,Archiepiskopou Makariou III Ave,0
 2026-09-11T17:33:46Z,2026-09-11T20:38:44.828777+03:00,_3,6efde239cabf,Lemesou Ave,Archiepiskopou Makariou III Ave,3
 2026-09-11T17:33:46Z,2026-09-11T20:38:44.828777+03:00,_4,8fab7dfc83f0,Lemesou Ave,Evagorou Ave,0
+2026-09-11T17:43:53Z,2026-09-11T20:48:51.751709+03:00,_0,acb430b8e822,Strovolos,Archiepiskopou Makariou III Ave,0
+2026-09-11T17:43:53Z,2026-09-11T20:48:51.751709+03:00,_1,394713f228bd,Lemesou Ave,Lemesou Ave,3
+2026-09-11T17:43:53Z,2026-09-11T20:48:51.751709+03:00,_0,6311136a7b90,,Archiepiskopou Makariou III Ave,0
+2026-09-11T17:43:53Z,2026-09-11T20:48:51.751709+03:00,_1,6efde239cabf,Lemesou Ave,Archiepiskopou Makariou III Ave,3
+2026-09-11T17:43:53Z,2026-09-11T20:48:51.751709+03:00,_2,7e9e53411917,Lemesou Ave,E1302 - Nikis Ave,0
+2026-09-11T17:43:53Z,2026-09-11T20:48:51.751709+03:00,_3,910016111853,B18 - Georgiou Griva Digeni Ave,B18 - Georgiou Griva Digeni Ave,3
+2026-09-11T17:43:53Z,2026-09-11T20:48:51.751709+03:00,_4,bbf67e32aa17,B18 - Georgiou Griva Digeni Ave,Evagorou Ave,0
