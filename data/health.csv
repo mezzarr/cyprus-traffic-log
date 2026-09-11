@@ -13762,3 +13762,5 @@ utc,feed,error
 2026-09-11T00:12:20Z,alerts,https://fixcyprus.cy/gnosis/open/api/nap/datasets/waze_alerts/: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)>
 2026-09-11T00:24:29Z,traffic,https://fixcyprus.cy/gnosis/open/api/nap/datasets/waze_traffic/: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)>
 2026-09-11T00:24:29Z,alerts,https://fixcyprus.cy/gnosis/open/api/nap/datasets/waze_alerts/: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)>
+2026-09-11T00:36:35Z,traffic,https://fixcyprus.cy/gnosis/open/api/nap/datasets/waze_traffic/: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)>
+2026-09-11T00:36:35Z,alerts,https://fixcyprus.cy/gnosis/open/api/nap/datasets/waze_alerts/: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)>
