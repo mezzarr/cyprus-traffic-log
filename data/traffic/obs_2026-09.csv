@@ -9081,3 +9081,20 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-09-12T16:28:11Z,2026-09-12T19:33:10.996462+03:00,_4,acb430b8e822,Latsia,Archiepiskopou Makariou III Ave,0
 2026-09-12T16:28:11Z,2026-09-12T19:33:10.996462+03:00,_5,6efde239cabf,Lemesou Ave,Archiepiskopou Makariou III Ave,2
 2026-09-12T16:28:11Z,2026-09-12T19:33:10.996462+03:00,_6,8fab7dfc83f0,Lemesou Ave,Evagorou Ave,0
+2026-09-12T16:38:17Z,2026-09-12T19:43:16.586072+03:00,_0,9b57a1fd19bb,Episkopi,Kato Polemidia,0
+2026-09-12T16:38:17Z,2026-09-12T19:43:16.586072+03:00,_1,818a9c208563,A6,> A1 Lefkosia / (A5) Larnaka / (A5)(A3) Larnaka Airport,3
+2026-09-12T16:38:17Z,2026-09-12T19:43:16.586072+03:00,_2,a0e0a7c1b318,> A1 Lefkosia / (A5) Larnaka / (A5)(A3) Larnaka Airport,Germasogeia,0
+2026-09-12T16:38:17Z,2026-09-12T19:43:16.586072+03:00,_0,07b7eb11e965,E147 - Archiepiskopou Makariou III Ave,E110 - 1 Apriliou,0
+2026-09-12T16:38:17Z,2026-09-12T19:43:16.586072+03:00,_1,de7c5d112dc2,E110 - 1 Apriliou,E110 - Eleftherias,2
+2026-09-12T16:38:17Z,2026-09-12T19:43:16.586072+03:00,_2,5f1fec2aa9f9,E110 - 1 Apriliou,E110,0
+2026-09-12T16:38:17Z,2026-09-12T19:43:16.586072+03:00,_0,acb430b8e822,Strovolos,Archiepiskopou Makariou III Ave,0
+2026-09-12T16:38:17Z,2026-09-12T19:43:16.586072+03:00,_1,394713f228bd,Lemesou Ave,Lemesou Ave,3
+2026-09-12T16:38:17Z,2026-09-12T19:43:16.586072+03:00,_0,5571d2934d78,E110,E110 - Agias Fylaxeos,0
+2026-09-12T16:38:17Z,2026-09-12T19:43:16.586072+03:00,_1,0067285e4956,E110 - 1 Apriliou,E110 - Agias Fylaxeos,2
+2026-09-12T16:38:17Z,2026-09-12T19:43:16.586072+03:00,_2,c1ff6bb096e0,E110 - 1 Apriliou,Spyrou Kyprianou Ave,0
+2026-09-12T16:38:17Z,2026-09-12T19:43:16.586072+03:00,_3,2a34522f1f9e,Vasileos Georgiou II,E147 - Archiepiskopou Makariou III Ave,2
+2026-09-12T16:38:17Z,2026-09-12T19:43:16.586072+03:00,_0,cb3af67cb06c,,Kato Polemidia,0
+2026-09-12T16:38:17Z,2026-09-12T19:43:16.586072+03:00,_1,818a9c208563,A6,> A1 Lefkosia / (A5) Larnaka / (A5)(A3) Larnaka Airport,3
+2026-09-12T16:38:17Z,2026-09-12T19:43:16.586072+03:00,_2,899615c9dd77,> A1 Lefkosia / (A5) Larnaka / (A5)(A3) Larnaka Airport,Archiepiskopou Makariou III Ave,0
+2026-09-12T16:38:17Z,2026-09-12T19:43:16.586072+03:00,_3,6efde239cabf,Lemesou Ave,Archiepiskopou Makariou III Ave,3
+2026-09-12T16:38:17Z,2026-09-12T19:43:16.586072+03:00,_4,8fab7dfc83f0,Lemesou Ave,Evagorou Ave,0
