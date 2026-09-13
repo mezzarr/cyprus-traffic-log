@@ -9390,3 +9390,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-09-13T23:04:00Z,2026-09-14T02:08:59.962429+03:00,_0,aa4d6b7f5aef,,Kofinou,0
 2026-09-13T23:04:00Z,2026-09-14T02:08:59.962429+03:00,_1,92b4026856fa,Kornos,Kornos,1
 2026-09-13T23:04:00Z,2026-09-14T02:08:59.962429+03:00,_2,bcf01bc5872c,Kornos,Evagorou Ave,0
+2026-09-13T23:54:51Z,2026-09-14T02:59:51.139543+03:00,_0,0f933a47c7c3,E147 - Archiepiskopou Makariou III Ave,Ivykou,0
+2026-09-13T23:54:51Z,2026-09-14T02:59:51.139543+03:00,_1,cec91fb425c4,Bottitselli,Steliou Kyriakidi,4
+2026-09-13T23:54:51Z,2026-09-14T02:59:51.139543+03:00,_2,079cbb26c0f1,Ivykou,E110,0
