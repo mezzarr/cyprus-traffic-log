@@ -9378,3 +9378,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-09-13T17:50:24Z,2026-09-13T20:55:23.557519+03:00,_0,daca33dbcb0d,,Archiepiskopou Makariou III Ave,0
 2026-09-13T17:50:24Z,2026-09-13T20:55:23.557519+03:00,_1,5db6bff47527,Lemesou Ave,E164 - Armenias,2
 2026-09-13T17:50:24Z,2026-09-13T20:55:23.557519+03:00,_2,5d9906ca4bcb,A1,Evagorou Ave,0
+2026-09-13T18:40:53Z,2026-09-13T21:45:33.211158+03:00,_0,1903b2559960,,Archiepiskopou Makariou III Ave,0
+2026-09-13T18:40:53Z,2026-09-13T21:45:33.211158+03:00,_1,660d388bb733,Lemesou Ave,Archiepiskopou Makariou III Ave,2
+2026-09-13T18:40:53Z,2026-09-13T21:45:33.211158+03:00,_2,8fab7dfc83f0,Lemesou Ave,Evagorou Ave,0
