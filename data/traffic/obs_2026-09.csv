@@ -9372,3 +9372,9 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-09-13T17:40:18Z,2026-09-13T20:45:17.906443+03:00,_0,0a48bb590e10,Leoforos Strovolou,Ithakis,0
 2026-09-13T17:40:18Z,2026-09-13T20:45:17.906443+03:00,_1,265e79592e94,Eleftherias,Dimotikou Stadiou,2
 2026-09-13T17:40:18Z,2026-09-13T20:45:17.906443+03:00,_2,3ec8446c99fb,Eleftherias,E902 - Proedrikou Megarou Ave,0
+2026-09-13T17:50:24Z,2026-09-13T20:55:23.557519+03:00,_0,69fc3b9dbbdd,Strovolos,Archiepiskopou Makariou III Ave,0
+2026-09-13T17:50:24Z,2026-09-13T20:55:23.557519+03:00,_1,5db6bff47527,Lemesou Ave,E164 - Armenias,2
+2026-09-13T17:50:24Z,2026-09-13T20:55:23.557519+03:00,_2,a95604920bd3,E164 - Armenias,Archiepiskopou Makariou III Ave,0
+2026-09-13T17:50:24Z,2026-09-13T20:55:23.557519+03:00,_0,daca33dbcb0d,,Archiepiskopou Makariou III Ave,0
+2026-09-13T17:50:24Z,2026-09-13T20:55:23.557519+03:00,_1,5db6bff47527,Lemesou Ave,E164 - Armenias,2
+2026-09-13T17:50:24Z,2026-09-13T20:55:23.557519+03:00,_2,5d9906ca4bcb,A1,Evagorou Ave,0
