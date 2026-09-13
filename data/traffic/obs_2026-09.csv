@@ -9387,3 +9387,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-09-13T22:53:54Z,2026-09-14T01:58:54.458611+03:00,_0,f2dad27e0b2c,E110,E110 - 1 Apriliou,0
 2026-09-13T22:53:54Z,2026-09-14T01:58:54.458611+03:00,_1,0bc8a04884b8,E110 - 1 Apriliou,E110 - 1 Apriliou,3
 2026-09-13T22:53:54Z,2026-09-14T01:58:54.458611+03:00,_2,8b86bdddc300,E110 - Eleftherias,E147 - Archiepiskopou Makariou III Ave,0
+2026-09-13T23:04:00Z,2026-09-14T02:08:59.962429+03:00,_0,aa4d6b7f5aef,,Kofinou,0
+2026-09-13T23:04:00Z,2026-09-14T02:08:59.962429+03:00,_1,92b4026856fa,Kornos,Kornos,1
+2026-09-13T23:04:00Z,2026-09-14T02:08:59.962429+03:00,_2,bcf01bc5872c,Kornos,Evagorou Ave,0
