@@ -9760,3 +9760,25 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-09-14T06:19:15Z,2026-09-14T09:24:15.659188+03:00,_2,e3e8486ff8b2,Kato Polemidia,Kato Polemidia,0
 2026-09-14T06:19:15Z,2026-09-14T09:24:15.659188+03:00,_3,33bef9b5a9ab,Lemesos,Lemesos,1
 2026-09-14T06:19:15Z,2026-09-14T09:24:15.659188+03:00,_4,d73a04fc5195,Mesa Geitonia,Germasogeia,0
+2026-09-14T06:29:22Z,2026-09-14T09:34:22.024431+03:00,_0,fe72ea2b224f,Strovolos,Lemesou Ave,0
+2026-09-14T06:29:22Z,2026-09-14T09:34:22.024431+03:00,_1,1c3025f6d361,Strovolos,Lemesou Ave,3
+2026-09-14T06:29:22Z,2026-09-14T09:34:22.024431+03:00,_2,7c50b274239b,Aglantzia,E164 - Armenias,0
+2026-09-14T06:29:22Z,2026-09-14T09:34:22.024431+03:00,_3,c57daf65c80e,Lemesou Ave,Archiepiskopou Makariou III Ave,3
+2026-09-14T06:29:22Z,2026-09-14T09:34:22.024431+03:00,_0,137f66eaa4ab,E147 - Archiepiskopou Makariou III Ave,Agias Filaxeos,2
+2026-09-14T06:29:22Z,2026-09-14T09:34:22.024431+03:00,_1,23ad5534cecd,E147 - Archiepiskopou Makariou III Ave,E110,0
+2026-09-14T06:29:22Z,2026-09-14T09:34:22.024431+03:00,_0,a3a211317758,,Exit 29 > E807 Port / General Hospital / Industrial Area,0
+2026-09-14T06:29:22Z,2026-09-14T09:34:22.024431+03:00,_1,b5974a99cf02,Exit 29 > E807 Port / General Hospital / Industrial Area,A1,1
+2026-09-14T06:29:22Z,2026-09-14T09:34:22.024431+03:00,_2,c13bb500e39e,> A6 Lemesos /  (A1) Lefkosia / (A5)  Larnaka,Lemesou Ave,0
+2026-09-14T06:29:22Z,2026-09-14T09:34:22.024431+03:00,_3,1c3025f6d361,Strovolos,Lemesou Ave,3
+2026-09-14T06:29:22Z,2026-09-14T09:34:22.024431+03:00,_4,7c50b274239b,Aglantzia,E164 - Armenias,0
+2026-09-14T06:29:22Z,2026-09-14T09:34:22.024431+03:00,_5,43f05193c4b0,Lemesou Ave,Archiepiskopou Makariou III Ave,3
+2026-09-14T06:29:22Z,2026-09-14T09:34:22.024431+03:00,_6,d6b7fcb8774d,Lemesou Ave,Archiepiskopou Makariou III Ave,0
+2026-09-14T06:29:22Z,2026-09-14T09:34:22.024431+03:00,_7,c1da992e502e,Archiepiskopou Makariou III Ave,B18 - Georgiou Griva Digeni Ave,3
+2026-09-14T06:29:22Z,2026-09-14T09:34:22.024431+03:00,_8,7c1a88e2db2c,Archiepiskopou Makariou III Ave,E1302 - Nikis Ave,0
+2026-09-14T06:29:22Z,2026-09-14T09:34:22.024431+03:00,_9,910016111853,B18 - Georgiou Griva Digeni Ave,B18 - Georgiou Griva Digeni Ave,3
+2026-09-14T06:29:22Z,2026-09-14T09:34:22.024431+03:00,_10,bbf67e32aa17,B18 - Georgiou Griva Digeni Ave,Evagorou Ave,0
+2026-09-14T06:29:22Z,2026-09-14T09:34:22.024431+03:00,_0,f885a0fb098a,Episkopi,Exit 29 > E807 Port / General Hospital / Industrial Area,0
+2026-09-14T06:29:22Z,2026-09-14T09:34:22.024431+03:00,_1,b5974a99cf02,Exit 29 > E807 Port / General Hospital / Industrial Area,A1,1
+2026-09-14T06:29:22Z,2026-09-14T09:34:22.024431+03:00,_2,4327224b8778,> A6 Lemesos /  (A1) Lefkosia / (A5)  Larnaka,Germasogeia,0
+2026-09-14T06:29:22Z,2026-09-14T09:34:22.024431+03:00,_0,06afc6492b14,Exit 24 >E127 Germasogeia / E113 Lemesos-Centre,Germasogeia,1
+2026-09-14T06:29:22Z,2026-09-14T09:34:22.024431+03:00,_1,3e1d75b9e16e,Agios Athanasios,"to A6 > Pafos, Pafos Airport",0
