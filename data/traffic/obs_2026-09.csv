@@ -10978,3 +10978,20 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-09-15T12:17:06Z,2026-09-15T15:22:06.566962+03:00,_0,daca33dbcb0d,,Archiepiskopou Makariou III Ave,0
 2026-09-15T12:17:06Z,2026-09-15T15:22:06.566962+03:00,_1,43f05193c4b0,Lemesou Ave,Archiepiskopou Makariou III Ave,3
 2026-09-15T12:17:06Z,2026-09-15T15:22:06.566962+03:00,_2,8fab7dfc83f0,Lemesou Ave,Evagorou Ave,0
+2026-09-15T12:27:12Z,2026-09-15T15:32:12.320019+03:00,_0,69fc3b9dbbdd,Strovolos,Archiepiskopou Makariou III Ave,0
+2026-09-15T12:27:12Z,2026-09-15T15:32:12.320019+03:00,_1,c57daf65c80e,Lemesou Ave,Archiepiskopou Makariou III Ave,3
+2026-09-15T12:27:12Z,2026-09-15T15:32:12.320019+03:00,_0,72b03ff9b5bc,E110,E110 - Agias Fylaxeos,0
+2026-09-15T12:27:12Z,2026-09-15T15:32:12.320019+03:00,_1,e50ca2ecb1e0,E110 - 1 Apriliou,,4
+2026-09-15T12:27:12Z,2026-09-15T15:32:12.320019+03:00,_2,2e9ffee5c9c5,E110 - Agias Fylaxeos,E147 - Archiepiskopou Makariou III Ave,0
+2026-09-15T12:27:12Z,2026-09-15T15:32:12.320019+03:00,_3,0047479cf4c6,Agias Filaxeos,E147 - Archiepiskopou Makariou III Ave,2
+2026-09-15T12:27:12Z,2026-09-15T15:32:12.320019+03:00,_0,920305ee9a1e,E147 - Archiepiskopou Makariou III Ave,Agias Filaxeos,0
+2026-09-15T12:27:12Z,2026-09-15T15:32:12.320019+03:00,_1,a4260c51b19c,Steliou Kyriakidi,,4
+2026-09-15T12:27:12Z,2026-09-15T15:32:12.320019+03:00,_2,f5f94ff22484,Agias Filaxeos,E110,0
+2026-09-15T12:27:12Z,2026-09-15T15:32:12.320019+03:00,_0,daca33dbcb0d,,Archiepiskopou Makariou III Ave,0
+2026-09-15T12:27:12Z,2026-09-15T15:32:12.320019+03:00,_1,43f05193c4b0,Lemesou Ave,Archiepiskopou Makariou III Ave,3
+2026-09-15T12:27:12Z,2026-09-15T15:32:12.320019+03:00,_2,585aa61a46fa,Lemesou Ave,B18 - Digeni Akrita Ave,0
+2026-09-15T12:27:12Z,2026-09-15T15:32:12.320019+03:00,_3,055237d5336a,Archiepiskopou Makariou III Ave,B18 - Georgiou Griva Digeni Ave,3
+2026-09-15T12:27:12Z,2026-09-15T15:32:12.320019+03:00,_4,e1beab30434a,Archiepiskopou Makariou III Ave,Evagorou Ave,0
+2026-09-15T12:27:12Z,2026-09-15T15:32:12.320019+03:00,_0,8d77f87328bf,Leoforos Strovolou,E116 - Athalassis Ave,0
+2026-09-15T12:27:12Z,2026-09-15T15:32:12.320019+03:00,_1,1e7665234fdc,E116 - Athalassis Ave,E902 - Proedrikou Megarou Ave,3
+2026-09-15T12:27:12Z,2026-09-15T15:32:12.320019+03:00,_2,c6ac6530f2b9,Strovolou Ave,E902 - Proedrikou Megarou Ave,0
