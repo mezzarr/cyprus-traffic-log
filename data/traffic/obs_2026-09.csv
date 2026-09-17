@@ -12734,3 +12734,29 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-09-17T06:27:29Z,2026-09-17T09:32:30.466906+03:00,_0,e7f960841113,Episkopi,A1,0
 2026-09-17T06:27:29Z,2026-09-17T09:32:30.466906+03:00,_1,51a87f29a8d7,A6,Lemesos,2
 2026-09-17T06:27:29Z,2026-09-17T09:32:30.466906+03:00,_2,4cc85bcdea4b,Exit 27 >E110 Agia Fylaxi / Agros / Tsirio Stadium / Lemesos-Centre,Germasogeia,0
+2026-09-17T06:37:35Z,2026-09-17T09:42:36.297021+03:00,_0,fe72ea2b224f,Strovolos,Lemesou Ave,0
+2026-09-17T06:37:35Z,2026-09-17T09:42:36.297021+03:00,_1,1c3025f6d361,Strovolos,Lemesou Ave,4
+2026-09-17T06:37:35Z,2026-09-17T09:42:36.297021+03:00,_2,7c50b274239b,Aglantzia,E164 - Armenias,0
+2026-09-17T06:37:35Z,2026-09-17T09:42:36.297021+03:00,_3,c57daf65c80e,Lemesou Ave,Archiepiskopou Makariou III Ave,3
+2026-09-17T06:37:35Z,2026-09-17T09:42:36.297021+03:00,_0,f2dad27e0b2c,E110,E110 - 1 Apriliou,0
+2026-09-17T06:37:35Z,2026-09-17T09:42:36.297021+03:00,_1,11d63beefc3f,E110 - Eleftherias,E110 - 1 Apriliou,2
+2026-09-17T06:37:35Z,2026-09-17T09:42:36.297021+03:00,_2,f80d1b231dad,E110 - 1 Apriliou,E110 - Agias Fylaxeos,0
+2026-09-17T06:37:35Z,2026-09-17T09:42:36.297021+03:00,_3,e50ca2ecb1e0,E110 - 1 Apriliou,,3
+2026-09-17T06:37:35Z,2026-09-17T09:42:36.297021+03:00,_4,2a1ca0037583,E110 - Agias Fylaxeos,Apostolon Petrou kai Pavlou,0
+2026-09-17T06:37:35Z,2026-09-17T09:42:36.297021+03:00,_5,02446ed5df97,Spyrou Kyprianou Ave,E147 - Archiepiskopou Makariou III Ave,3
+2026-09-17T06:37:35Z,2026-09-17T09:42:36.297021+03:00,_0,044a01c053a4,E147 - Archiepiskopou Makariou III Ave,Agias Filaxeos,2
+2026-09-17T06:37:35Z,2026-09-17T09:42:36.297021+03:00,_1,a16a3f4bac66,E147 - Archiepiskopou Makariou III Ave,E110,0
+2026-09-17T06:37:35Z,2026-09-17T09:42:36.297021+03:00,_0,cb3af67cb06c,,Exit 27 >E110 Agia Fylaxi / Agros / Tsirio Stadium / Lemesos-Centre,0
+2026-09-17T06:37:35Z,2026-09-17T09:42:36.297021+03:00,_1,c1b4363fadaa,Lemesos,Exit 27 >E110 Agia Fylaxi / Agros / Tsirio Stadium / Lemesos-Centre,1
+2026-09-17T06:37:35Z,2026-09-17T09:42:36.297021+03:00,_2,c83fbeadcf5a,Exit 27 >E110 Agia Fylaxi / Agros / Tsirio Stadium / Lemesos-Centre,Lemesou Ave,0
+2026-09-17T06:37:35Z,2026-09-17T09:42:36.297021+03:00,_3,1c3025f6d361,Strovolos,Lemesou Ave,4
+2026-09-17T06:37:35Z,2026-09-17T09:42:36.297021+03:00,_4,7c50b274239b,Aglantzia,E164 - Armenias,0
+2026-09-17T06:37:35Z,2026-09-17T09:42:36.297021+03:00,_5,43f05193c4b0,Lemesou Ave,Archiepiskopou Makariou III Ave,3
+2026-09-17T06:37:35Z,2026-09-17T09:42:36.297021+03:00,_6,5aa9f8d8c10c,Lemesou Ave,Archiepiskopou Makariou III Ave,0
+2026-09-17T06:37:35Z,2026-09-17T09:42:36.297021+03:00,_7,e416e06b7bb8,Archiepiskopou Makariou III Ave,B18 - Georgiou Griva Digeni Ave,3
+2026-09-17T06:37:35Z,2026-09-17T09:42:36.297021+03:00,_8,7c1a88e2db2c,Archiepiskopou Makariou III Ave,E1302 - Nikis Ave,0
+2026-09-17T06:37:35Z,2026-09-17T09:42:36.297021+03:00,_9,910016111853,B18 - Georgiou Griva Digeni Ave,B18 - Georgiou Griva Digeni Ave,4
+2026-09-17T06:37:35Z,2026-09-17T09:42:36.297021+03:00,_10,cddc60fde5e2,B18 - Georgiou Griva Digeni Ave,Evagorou Ave,0
+2026-09-17T06:37:35Z,2026-09-17T09:42:36.297021+03:00,_0,9b57a1fd19bb,Episkopi,Exit 27 >E110 Agia Fylaxi / Agros / Tsirio Stadium / Lemesos-Centre,0
+2026-09-17T06:37:35Z,2026-09-17T09:42:36.297021+03:00,_1,c1b4363fadaa,Lemesos,Exit 27 >E110 Agia Fylaxi / Agros / Tsirio Stadium / Lemesos-Centre,1
+2026-09-17T06:37:35Z,2026-09-17T09:42:36.297021+03:00,_2,e7aa3fa7d4d2,Exit 27 >E110 Agia Fylaxi / Agros / Tsirio Stadium / Lemesos-Centre,Germasogeia,0
