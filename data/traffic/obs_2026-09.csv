@@ -12931,3 +12931,20 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-09-17T12:13:43Z,2026-09-17T15:18:44.511554+03:00,_4,585aa61a46fa,Lemesou Ave,B18 - Digeni Akrita Ave,0
 2026-09-17T12:13:43Z,2026-09-17T15:18:44.511554+03:00,_5,055237d5336a,Archiepiskopou Makariou III Ave,B18 - Georgiou Griva Digeni Ave,3
 2026-09-17T12:13:43Z,2026-09-17T15:18:44.511554+03:00,_6,c7d57ec59fcb,Archiepiskopou Makariou III Ave,Evagorou Ave,0
+2026-09-17T12:23:50Z,2026-09-17T15:28:52.124247+03:00,_0,69fc3b9dbbdd,Strovolos,Archiepiskopou Makariou III Ave,0
+2026-09-17T12:23:50Z,2026-09-17T15:28:52.124247+03:00,_1,c57daf65c80e,Lemesou Ave,Archiepiskopou Makariou III Ave,2
+2026-09-17T12:23:50Z,2026-09-17T15:28:52.124247+03:00,_0,72b03ff9b5bc,E110,E110 - Agias Fylaxeos,0
+2026-09-17T12:23:50Z,2026-09-17T15:28:52.124247+03:00,_1,e50ca2ecb1e0,E110 - 1 Apriliou,,4
+2026-09-17T12:23:50Z,2026-09-17T15:28:52.124247+03:00,_2,9e95bc80ebae,E110 - Agias Fylaxeos,E147 - Archiepiskopou Makariou III Ave,0
+2026-09-17T12:23:50Z,2026-09-17T15:28:52.124247+03:00,_3,afcda84a293b,Agias Filaxeos,E147 - Archiepiskopou Makariou III Ave,3
+2026-09-17T12:23:50Z,2026-09-17T15:28:52.124247+03:00,_0,920305ee9a1e,E147 - Archiepiskopou Makariou III Ave,Agias Filaxeos,0
+2026-09-17T12:23:50Z,2026-09-17T15:28:52.124247+03:00,_1,a4260c51b19c,Steliou Kyriakidi,,4
+2026-09-17T12:23:50Z,2026-09-17T15:28:52.124247+03:00,_2,f5f94ff22484,Agias Filaxeos,E110,0
+2026-09-17T12:23:50Z,2026-09-17T15:28:52.124247+03:00,_0,4c5c1524f421,,Archiepiskopou Makariou III Ave,0
+2026-09-17T12:23:50Z,2026-09-17T15:28:52.124247+03:00,_1,43f05193c4b0,Lemesou Ave,Archiepiskopou Makariou III Ave,2
+2026-09-17T12:23:50Z,2026-09-17T15:28:52.124247+03:00,_2,216090995857,Lemesou Ave,B18 - Digeni Akrita Ave,0
+2026-09-17T12:23:50Z,2026-09-17T15:28:52.124247+03:00,_3,95344851cee7,Archiepiskopou Makariou III Ave,B18 - Georgiou Griva Digeni Ave,3
+2026-09-17T12:23:50Z,2026-09-17T15:28:52.124247+03:00,_4,7c1a88e2db2c,Archiepiskopou Makariou III Ave,E1302 - Nikis Ave,0
+2026-09-17T12:23:50Z,2026-09-17T15:28:52.124247+03:00,_5,910016111853,B18 - Georgiou Griva Digeni Ave,B18 - Georgiou Griva Digeni Ave,4
+2026-09-17T12:23:50Z,2026-09-17T15:28:52.124247+03:00,_6,bd5c9c327179,B18 - Georgiou Griva Digeni Ave,Evagorou Ave,2
+2026-09-17T12:23:50Z,2026-09-17T15:28:52.124247+03:00,_7,851d5c77c38b,E165 - Themistokli Dervi,Evagorou Ave,0
