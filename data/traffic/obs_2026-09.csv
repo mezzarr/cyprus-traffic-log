@@ -13342,3 +13342,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-09-17T17:42:26Z,2026-09-17T20:47:27.815551+03:00,_2,c6e235d3222a,Aglantzia,Archiepiskopou Makariou III Ave,0
 2026-09-17T17:42:26Z,2026-09-17T20:47:27.815551+03:00,_3,6efde239cabf,Lemesou Ave,Archiepiskopou Makariou III Ave,2
 2026-09-17T17:42:26Z,2026-09-17T20:47:27.815551+03:00,_4,732ef6c1b23c,Lemesou Ave,Evagorou Ave,0
+2026-09-17T21:37:10Z,2026-09-18T00:42:11.149947+03:00,_0,ed0f8536366e,E110,E110 - 1 Apriliou,0
+2026-09-17T21:37:10Z,2026-09-18T00:42:11.149947+03:00,_1,32c2745803b6,E110 - Eleftherias,E110 - 1 Apriliou,3
+2026-09-17T21:37:10Z,2026-09-18T00:42:11.149947+03:00,_2,c9decce66ab6,E110 - Eleftherias,E147 - Archiepiskopou Makariou III Ave,0
