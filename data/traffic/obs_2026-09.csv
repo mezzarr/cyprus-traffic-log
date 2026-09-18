@@ -14613,3 +14613,9 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-09-18T17:39:47Z,2026-09-18T20:44:00.113006+03:00,_6,f3ce7a5c0882,B18 - Georgiou Griva Digeni Ave,B19 - Omirou Ave,0
 2026-09-18T17:39:47Z,2026-09-18T20:44:00.113006+03:00,_7,ecb8295957ab,Omirou Ave,Dionysiou Solomou Square,3
 2026-09-18T17:39:47Z,2026-09-18T20:44:00.113006+03:00,_8,39b2dd7a299c,Dionysiou Solomou Square,Anastasiou Leventi,0
+2026-09-18T17:49:54Z,2026-09-18T20:54:32.741610+03:00,_0,07b7eb11e965,E147 - Archiepiskopou Makariou III Ave,E110 - 1 Apriliou,0
+2026-09-18T17:49:54Z,2026-09-18T20:54:32.741610+03:00,_1,de7c5d112dc2,E110 - 1 Apriliou,E110 - Eleftherias,2
+2026-09-18T17:49:54Z,2026-09-18T20:54:32.741610+03:00,_2,5f1fec2aa9f9,E110 - 1 Apriliou,E110,0
+2026-09-18T17:49:54Z,2026-09-18T20:54:32.741610+03:00,_0,991f7b8f6f99,,E1302 - Nikis Ave,0
+2026-09-18T17:49:54Z,2026-09-18T20:54:32.741610+03:00,_1,910016111853,B18 - Georgiou Griva Digeni Ave,B18 - Georgiou Griva Digeni Ave,4
+2026-09-18T17:49:54Z,2026-09-18T20:54:32.741610+03:00,_2,cddc60fde5e2,B18 - Georgiou Griva Digeni Ave,Evagorou Ave,0
