@@ -14628,3 +14628,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-09-18T18:30:14Z,2026-09-18T21:34:32.796627+03:00,_0,f2dad27e0b2c,E110,E110 - 1 Apriliou,0
 2026-09-18T18:30:14Z,2026-09-18T21:34:32.796627+03:00,_1,a8d4936fe237,E110 - Eleftherias,E110 - 1 Apriliou,2
 2026-09-18T18:30:14Z,2026-09-18T21:34:32.796627+03:00,_2,fa32090a6df3,E110 - 1 Apriliou,E147 - Archiepiskopou Makariou III Ave,0
+2026-09-18T18:40:19Z,2026-09-18T21:44:32.878992+03:00,_0,abcb7a572942,,B18 - Digeni Akrita Ave,0
+2026-09-18T18:40:19Z,2026-09-18T21:44:32.878992+03:00,_1,aabab5b0e87d,Archiepiskopou Makariou III Ave,B18 - Georgiou Griva Digeni Ave,3
+2026-09-18T18:40:19Z,2026-09-18T21:44:32.878992+03:00,_2,c7d57ec59fcb,Archiepiskopou Makariou III Ave,Evagorou Ave,0
