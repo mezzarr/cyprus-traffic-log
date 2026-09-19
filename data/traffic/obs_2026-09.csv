@@ -14894,3 +14894,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-09-19T17:40:02Z,2026-09-19T20:44:23.580548+03:00,_3,910016111853,B18 - Georgiou Griva Digeni Ave,B18 - Georgiou Griva Digeni Ave,3
 2026-09-19T17:40:02Z,2026-09-19T20:44:23.580548+03:00,_4,77882f54bb36,B18 - Georgiou Griva Digeni Ave,Evagorou Ave,2
 2026-09-19T17:40:02Z,2026-09-19T20:44:23.580548+03:00,_5,4dd6648cd64a,E165 - Themistokli Dervi,Evagorou Ave,0
+2026-09-19T18:00:12Z,2026-09-19T21:04:50.918145+03:00,_0,fef2f2e51ea5,,Evagorou Ave,0
+2026-09-19T18:00:12Z,2026-09-19T21:04:50.918145+03:00,_1,b0a1ff926f69,B18 - Georgiou Griva Digeni Ave,Evagorou Ave,2
+2026-09-19T18:00:12Z,2026-09-19T21:04:50.918145+03:00,_2,4dd6648cd64a,E165 - Themistokli Dervi,Evagorou Ave,0
