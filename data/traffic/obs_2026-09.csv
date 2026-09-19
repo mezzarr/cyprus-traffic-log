@@ -14908,3 +14908,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-09-19T18:20:25Z,2026-09-19T21:24:53.681004+03:00,_0,fef2f2e51ea5,,Evagorou Ave,0
 2026-09-19T18:20:25Z,2026-09-19T21:24:53.681004+03:00,_1,06a69b0e63fe,B18 - Georgiou Griva Digeni Ave,Evagorou Ave,3
 2026-09-19T18:20:25Z,2026-09-19T21:24:53.681004+03:00,_2,851d5c77c38b,E165 - Themistokli Dervi,Evagorou Ave,0
+2026-09-19T20:52:21Z,2026-09-19T23:56:45.948005+03:00,_0,f2dad27e0b2c,E110,E110 - 1 Apriliou,0
+2026-09-19T20:52:21Z,2026-09-19T23:56:45.948005+03:00,_1,0bc8a04884b8,E110 - 1 Apriliou,E110 - 1 Apriliou,3
+2026-09-19T20:52:21Z,2026-09-19T23:56:45.948005+03:00,_2,c9decce66ab6,E110 - Eleftherias,E147 - Archiepiskopou Makariou III Ave,0
