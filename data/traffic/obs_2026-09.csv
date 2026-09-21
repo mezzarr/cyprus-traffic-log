@@ -16106,3 +16106,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-09-21T15:14:14Z,2026-09-21T18:18:49.495800+03:00,_0,2459eb632a9a,Exit 24 >E127 Germasogeia / E113 Lemesos-Centre,Lemesos,0
 2026-09-21T15:14:14Z,2026-09-21T18:18:49.495800+03:00,_1,e1dac3423766,Lemesos,Lemesos,1
 2026-09-21T15:14:14Z,2026-09-21T18:18:49.495800+03:00,_2,d8d6ae6984b3,Lemesos,"to A6 > Pafos, Pafos Airport",0
+2026-09-21T21:17:41Z,2026-09-22T00:22:43.869111+03:00,_0,4c0187e14339,,Kouklia,0
+2026-09-21T21:17:41Z,2026-09-22T00:22:43.869111+03:00,_1,488391f35175,Kouklia,Aphrodite Hills,1
+2026-09-21T21:17:41Z,2026-09-22T00:22:43.869111+03:00,_2,f787464d9b4e,Aphrodite Hills,Evagorou Ave,0
