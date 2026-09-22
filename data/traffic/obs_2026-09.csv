@@ -17113,3 +17113,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-09-22T18:20:28Z,2026-09-22T21:24:34.514855+03:00,_2,c7d57ec59fcb,Archiepiskopou Makariou III Ave,Evagorou Ave,0
 2026-09-22T18:20:28Z,2026-09-22T21:24:34.514855+03:00,_0,8fbca12857bb,E110,E147 - Archiepiskopou Makariou III Ave,0
 2026-09-22T18:20:28Z,2026-09-22T21:24:34.514855+03:00,_1,97fd60761863,Agiou Artemiou,E147 - Archiepiskopou Makariou III Ave,2
+2026-09-22T21:12:50Z,2026-09-23T00:17:41.913666+03:00,_0,3bcde49e10d6,E147 - Archiepiskopou Makariou III Ave,E110 - 1 Apriliou,0
+2026-09-22T21:12:50Z,2026-09-23T00:17:41.913666+03:00,_1,214af16051b2,E110 - 1 Apriliou,E110 - 1 Apriliou,1
+2026-09-22T21:12:50Z,2026-09-23T00:17:41.913666+03:00,_2,15f60bb25351,E110 - 1 Apriliou,E110,0
