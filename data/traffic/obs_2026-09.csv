@@ -16117,3 +16117,8 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-09-21T21:47:58Z,2026-09-22T00:53:01.706445+03:00,_2,f401b5832bfb,Episkopi,Evagorou Ave,0
 2026-09-21T21:47:58Z,2026-09-22T00:53:01.706445+03:00,_0,0b9212b700e0,Episkopi,Episkopi,1
 2026-09-21T21:47:58Z,2026-09-22T00:53:01.706445+03:00,_1,f6c411e25f88,Episkopi,Germasogeia,0
+2026-09-22T01:12:25Z,2026-09-22T04:17:28.034965+03:00,_0,1b2774ccb0c2,,Archiepiskopou Makariou III Ave,0
+2026-09-22T01:12:25Z,2026-09-22T04:17:28.034965+03:00,_1,6efde239cabf,Lemesou Ave,Archiepiskopou Makariou III Ave,3
+2026-09-22T01:12:25Z,2026-09-22T04:17:28.034965+03:00,_2,732ef6c1b23c,Lemesou Ave,Evagorou Ave,0
+2026-09-22T01:12:25Z,2026-09-22T04:17:28.034965+03:00,_0,acb430b8e822,Strovolos,Archiepiskopou Makariou III Ave,0
+2026-09-22T01:12:25Z,2026-09-22T04:17:28.034965+03:00,_1,394713f228bd,Lemesou Ave,Lemesou Ave,3
