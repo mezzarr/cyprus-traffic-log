@@ -18626,3 +18626,23 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-09-24T12:07:09Z,2026-09-24T15:12:06.125121+03:00,_0,68ba8c9365ac,Exit 24 >E127 Germasogeia / E113 Lemesos-Centre,Germasogeia,0
 2026-09-24T12:07:09Z,2026-09-24T15:12:06.125121+03:00,_1,54d6f53ce72c,Exit 24 >E127 Germasogeia / E113 Lemesos-Centre,Agios Athanasios,1
 2026-09-24T12:07:09Z,2026-09-24T15:12:06.125121+03:00,_2,921fa22e97f1,Exit 26 > E114 Mesa Geitonia / Lemesos-Centre / F131 Mathikoloni,"to A6 > Pafos, Pafos Airport",0
+2026-09-24T12:17:17Z,2026-09-24T15:22:21.226755+03:00,_0,69fc3b9dbbdd,Strovolos,Archiepiskopou Makariou III Ave,0
+2026-09-24T12:17:17Z,2026-09-24T15:22:21.226755+03:00,_1,c57daf65c80e,Lemesou Ave,Archiepiskopou Makariou III Ave,3
+2026-09-24T12:17:17Z,2026-09-24T15:22:21.226755+03:00,_0,31c9b775d03b,E110,E110 - Agias Fylaxeos,0
+2026-09-24T12:17:17Z,2026-09-24T15:22:21.226755+03:00,_1,9f80d2b8e678,E110 - 1 Apriliou,,3
+2026-09-24T12:17:17Z,2026-09-24T15:22:21.226755+03:00,_2,d6f5867b3a91,E110 - Agias Fylaxeos,Spyrou Kyprianou Ave,0
+2026-09-24T12:17:17Z,2026-09-24T15:22:21.226755+03:00,_3,35f121484003,Vasileos Georgiou II,Agias Filaxeos,4
+2026-09-24T12:17:17Z,2026-09-24T15:22:21.226755+03:00,_4,e93ba5af1ef3,Spyrou Kyprianou Ave,E147 - Archiepiskopou Makariou III Ave,0
+2026-09-24T12:17:17Z,2026-09-24T15:22:21.226755+03:00,_0,e32be8ebc438,E147 - Archiepiskopou Makariou III Ave,Agiou Artemiou,3
+2026-09-24T12:17:17Z,2026-09-24T15:22:21.226755+03:00,_1,66d24131590e,E147 - Archiepiskopou Makariou III Ave,Agias Filaxeos,0
+2026-09-24T12:17:17Z,2026-09-24T15:22:21.226755+03:00,_2,a4260c51b19c,Steliou Kyriakidi,,3
+2026-09-24T12:17:17Z,2026-09-24T15:22:21.226755+03:00,_3,f5f94ff22484,Agias Filaxeos,E110,0
+2026-09-24T12:17:17Z,2026-09-24T15:22:21.226755+03:00,_0,db379abb1dc7,Georgiou Neofytou,Spyrou Kyprianou Ave,0
+2026-09-24T12:17:17Z,2026-09-24T15:22:21.226755+03:00,_1,ef92deb69f4e,Spyrou Kyprianou Ave,Spyrou Kyprianou Ave,2
+2026-09-24T12:17:17Z,2026-09-24T15:22:21.226755+03:00,_2,6ec68c86e931,Spyrou Kyprianou Ave,Agias Filaxeos,0
+2026-09-24T12:17:17Z,2026-09-24T15:22:21.226755+03:00,_0,4c5c1524f421,,Archiepiskopou Makariou III Ave,0
+2026-09-24T12:17:17Z,2026-09-24T15:22:21.226755+03:00,_1,43f05193c4b0,Lemesou Ave,Archiepiskopou Makariou III Ave,3
+2026-09-24T12:17:17Z,2026-09-24T15:22:21.226755+03:00,_2,732ef6c1b23c,Lemesou Ave,Evagorou Ave,0
+2026-09-24T12:17:17Z,2026-09-24T15:22:21.226755+03:00,_0,06afc6492b14,Exit 24 >E127 Germasogeia / E113 Lemesos-Centre,Exit 26 > E114 Mesa Geitonia / Lemesos-Centre / F131 Mathikoloni,0
+2026-09-24T12:17:17Z,2026-09-24T15:22:21.226755+03:00,_1,c0f129731113,Agios Athanasios,Mesa Geitonia,1
+2026-09-24T12:17:17Z,2026-09-24T15:22:21.226755+03:00,_2,add0363188ca,Lemesos,"to A6 > Pafos, Pafos Airport",0
