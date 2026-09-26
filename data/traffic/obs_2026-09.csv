@@ -20409,3 +20409,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-09-26T17:38:13Z,2026-09-26T20:43:19.422690+03:00,_1,cafc026927d2,Germasogeia,Germasogeia,1
 2026-09-26T17:48:23Z,2026-09-26T20:53:28.355793+03:00,_0,39496f0cfb84,E110,Agias Filaxeos,0
 2026-09-26T17:48:23Z,2026-09-26T20:53:28.355793+03:00,_1,8efecb847652,Vasileos Georgiou II,E147 - Archiepiskopou Makariou III Ave,3
+2026-09-26T17:58:28Z,2026-09-26T21:03:33.950009+03:00,_0,6126ef874806,E147 - Archiepiskopou Makariou III Ave,E110 - 1 Apriliou,0
+2026-09-26T17:58:28Z,2026-09-26T21:03:33.950009+03:00,_1,01e5020b9cd2,E110 - 1 Apriliou,E110 - 1 Apriliou,3
+2026-09-26T17:58:28Z,2026-09-26T21:03:33.950009+03:00,_2,885d1e6135e2,E110 - 1 Apriliou,E110,0
