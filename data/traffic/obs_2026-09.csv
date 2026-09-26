@@ -20363,3 +20363,17 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-09-26T17:07:48Z,2026-09-26T20:12:54.277764+03:00,_4,a4082cd3b8e8,Aglantzia,E1302 - Nikis Ave,0
 2026-09-26T17:07:48Z,2026-09-26T20:12:54.277764+03:00,_5,910016111853,B18 - Georgiou Griva Digeni Ave,B18 - Georgiou Griva Digeni Ave,4
 2026-09-26T17:07:48Z,2026-09-26T20:12:54.277764+03:00,_6,cddc60fde5e2,B18 - Georgiou Griva Digeni Ave,Evagorou Ave,0
+2026-09-26T17:18:00Z,2026-09-26T20:23:05.759328+03:00,_0,fe72ea2b224f,Strovolos,Lemesou Ave,0
+2026-09-26T17:18:00Z,2026-09-26T20:23:05.759328+03:00,_1,16a08779ce14,Strovolos,Lemesou Ave,3
+2026-09-26T17:18:00Z,2026-09-26T20:23:05.759328+03:00,_2,002a54c51467,A1,Archiepiskopou Makariou III Ave,0
+2026-09-26T17:18:00Z,2026-09-26T20:23:05.759328+03:00,_0,320e7f883c81,E110,E147 - Archiepiskopou Makariou III Ave,0
+2026-09-26T17:18:00Z,2026-09-26T20:23:05.759328+03:00,_1,88697bca4b53,Agias Filaxeos,E147 - Archiepiskopou Makariou III Ave,3
+2026-09-26T17:18:00Z,2026-09-26T20:23:05.759328+03:00,_0,c2d7205db84d,Episkopi,Agios Athanasios,0
+2026-09-26T17:18:00Z,2026-09-26T20:23:05.759328+03:00,_1,067a934f6a30,Agios Athanasios,Germasogeia,2
+2026-09-26T17:18:00Z,2026-09-26T20:23:05.759328+03:00,_0,98b92b354812,,Agios Athanasios,0
+2026-09-26T17:18:00Z,2026-09-26T20:23:05.759328+03:00,_1,e2fbec3c7ab3,Agios Athanasios,> A1 Lefkosia / (A5) Larnaka / (A5)(A3) Larnaka Airport,2
+2026-09-26T17:18:00Z,2026-09-26T20:23:05.759328+03:00,_2,286e525112d5,> A1 Lefkosia / (A5) Larnaka / (A5)(A3) Larnaka Airport,Lemesou Ave,0
+2026-09-26T17:18:00Z,2026-09-26T20:23:05.759328+03:00,_3,16a08779ce14,Strovolos,Lemesou Ave,3
+2026-09-26T17:18:00Z,2026-09-26T20:23:05.759328+03:00,_4,54147b3e491c,A1,B18 - Digeni Akrita Ave,0
+2026-09-26T17:18:00Z,2026-09-26T20:23:05.759328+03:00,_5,aabab5b0e87d,Archiepiskopou Makariou III Ave,B18 - Georgiou Griva Digeni Ave,2
+2026-09-26T17:18:00Z,2026-09-26T20:23:05.759328+03:00,_6,c7d57ec59fcb,Archiepiskopou Makariou III Ave,Evagorou Ave,0
