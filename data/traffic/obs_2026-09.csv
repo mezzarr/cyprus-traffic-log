@@ -20418,3 +20418,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-09-26T18:08:34Z,2026-09-26T21:13:39.756486+03:00,_0,da9119f649b1,,Archiepiskopou Makariou III Ave,0
 2026-09-26T18:08:34Z,2026-09-26T21:13:39.756486+03:00,_1,660d388bb733,Lemesou Ave,Archiepiskopou Makariou III Ave,2
 2026-09-26T18:08:34Z,2026-09-26T21:13:39.756486+03:00,_2,732ef6c1b23c,Lemesou Ave,Evagorou Ave,0
+2026-09-26T18:38:56Z,2026-09-26T21:43:33.628918+03:00,_0,70c2d82b42d8,,E1302 - Nikis Ave,0
+2026-09-26T18:38:56Z,2026-09-26T21:43:33.628918+03:00,_1,8693a9de5ca3,B18 - Georgiou Griva Digeni Ave,B18 - Georgiou Griva Digeni Ave,1
+2026-09-26T18:38:56Z,2026-09-26T21:43:33.628918+03:00,_2,a93ca49fe6dc,Archiepiskopou Makariou III Ave,Evagorou Ave,0
