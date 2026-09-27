@@ -20428,3 +20428,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-09-27T01:35:36Z,2026-09-27T04:40:41.352920+03:00,_1,6ec68c86e931,Spyrou Kyprianou Ave,Agias Filaxeos,0
 2026-09-27T01:45:41Z,2026-09-27T04:50:46.738739+03:00,_0,dceccf313a06,Georgiou Neofytou,E114 - Archiepiskopou Makariou III Ave,2
 2026-09-27T01:45:41Z,2026-09-27T04:50:46.738739+03:00,_1,6ec68c86e931,Spyrou Kyprianou Ave,Agias Filaxeos,0
+2026-09-27T02:05:53Z,2026-09-27T05:10:58.627586+03:00,_0,2b7ce8a61652,Kosta Misiaouli,Arch. Makariou III,0
+2026-09-27T02:05:53Z,2026-09-27T05:10:58.627586+03:00,_1,80f277cd5f57,E902 - Archiepiskopou Makariou III,Arch. Makariou III,4
+2026-09-27T02:05:53Z,2026-09-27T05:10:58.627586+03:00,_2,10fd369e10c9,E902 - Archiepiskopou Makariou III,E902 - Proedrikou Megarou Ave,0
