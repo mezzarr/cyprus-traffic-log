@@ -20809,3 +20809,12 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-09-28T06:45:42Z,2026-09-28T09:50:46.765457+03:00,_2,2eeb7481ceda,Aglantzia,E164 - Armenias,0
 2026-09-28T06:45:42Z,2026-09-28T09:50:46.765457+03:00,_3,3dec49aff703,Lemesou Ave,Archiepiskopou Makariou III Ave,3
 2026-09-28T06:45:42Z,2026-09-28T09:50:46.765457+03:00,_4,732ef6c1b23c,Lemesou Ave,Evagorou Ave,0
+2026-09-28T06:55:49Z,2026-09-28T10:00:38.614135+03:00,_0,5b27c50fa078,Strovolos,Archiepiskopou Makariou III Ave,0
+2026-09-28T06:55:49Z,2026-09-28T10:00:38.614135+03:00,_1,8b530b355b26,Lemesou Ave,Archiepiskopou Makariou III Ave,2
+2026-09-28T06:55:49Z,2026-09-28T10:00:38.614135+03:00,_0,35653bf66474,E110,Spyrou Kyprianou Ave,0
+2026-09-28T06:55:49Z,2026-09-28T10:00:38.614135+03:00,_1,0a5c4761a6b4,Agias Filaxeos,Vasileos Georgiou II,3
+2026-09-28T06:55:49Z,2026-09-28T10:00:38.614135+03:00,_2,34136326ebcf,Agias Filaxeos,E147 - Archiepiskopou Makariou III Ave,0
+2026-09-28T06:55:49Z,2026-09-28T10:00:38.614135+03:00,_3,b1607c8a378f,Aristovoulou,E147 - Archiepiskopou Makariou III Ave,4
+2026-09-28T06:55:49Z,2026-09-28T10:00:38.614135+03:00,_0,10a26ae3280b,,Archiepiskopou Makariou III Ave,0
+2026-09-28T06:55:49Z,2026-09-28T10:00:38.614135+03:00,_1,3dec49aff703,Lemesou Ave,Archiepiskopou Makariou III Ave,2
+2026-09-28T06:55:49Z,2026-09-28T10:00:38.614135+03:00,_2,732ef6c1b23c,Lemesou Ave,Evagorou Ave,0
