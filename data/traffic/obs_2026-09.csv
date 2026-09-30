@@ -22310,3 +22310,5 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-09-29T21:47:36Z,2026-09-30T00:52:42.490699+03:00,_0,991f7b8f6f99,,E1302 - Nikis Ave,0
 2026-09-29T21:47:36Z,2026-09-30T00:52:42.490699+03:00,_1,910016111853,B18 - Georgiou Griva Digeni Ave,B18 - Georgiou Griva Digeni Ave,2
 2026-09-29T21:47:36Z,2026-09-30T00:52:42.490699+03:00,_2,cddc60fde5e2,B18 - Georgiou Griva Digeni Ave,Evagorou Ave,0
+2026-09-30T00:20:04Z,2026-09-30T03:24:37.679458+03:00,_0,db9d522c582f,Agiou Athanasiou Ave,Spyrou Kyprianou Ave,0
+2026-09-30T00:20:04Z,2026-09-30T03:24:37.679458+03:00,_1,0efa495a7a2f,Spyrou Kyprianou Ave,Angelou Vlachou,2
