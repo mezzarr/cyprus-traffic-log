@@ -22742,3 +22742,9 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-09-30T18:18:34Z,2026-09-30T21:22:58.985662+03:00,_8,c4b061092d51,E165 - Themistokli Dervi,Omirou Ave,4
 2026-09-30T18:18:34Z,2026-09-30T21:22:58.985662+03:00,_9,fd6ba7526a4f,E165 - Diagorou,B19 - Omirou Ave,0
 2026-09-30T18:18:34Z,2026-09-30T21:22:58.985662+03:00,_10,423cc702dadd,Omirou Ave,Anastasiou Leventi,3
+2026-09-30T18:28:43Z,2026-09-30T21:33:12.689637+03:00,_0,6864282e2a5e,,B18 - Digeni Akrita Ave,0
+2026-09-30T18:28:43Z,2026-09-30T21:33:12.689637+03:00,_1,38e09e47f840,Archiepiskopou Makariou III Ave,B18 - Georgiou Griva Digeni Ave,4
+2026-09-30T18:28:43Z,2026-09-30T21:33:12.689637+03:00,_2,7c1a88e2db2c,Archiepiskopou Makariou III Ave,E1302 - Nikis Ave,0
+2026-09-30T18:28:43Z,2026-09-30T21:33:12.689637+03:00,_3,910016111853,B18 - Georgiou Griva Digeni Ave,B18 - Georgiou Griva Digeni Ave,4
+2026-09-30T18:28:43Z,2026-09-30T21:33:12.689637+03:00,_4,bd5c9c327179,B18 - Georgiou Griva Digeni Ave,Evagorou Ave,3
+2026-09-30T18:28:43Z,2026-09-30T21:33:12.689637+03:00,_5,851d5c77c38b,E165 - Themistokli Dervi,Evagorou Ave,0
