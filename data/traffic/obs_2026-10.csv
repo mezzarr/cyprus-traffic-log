@@ -72,3 +72,9 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-10-01T08:11:54Z,2026-10-01T11:17:01.927988+03:00,_0,2212b85e9459,,Strovolos,0
 2026-10-01T08:11:54Z,2026-10-01T11:17:01.927988+03:00,_1,56258ee4f147,Strovolos,Lemesou Ave,3
 2026-10-01T08:11:54Z,2026-10-01T11:17:01.927988+03:00,_2,aafa6de54592,Aglantzia,Evagorou Ave,0
+2026-10-01T13:12:18Z,2026-10-01T16:16:26.427163+03:00,_0,2459eb632a9a,Exit 24 >E127 Germasogeia / E113 Lemesos-Centre,Lemesos,0
+2026-10-01T13:12:18Z,2026-10-01T16:16:26.427163+03:00,_1,830dda577c6e,Lemesos,A6,3
+2026-10-01T13:12:18Z,2026-10-01T16:16:26.427163+03:00,_2,92333bf4f07f,A1,"to A6 > Pafos, Pafos Airport",0
+2026-10-01T13:12:18Z,2026-10-01T16:16:26.427163+03:00,_0,abcb7a572942,,B18 - Georgiou Griva Digeni Ave,0
+2026-10-01T13:12:18Z,2026-10-01T16:16:26.427163+03:00,_1,aabab5b0e87d,Archiepiskopou Makariou III Ave,B18 - Georgiou Griva Digeni Ave,3
+2026-10-01T13:12:18Z,2026-10-01T16:16:26.427163+03:00,_2,c7d57ec59fcb,Archiepiskopou Makariou III Ave,Evagorou Ave,0
