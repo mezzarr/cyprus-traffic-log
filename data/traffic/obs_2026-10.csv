@@ -120,3 +120,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-10-01T15:15:27Z,2026-10-01T18:20:34.581232+03:00,_1,a3ac8e4eefb5,Agios Athanasios,"to A6 > Pafos, Pafos Airport",0
 2026-10-01T15:25:34Z,2026-10-01T18:30:41.720643+03:00,_0,06afc6492b14,Exit 24 >E127 Germasogeia / E113 Lemesos-Centre,Germasogeia,1
 2026-10-01T15:25:34Z,2026-10-01T18:30:41.720643+03:00,_1,a3ac8e4eefb5,Agios Athanasios,"to A6 > Pafos, Pafos Airport",0
+2026-10-02T01:11:33Z,2026-10-02T04:16:27.101360+03:00,_0,16f28768cf1c,,Omirou Ave,0
+2026-10-02T01:11:33Z,2026-10-02T04:16:27.101360+03:00,_1,cb5a60e18320,E165 - Themistokli Dervi,Omirou Ave,4
+2026-10-02T01:11:33Z,2026-10-02T04:16:27.101360+03:00,_2,f2f730671cd7,E165 - Diagorou,Anastasiou Leventi,0
