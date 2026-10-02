@@ -129,3 +129,8 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-10-02T02:22:13Z,2026-10-02T05:27:21.176682+03:00,_0,07b7eb11e965,Agias Filaxeos,E110 - 1 Apriliou,0
 2026-10-02T02:22:13Z,2026-10-02T05:27:21.176682+03:00,_1,b8c777372286,E110 - 1 Apriliou,E110 - 1 Apriliou,4
 2026-10-02T02:22:13Z,2026-10-02T05:27:21.176682+03:00,_2,15f60bb25351,E110 - 1 Apriliou,E110 - Eleftherias,0
+2026-10-02T03:12:38Z,2026-10-02T06:17:38.430156+03:00,_0,1b2774ccb0c2,,Archiepiskopou Makariou III Ave,0
+2026-10-02T03:12:38Z,2026-10-02T06:17:38.430156+03:00,_1,6efde239cabf,Lemesou Ave,Archiepiskopou Makariou III Ave,3
+2026-10-02T03:12:38Z,2026-10-02T06:17:38.430156+03:00,_2,732ef6c1b23c,Lemesou Ave,Evagorou Ave,0
+2026-10-02T03:12:38Z,2026-10-02T06:17:38.430156+03:00,_0,acb430b8e822,Strovolos,Archiepiskopou Makariou III Ave,0
+2026-10-02T03:12:38Z,2026-10-02T06:17:38.430156+03:00,_1,394713f228bd,Lemesou Ave,Lemesou Ave,3
