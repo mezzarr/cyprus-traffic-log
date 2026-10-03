@@ -801,3 +801,12 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-10-03T16:20:17Z,2026-10-03T19:24:52.196601+03:00,_2,3dbf7cbe2a04,Germasogeia,Archiepiskopou Makariou III Ave,0
 2026-10-03T16:20:17Z,2026-10-03T19:24:52.196601+03:00,_3,43f05193c4b0,Lemesou Ave,Archiepiskopou Makariou III Ave,2
 2026-10-03T16:20:17Z,2026-10-03T19:24:52.196601+03:00,_4,732ef6c1b23c,Lemesou Ave,Evagorou Ave,0
+2026-10-03T16:30:21Z,2026-10-03T19:34:39.344350+03:00,_0,69fc3b9dbbdd,Strovolos,Archiepiskopou Makariou III Ave,0
+2026-10-03T16:30:21Z,2026-10-03T19:34:39.344350+03:00,_1,c57daf65c80e,Lemesou Ave,Archiepiskopou Makariou III Ave,2
+2026-10-03T16:30:21Z,2026-10-03T19:34:39.344350+03:00,_0,391ae18682fa,Episkopi,> A1 Lefkosia / (A5) Larnaka / (A5)(A3) Larnaka Airport,0
+2026-10-03T16:30:21Z,2026-10-03T19:34:39.344350+03:00,_1,cafc026927d2,Germasogeia,Germasogeia,3
+2026-10-03T16:30:21Z,2026-10-03T19:34:39.344350+03:00,_0,21071115abc5,,> A1 Lefkosia / (A5) Larnaka / (A5)(A3) Larnaka Airport,0
+2026-10-03T16:30:21Z,2026-10-03T19:34:39.344350+03:00,_1,449dd31251f4,Germasogeia,Germasogeia,3
+2026-10-03T16:30:21Z,2026-10-03T19:34:39.344350+03:00,_2,b3c653857519,> A1 Lefkosia / (A5) Larnaka / (A5)(A3) Larnaka Airport,Archiepiskopou Makariou III Ave,0
+2026-10-03T16:30:21Z,2026-10-03T19:34:39.344350+03:00,_3,43f05193c4b0,Lemesou Ave,Archiepiskopou Makariou III Ave,2
+2026-10-03T16:30:21Z,2026-10-03T19:34:39.344350+03:00,_4,732ef6c1b23c,Lemesou Ave,Evagorou Ave,0
