@@ -744,3 +744,10 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-10-03T13:14:47Z,2026-10-03T16:19:56.168734+03:00,_2,50dc42de3530,Mesa Geitonia,Agios Athanasios,0
 2026-10-03T13:14:47Z,2026-10-03T16:19:56.168734+03:00,_3,69e2abb27a41,Agios Athanasios,Agios Athanasios,1
 2026-10-03T13:14:47Z,2026-10-03T16:19:56.168734+03:00,_4,cafc026927d2,Germasogeia,Germasogeia,0
+2026-10-03T13:24:53Z,2026-10-03T16:30:01.152079+03:00,_0,acb430b8e822,Strovolos,Archiepiskopou Makariou III Ave,0
+2026-10-03T13:24:53Z,2026-10-03T16:30:01.152079+03:00,_1,394713f228bd,Lemesou Ave,Lemesou Ave,2
+2026-10-03T13:24:53Z,2026-10-03T16:30:01.152079+03:00,_0,98b5261b31f5,E110,E147 - Archiepiskopou Makariou III Ave,0
+2026-10-03T13:24:53Z,2026-10-03T16:30:01.152079+03:00,_1,676c339d8b55,Agias Filaxeos,E147 - Archiepiskopou Makariou III Ave,3
+2026-10-03T13:24:53Z,2026-10-03T16:30:01.152079+03:00,_0,1b2774ccb0c2,,Archiepiskopou Makariou III Ave,0
+2026-10-03T13:24:53Z,2026-10-03T16:30:01.152079+03:00,_1,6efde239cabf,Lemesou Ave,Archiepiskopou Makariou III Ave,2
+2026-10-03T13:24:53Z,2026-10-03T16:30:01.152079+03:00,_2,732ef6c1b23c,Lemesou Ave,Evagorou Ave,0
