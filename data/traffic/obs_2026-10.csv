@@ -776,3 +776,7 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-10-03T13:55:08Z,2026-10-03T17:00:17.189613+03:00,_0,860a91c0b7e8,Leoforos Strovolou,E902 - Proedrikou Megarou Ave,0
 2026-10-03T13:55:08Z,2026-10-03T17:00:17.189613+03:00,_1,3630a0758b3b,Strovolou Ave,E902 - Proedrikou Megarou Ave,2
 2026-10-03T13:55:08Z,2026-10-03T17:00:17.189613+03:00,_2,96c3ee6a9698,Strovolou Ave,E902 - Proedrikou Megarou Ave,0
+2026-10-03T14:05:15Z,2026-10-03T17:09:26.105387+03:00,_0,991f7b8f6f99,,E1302 - Nikis Ave,0
+2026-10-03T14:05:15Z,2026-10-03T17:09:26.105387+03:00,_1,910016111853,B18 - Georgiou Griva Digeni Ave,B18 - Georgiou Griva Digeni Ave,4
+2026-10-03T14:05:15Z,2026-10-03T17:09:26.105387+03:00,_2,bd5c9c327179,B18 - Georgiou Griva Digeni Ave,Evagorou Ave,2
+2026-10-03T14:05:15Z,2026-10-03T17:09:26.105387+03:00,_3,851d5c77c38b,E165 - Themistokli Dervi,Evagorou Ave,0
