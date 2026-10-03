@@ -927,3 +927,10 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-10-03T17:51:03Z,2026-10-03T20:55:34.833199+03:00,_2,8959f996547b,A1,E1302 - Nikis Ave,0
 2026-10-03T17:51:03Z,2026-10-03T20:55:34.833199+03:00,_3,78a68e950dd6,B18 - Georgiou Griva Digeni Ave,E1302 - Nikis Ave,3
 2026-10-03T17:51:03Z,2026-10-03T20:55:34.833199+03:00,_4,3102e6b6a46a,B18 - Georgiou Griva Digeni Ave,Evagorou Ave,0
+2026-10-03T18:01:07Z,2026-10-03T21:05:37.812303+03:00,_0,fff94a557d24,E110,Spyrou Kyprianou Ave,0
+2026-10-03T18:01:07Z,2026-10-03T21:05:37.812303+03:00,_1,79bce8ea6a9f,Vasileos Georgiou II,Agias Filaxeos,3
+2026-10-03T18:01:07Z,2026-10-03T21:05:37.812303+03:00,_2,5b0a828551d4,Agias Filaxeos,E147 - Archiepiskopou Makariou III Ave,0
+2026-10-03T18:01:07Z,2026-10-03T21:05:37.812303+03:00,_3,f36b97dd89de,Agias Filaxeos,E147 - Archiepiskopou Makariou III Ave,4
+2026-10-03T18:01:07Z,2026-10-03T21:05:37.812303+03:00,_0,991f7b8f6f99,,E1302 - Nikis Ave,0
+2026-10-03T18:01:07Z,2026-10-03T21:05:37.812303+03:00,_1,910016111853,B18 - Georgiou Griva Digeni Ave,B18 - Georgiou Griva Digeni Ave,4
+2026-10-03T18:01:07Z,2026-10-03T21:05:37.812303+03:00,_2,cddc60fde5e2,B18 - Georgiou Griva Digeni Ave,Evagorou Ave,0
