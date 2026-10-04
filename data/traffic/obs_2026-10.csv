@@ -950,3 +950,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-10-04T07:02:38Z,2026-10-04T10:07:46.483268+03:00,_2,732ef6c1b23c,Lemesou Ave,B19 - Omirou Ave,0
 2026-10-04T07:43:01Z,2026-10-04T10:48:10.128541+03:00,_0,248866f2f861,E110,E147 - Archiepiskopou Makariou III Ave,0
 2026-10-04T07:43:01Z,2026-10-04T10:48:10.128541+03:00,_1,e713c7488bdd,Agias Filaxeos,E147 - Archiepiskopou Makariou III Ave,4
+2026-10-04T07:53:07Z,2026-10-04T10:58:16.113017+03:00,_0,da9119f649b1,,Archiepiskopou Makariou III Ave,0
+2026-10-04T07:53:07Z,2026-10-04T10:58:16.113017+03:00,_1,660d388bb733,Lemesou Ave,Archiepiskopou Makariou III Ave,2
+2026-10-04T07:53:07Z,2026-10-04T10:58:16.113017+03:00,_2,732ef6c1b23c,Lemesou Ave,Evagorou Ave,0
