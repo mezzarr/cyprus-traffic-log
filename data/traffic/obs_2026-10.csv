@@ -945,3 +945,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-10-04T06:52:32Z,2026-10-04T09:57:41.314056+03:00,_0,6cfc0b6c5e0c,E110,E110 - 1 Apriliou,0
 2026-10-04T06:52:32Z,2026-10-04T09:57:41.314056+03:00,_1,c0e8d591166d,E110 - 1 Apriliou,E110 - 1 Apriliou,3
 2026-10-04T06:52:32Z,2026-10-04T09:57:41.314056+03:00,_2,f006dd9a6675,E110 - 1 Apriliou,E147 - Archiepiskopou Makariou III Ave,0
+2026-10-04T07:02:38Z,2026-10-04T10:07:46.483268+03:00,_0,da9119f649b1,Pafos,Archiepiskopou Makariou III Ave,0
+2026-10-04T07:02:38Z,2026-10-04T10:07:46.483268+03:00,_1,660d388bb733,Lemesou Ave,Archiepiskopou Makariou III Ave,2
+2026-10-04T07:02:38Z,2026-10-04T10:07:46.483268+03:00,_2,732ef6c1b23c,Lemesou Ave,B19 - Omirou Ave,0
