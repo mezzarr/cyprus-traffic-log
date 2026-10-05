@@ -985,3 +985,6 @@ fetched_utc,publication_time,record_id,geom_hash,street_from,street_to,jam_level
 2026-10-04T14:45:50Z,2026-10-04T17:50:58.794618+03:00,_2,c6e235d3222a,Aglantzia,Archiepiskopou Makariou III Ave,0
 2026-10-04T14:45:50Z,2026-10-04T17:50:58.794618+03:00,_3,6efde239cabf,Lemesou Ave,Archiepiskopou Makariou III Ave,2
 2026-10-04T14:45:50Z,2026-10-04T17:50:58.794618+03:00,_4,732ef6c1b23c,Lemesou Ave,Evagorou Ave,0
+2026-10-05T02:06:47Z,2026-10-05T05:10:57.948855+03:00,_0,98797f8a13d2,,B18 - Georgiou Griva Digeni Ave,0
+2026-10-05T02:06:47Z,2026-10-05T05:10:57.948855+03:00,_1,168ed8997c64,B18 - Georgiou Griva Digeni Ave,E165 - Themistokli Dervi,4
+2026-10-05T02:06:47Z,2026-10-05T05:10:57.948855+03:00,_2,0402120380b1,B18 - Georgiou Griva Digeni Ave,Evagorou Ave,0
