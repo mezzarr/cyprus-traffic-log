@@ -13928,3 +13928,4 @@ utc,feed,error
 2026-10-08T01:29:09Z,traffic,"https://fixcyprus.cy/gnosis/open/api/nap/datasets/waze_traffic/: ParseError: syntax error: line 1, column 0"
 2026-10-08T01:40:17Z,traffic,"https://fixcyprus.cy/gnosis/open/api/nap/datasets/waze_traffic/: ParseError: syntax error: line 1, column 0"
 2026-10-08T01:51:24Z,traffic,"https://fixcyprus.cy/gnosis/open/api/nap/datasets/waze_traffic/: ParseError: syntax error: line 1, column 0"
+2026-10-08T02:02:33Z,traffic,"https://fixcyprus.cy/gnosis/open/api/nap/datasets/waze_traffic/: ParseError: syntax error: line 1, column 0"
