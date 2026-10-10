@@ -14073,3 +14073,4 @@ utc,feed,error
 2026-10-10T22:18:16Z,traffic,https://fixcyprus.cy/gnosis/open/api/nap/datasets/waze_traffic/: HTTPError: HTTP Error 503: Service Unavailable
 2026-10-10T22:29:22Z,traffic,https://fixcyprus.cy/gnosis/open/api/nap/datasets/waze_traffic/: HTTPError: HTTP Error 503: Service Unavailable
 2026-10-10T22:40:30Z,traffic,https://fixcyprus.cy/gnosis/open/api/nap/datasets/waze_traffic/: HTTPError: HTTP Error 503: Service Unavailable
+2026-10-10T22:51:36Z,traffic,https://fixcyprus.cy/gnosis/open/api/nap/datasets/waze_traffic/: HTTPError: HTTP Error 503: Service Unavailable
